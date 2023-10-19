@@ -43,7 +43,7 @@ def remove_time(lines):
     return newline
 
 def remove_speaker(lines):
-    return lines.index(":")
+    return lines.index(":") + 1
 
 #Need to further fix this: verb extracted are not precise
 def action_verbs(lines):
@@ -75,16 +75,16 @@ def process_doc(key, dic):
         newline = remove_time(lines)
         #Check who is talking
         if lines.startswith("<p>CLIENT:"):
-            client.append(newline[: remove_speaker(newline)])
+            client.append(newline[remove_speaker(newline) :])
         elif lines.startswith("<p>THERAPIST:"):
-            therapist.append(newline[: remove_speaker(newline)])
+            therapist.append(newline[remove_speaker(newline) :])
         
         verb, newline = action_verbs(newline)
         if verb != "":
             verbs.append(verb)
         
-    dic['client'] = client
-    dic['therapist'] = therapist
+    dic[key]['Client_Text'] = client
+    dic[key]['Therapist_Text'] = therapist
     
     return verbs
     
