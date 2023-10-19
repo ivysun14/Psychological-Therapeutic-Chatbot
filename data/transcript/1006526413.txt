@@ -1,0 +1,835 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: I only have a certain amount of time today for it.</p>
+
+<p>THERAPIST: Oh yeah? You have 50 minutes.</p>
+
+<p>CLIENT: Nice, all right, great. How about that. I was right.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: For some reason. So I had told you about the test. No, I hadn’t told you about the test yet, how could I, I took the test on Monday, correct?</p>
+
+<p>THERAPIST: You were getting ready to take the two.</p>
+
+<p>CLIENT: Yeah. So I got a B- and a B.</p>
+
+<p>THERAPIST: Nice.</p>
+
+<p>CLIENT: I know, right.</p>
+
+<p>THERAPIST: Good job, man.</p>
+
+<p>CLIENT: Thank you. No, it’s funny too, because like I said, I knew the thing. But what was even more interesting is when I got to the place I realized that there was a table on the forms I have, which is a whole like probability of R=CNR, which just equals N factorial over R factorial minus N-R factorial, right, that whole equation for determining… for instance, if 50% of people in 100 smoke, what are the chances of a group of 15 people that nine of them smoke?</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: Right. So that’s the sort of thing. That’s what it’s for. But it’s so commonly used that all of the common combinations to do it are know, right. So you just plug in N, P and R—NPR—into a… rather N and R and then the [unclear], brilliant, so N, P, R…</p>
+
+<p>THERAPIST: And then you get the probability?</p>
+
+<p>CLIENT: And yeah, it shows all the various probabilities and you just add those up and you’re like, boom, you know.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: But yeah, I know, there it is, those are your chances. And so you can do it, like you say, do it on a calculator, but I’m trying to do it as much by hand as possible, except when numbers are large. I’m not going to sit there and do 9 factorial when I can just press a key and do 9 factorial. You know.</p>
+
+<p>THERAPIST: Yeah, right, right.</p>
+
+<p>CLIENT: I was trying to figure out if there’s a simple pattern I could use just to get them right. Because 4 factorial is 24, right, which is just 4 times 6. Four plus two is six. So I’m wondering like, okay, can you then go a couple numbers back, grab a number, add it to the one you want to factor and just multiply those by the result of… multiply N by the result of that.</p>
+
+<p>THERAPIST: Oh, I see, yeah, yeah. [0:02:15]</p>
+
+<p>CLIENT: And then put it… would that work. And the easy way to start there is like 5 factorial is 20, it becomes 60, becomes 120. And so then you’d have to go 5 and 3 is 15. So 5 and 3 is 8, 8 times 5, no, it’s only 40.</p>
+
+<p>THERAPIST: Doesn’t work out.</p>
+
+<p>CLIENT: Yeah, and if you… Although if you then do 40 by… but no, you still don’t get it. No, you get 120. Five times 40 is…</p>
+
+<p>THERAPIST: Two hundred.</p>
+
+<p>CLIENT: Two hundred, dumb ass. All right, yeah, so there you go. I’m doing math in my head and chiding myself. But…</p>
+
+<p>THERAPIST: And chiding yourself. Yes, yes, that’s familiar, chiding yourself.</p>
+
+<p>CLIENT: Yeah, exactly, yes, that’s as I do. Something I’ve been writing in the books is I’ve been rewriting scenes, because I’m like, ah, these are better, need to be expanded upon. So I’ve had this whole scene written out a while ago where it’s the two main characters and one of them is wounded, the other one’s defending the other against someone who’s actually much better. But they take… if there’s both of them they could definitely take the guy, but given the situation they’re very lucky to lose. And so one of them gets very badly injured and he goes down, the other one just barely managed to like pull it out before passing out with serious concussions and very badly hurt. It had kind of like an after effect of like… Oh, then Bethany the Wizard, she comes in, she like helps them all out after they kill the guy and the whole thing. [0:03:50]</p>
+
+<p>And Ginny said, she’s like, “The wizard just kind of like a plot device. Like she just kind of shows up as a deus ex machina, kind of off scene.” She’s like, “So…” I’m like, “Yeah, I’m gonna write more from her point of view, like because of the way she sees the world is different. She sees matter wherever she goes, and so she sees connections between things, and just sees the world in a way the other characters don’t. So I get to write about that, I get to write about this whole scene where they’re getting drunk and they’re all… because after they’re celebrating [unclear]. So I don’t even know what it is yet, I’m writing them out of order, so I’m just doing a scene where they’re all getting drunk together, and it’s from Bethany’s point of view, and she’s, just for the fuck of it, she’s like casting like detects poison, just for fun on her drink [unclear]. But then she’s like alcohol is some level of poison. And so like she’s like all three of them [unclear], she’s just laughing because of course it’s poison [unclear] so it’s alcohol. They’d be like, “Why are you laughing? Why are you laughing?” She’s like, “Oh, we’re all poisoned, every single one of us.” And just the funniness of that moment.</p>
+
+<p>THERAPIST: Hm. [0:05:00]</p>
+
+<p>CLIENT: Exchange, they go back and forth. And it’s one of the scenes where it’s made more clear that Erin and Maggie live together, you know, that they have one place. And as it goes on other things are subtly made clear. Like when Erin’s packing up to go she’s feeling over the side of the bed, now the bed is too big. That’s just sort of a thing she thinks. And so there you go, it’s like I figure I can write a love story without trying to write lesbian sex scenes because I don’t know where to start. Apparently I could watch Blue is the Warmest Color just like a primer, you know, like every possible combination. I watched the lesbians reacting to the sex scene in Blue is the Warmest Color, it was really interesting.</p>
+
+<p>THERAPIST: What did they say?</p>
+
+<p>CLIENT: Basically it was like, “That’s a very good display of all the usual ways in which women have sex with each other.”</p>
+
+<p>THERAPIST: Is it? Oh.</p>
+
+<p>CLIENT: Yeah. And they’re like, “Was it hot?” And they’re like, “Oh yeah, and it was totally hot, yeah.” You know.</p>
+
+<p>THERAPIST: Mm hm.</p>
+
+<p>CLIENT: As opposed to the other one I’ve seen which is women react… lesbians reacting to lesbian porn, as in lesbian porn made for men. And just it’s amazing, it’s this constant flow of like [unclear], and she’s like, “She called her bitch. That’s not hot. What the fuck?” [overtalk]</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: And it’s like, “Nah, no, nobody… I would never let anyone to do that to me.” And like, “Look how she’s moving her hands. Like she can’t make a woman cum like that, like it’s never gonna work.” She’s like, “You gotta think of shapes and continuous motion and repetition.” And I’m sitting there like, “Thank you, that’s all very good information.” You know, I mean… But you have to know this going in. You have to be like, oh, this is lesbian porn, this is not how women have sex with each other. It’s not how men and women have sex with each other, right, it’s like it’s porn, it’s art. You know, it’s like here are the various shapes we can make with our bodies so you can see all the [unclear] bits in different combinations. [0:07:00]</p>
+
+<p>THERAPIST: It’s for me to view.</p>
+
+<p>CLIENT: Yeah, exactly. And for some women.</p>
+
+<p>THERAPIST: For some women, yeah.</p>
+
+<p>CLIENT: You know, some of the comments are like, “Oh, my wife and I love this,” or my husband and I love this, or you know. So it’s like okay, yeah, most of the people out there that… Yeah, but it’s meant to be viewed. It’s meant to be viewed, it’s not meant to be realistic. Although there are some places that are female run that are like that. Like, “No, no, we found these two hot women here who like want to have sex with each other so they’re going to just do that, and we’re going to have some cameras on.” And you’ll be like, “Oh, this all seems much realistic, that’s interesting.” You know. Yeah, so… [pause]</p>
+
+<p>So anyway, so I can write a love story without writing sex scenes. Or needing to address it really. But… Hey, but they’re in love, you know, so what am I gonna do? That’s just how it turned out. Those crazy kids. And I hear that, I hear writers talking about like, “Oh yeah, I didn’t realize the characters were gonna do that and then they did,” and I’m like, that’s a weird thing. Then I’m writing, I’m like, oh no, I totally see what you’re talking about now. Like these are the people I’ve created, these are decisions they would make.</p>
+
+<p>THERAPIST: They’re coming out of their own kind of life.</p>
+
+<p>CLIENT: Yeah. And that’s why I’ve had to like rewrite and change some of this stuff, because the stuff I’d originally written doesn’t really fit with who they become as I’ve written more. And so in the rewrite I have essentially Maggie does save Erin to a degree, but then like not… you know, doesn’t win the fight, and then [unclear] spent, she’s given her best. And that’s a lot of… you know, the theme of it is like these are people giving their absolute best in a terrible situation. And it is not enough. And Maggie feels like it, because it’s always been her Erin against everything. To the point where she forgets that the wizard is still a factor and the wizard shows up at the end. Then I actually have a fight scene between the wizard and the bad guy as Maggie passes out and as Erin with broken ribs and a bunch of like cuts she’s bleeding from is trying to get through… trying to get back in the fight regardless. [0:09:20]</p>
+
+<p>But I get to introduce like what I… like with my magic system there is… because I have… you know, every [unclear] has some rule about how their magic works in their universe writing. And I’ve designed my own per game so that I like… like taking bits and pieces from other stuff. But what I find is more unique to mine is this concept of cost, right, is the [unclear]. And the concept of their being cost to magic is not new. Like it takes energy to do it, or it takes [unclear]. You know, there’s always some sort of thing it takes to do it. But it pulls from you essentially, like the power you are capable of pulls from you. And everything you have to pay for with some sort of price. And then dark magic is when you make someone else pay the cost for you. It’s like human sacrifice, where you harness their terror and their pain as like this credit that you can use later.</p>
+
+<p>But I have this thing where it’s all a basic standard spells the wizards know, right. They’re like, “Yeah, these are the things we know how to do. We like throw lightning bolts around and shit like that and whatever. And we practice that stuff.” But there is a talent if people have it where they can actually speak magic. You know, the magic they use is kind of this refined like codified, “Here’s how you throw a lightning bolt. But we’ve practiced it enough that like you can just… if you focus in a certain way, like it’s an easy enough trick to do as you throw it away.” Well, whatever. And so yeah, you’re good at that. But they guy is… he’s like warded against making such simple spells so all the shit’s bouncing off him. So she needs to speak magic at that point, which is like this raw sort of thing. The price for it is that it actually hurts you. Like she’s speaking… she’s using fire to like burn through this sort of shield he has, this ward that exists. But she’s speaking fire as she does. So she starts to speak the words “hot”, right, this hot breath that comes through. As she continues to intensify the effect like it starts to blister her lips, you know, as the words come out hotter and hotter. Eventually to the point where she actually chokes on that, that they’re too hot. And which cuts off the supply at that point. At which point he gets to come back at her.</p>
+
+<p>THERAPIST: But she’s using that to injure…</p>
+
+<p>CLIENT: To over… Yeah, exactly, overpower like his defenses and then kill him.</p>
+
+<p>THERAPIST: But she starts to get hurt because of the fire… the heat of it. [0:12:00]</p>
+
+<p>CLIENT: Right, exactly. And it’s the price for doing… for drawing more power, right. If you’ve codified these things they take less power to do, right. The more clearly they’re understood, the more specific the effect, the easier it is to do, it costs less from you.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: You know. But just sort of like just tapping into the fire hose essentially, you know, of just the torrent of power that exists, the universe, you know. But you have to pay for it. And so she can’t speak fire anymore, she’s passed through kind of the limit for being able to do so. And so it ends with him as her—we’re all wizards—that up against her throat against the wall and he’s just mocking her, he’s like, “All three of you are just like…” Like, “You did your absolute best, didn’t you?” Like, “This was… You gave it everything you had.” And like…</p>
+
+<p>THERAPIST: It wasn’t enough.</p>
+
+<p>CLIENT: It wasn’t enough. It wasn’t enough. And so he’s really trying to crush her, and she can’t… she can barely speak above a whisper. But you think of thing as the next words she speaks don’t need to be load, they just have to be sharp. And so she’s whispering these words that are slicing her mouth open from inside, like the tones are cutting her lips and blood is coming out. And this all happens very quickly, and he’s realizing what she’s doing, and then she just screams because her jaw just shatters apart into tons of pieces.</p>
+
+<p>THERAPIST: Wow.</p>
+
+<p>CLIENT: Her skin stretches. Basically her like teeth twist and turn into fangs and just [slicing sound] slice the front of his face off. And it’s like he has time to… he has a moment… he has just a moment to scream when he knows he’s about to die. You know. And then she closes… then she, you know, bites down hard. And…</p>
+
+<p>THERAPIST: But at the expense of her own face and mouth?</p>
+
+<p>CLIENT: Right. And which starts to like heal itself back, but like the… she has to…</p>
+
+<p>THERAPIST: Oh my God.</p>
+
+<p>CLIENT: Yeah, she’s like, I have to go through this pain in order to achieve this effect, this thing. There’s no spell for making her mouth bigger and [chewsing?] his face off, she had to make them up on the spot, and so she had to… So she’s… as her face comes back she’s spitting out pieces of his face, and eyes and stuff, and like…</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: And there’s blood pouring from her mouth, you know, and her jaw’s sore as it goes back into place. But that’s what I like, I like the concept of someone like willing to pay that cost, you know, and be like, well…</p>
+
+<p>THERAPIST: It’ll rip me apart, but it’ll…</p>
+
+<p>CLIENT: Yeah, but [overtalk] I’ll win.</p>
+
+<p>THERAPIST: … you’ll save me?</p>
+
+<p>CLIENT: Yeah, but then I’ll win. And it’s more of like, “No, this is the best I can do.”</p>
+
+<p>THERAPIST: Wow.</p>
+
+<p>CLIENT: Which I like. You know, it’s like, “That was the best?” Like, “No, I’m willing to go a lot farther.” A lot further, rather. Than you thought it was.</p>
+
+<p>THERAPIST: Yeah, I think it’s an interesting point about… in each case it’s somebody saying something that’s ripping them apart. [0:15:00]</p>
+
+<p>CLIENT: It’s interesting, yeah. Words have a lot of power in them.</p>
+
+<p>THERAPIST: Yes. Yeah.</p>
+
+<p>CLIENT: And it’s funny, because something that Bethany keeps thinking about as she goes, like the guy’s one of those like mocking witty banter guys, and as she’s doing things she keeps… originally she’s like, “I wish I were better at this witty banter stuff.” So like, “Erin and Maggie can just do this,” she’s like, “but I’m… see, I need to think about magic.” And she’s like, “I’m not funny like that.” Like those are things that like she would think about as she goes. But yeah, that’s one of the things about her. She’s actually writing a book. She’s the Watson of the group, she’s actually writing a book. [unclear] no end. It’s like we are in serious business here and we’re writing a book about it. And…</p>
+
+<p>THERAPIST: Yeah, yeah, the… well…</p>
+
+<p>CLIENT: And so she’s always asking questions like, “Hey, so how did it… what was it like when like you smacked your head against the wall? You know, I need to talk about that so I can write it down.”</p>
+
+<p>THERAPIST: Well, isn’t that… that’s an interesting dynamic though between Sherlock and… well, Holmes and Watson, is that…</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: … Holmes is always in the midst of something…</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: … kind of like a crisis of some sort, and Watson’s always a step out of it.</p>
+
+<p>CLIENT: Yeah, observing.</p>
+
+<p>THERAPIST: Observing.</p>
+
+<p>CLIENT: But yeah, he can process it into words.</p>
+
+<p>THERAPIST: Yeah. Yeah, he’s not the hero, but he’s not in danger… in peril.</p>
+
+<p>CLIENT: Yeah, he’s the chronicler.</p>
+
+<p>THERAPIST: He’s a chronicler, yeah.</p>
+
+<p>CLIENT: And he starts out as a chronicler. And in the British version of it he’s partners, the first time they actually have Watson as a full grown effective member of the team.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: He can play his own role.</p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: There is still that separation, but something that I wrote about when I was in [unclear] to make women cry was that one of the things Watson loved about Sherlock, where that there were parts of him only he can see. And that somehow seeing those parts of his, the special parts of Sherlock, somehow made him special as well. And that his own feelings of self-worth were linked very tightly to his relationship, his unique access to this amazing human being.</p>
+
+<p>THERAPIST: Mm hm. Never can be him, but…</p>
+
+<p>CLIENT: Yeah, but… but can know him better than anyone else.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: So I thought that was lovely. Yeah, that’s what I write about. Words.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: There’s a lot of thought in…</p>
+
+<p>THERAPIST: Fire.</p>
+
+<p>CLIENT: Fire, fire is easy. Everyone uses fire. Fire’s primal, it’s one of our first things, you know. Something that separated us, you know, from everybody else. All of a sudden we could live for the night. [0:18:00]</p>
+
+<p>THERAPIST: Isn’t that what happens in Minecraft, that you would build a fire?</p>
+
+<p>CLIENT: Yeah, you need light or the monsters come. And the monsters are always spawning in the dark and you need, that is so important. And I like to live dangerously in Minecraft, I don’t build like… I build like walls to keep them… the majority of the things, but there’s open spaces in the walls, I don’t build giant gates to go through. And I just set up areas which, you know, should keep monsters from spawning inside the walls, but that doesn’t mean that every now and then a monster doesn’t wander in. And there’s no one else to kill this, you know. Whereas Victor and many other people play the fortress mode, they’re like, “All our doors are made of iron. And they need like buttons to be pressed to open them. And it’s only open for a brief period of time, you’ve got to rush through,” you know, all these other things. “And we have just torches all over the floor, and it looks like shit, but whatever.” And I’m like, “You don’t need to do that, monsters can’t spawn on half slabs, so just make your floor of half slabs, and then light it aesthetically.” You know. Monsters can’t spawn on leaves, so I have an underground tree garden where it’s harvesting leaves and use those as the floor for my entire area. And like, you know, now I have some light, that’s just for effect. Carpets now, so you can just like dig a hole in the ground, put a jack-o’-lantern in the ground which gives off 16 light, and put a carpet over it. Carpets don’t block light sources, and so it looks much better.</p>
+
+<p>THERAPIST: Then having like a…</p>
+
+<p>CLIENT: Then having like those… like an orange block in the middle of your floor, you know, giving off light. And I’ve just created basically a stone floor, cut a couple holes in and throw some jack-o’-lanterns, then throw a red carpet over most of it. You had this nice little… it was a nice little hut, you know. And I’d have this polished [unclear]. Hardest thing. [0:20:00]</p>
+
+<p>But yeah. And like I’ve been working on a project of connecting all the various zones. There’s… And I’ve got visibility to build a portal to the Nether, which is a realm that is eight times smaller than the regular world, so that you’re taking one step and the others are taking eight steps and you overrule. So you can build these gates and link them through the Nether and travel great distances in greatly reduced periods of time. And so since we’ve built all over the map various places I’m now building these gates and connecting them with like really safe railways through the… through Hell essentially. Which [isn’t hampered?] by like these flying demons that throw fireballs at you and these… all sorts of various creatures. So I love creating safe passage through Hell so [noise]. It’s all useless information.</p>
+
+<p>But I’m going to math today right after this. I’m going to go over my two tests and be like, okay, let’s just… show me what I got wrong so I know how to do this better.</p>
+
+<p>THERAPIST: And the B was in the mid-term.</p>
+
+<p>CLIENT: The B was in the mid-term. The B- was my retake of the 4 to 6. Of the 4 to 6, yeah. The professor came in while I was doing the test, he was like, “How are you doing?”</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And I was like, “Oh, I think I’m doing pretty well.” He was like, “Okay.” I was like, “And I take the mid-term right after this.” He was like, “All right. Great.” And I was prepared to fail the mid-term that day. I didn’t think I was going to because I was going to go… had just done a bunch of it. And a lot of the other stuff I’m like, I can probably remember a lot of the early stuff. Except there was like an Ogive. It’s like, “Make an Ogive.” Which is this weird sort of graph that… it’s a line graph that’s not just a simple line graph.</p>
+
+<p>THERAPIST: Ogive.</p>
+
+<p>CLIENT: Yeah. It’s like this… And like I can’t think of a reason why I would use this chart. It’s just one of those things that like, “Here’s something you should know what it is because someone did it.” [0:22:00]</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: You know, it’s a way of displaying data. I’m like, “This is not a good way.” It’s like stem leaf data. “Here you go, stem leaf data.” Like this is also not a particularly useful way to present data.</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: But I have to know what it is for some reason.</p>
+
+<p>THERAPIST: Yeah, you rarely see data presented stem and leaf style.</p>
+
+<p>CLIENT: Yeah. Right. There’s almost no reason for it.</p>
+
+<p>THERAPIST: Yeah. Yeah.</p>
+
+<p>CLIENT: At least I can’t think of one. Considering that statistics is all about reducing any object or group of objects into one number that can then be compared. You know?</p>
+
+<p>THERAPIST: Mm hm.</p>
+
+<p>CLIENT: Or to assess risk based on large number theory, you know. And it’s like there’s a five percent chance this thing will happen. Which means it’s gonna happen at some point. You know, the longer you do this the more likely that it’s going to happen.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: How bad is it if that happens? Like can we deal with it? It’s like, “Yeah, it’ll be messy, but we can deal with it.” Well then okay, then let’s just be prepared for that eventuality and keep doing what we’re doing, because eventually that’ll go wrong.</p>
+
+<p>THERAPIST: What were you thinking, what example were you thinking of?</p>
+
+<p>CLIENT: Fuck, I don’t know, some process, or some like other thing. Where that’s like a greater thing. Like, “What happens if this happens?” “Oh, well, the power plant blows up.” “Okay. Well, then we need to not being this.”</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: I’m like, “We need to find a way in which we have 100% accuracy. Or just not do this at all.” Because a five percent chance that you can nuke your own town is far too high.</p>
+
+<p>THERAPIST: Yeah, it’s too risky.</p>
+
+<p>CLIENT: [laughter] It’s a little too high.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: It’s one out of twenty, that’s [not so nice?]. [Put 20 GD?]. Oh, no, critical hit! Yeah. It’s not though, it’s not a big deal. Yeah, they’re doing probability, I’m like, “That’s the D&D [Dungeons and Dragons] math. Easy. Yeah, I can do D&D math. [0:24:00]</p>
+
+<p>THERAPIST: So how much does the mid-term count?</p>
+
+<p>CLIENT: The mid-term… each mid-term counts for 10% of the grade. All the other tests combined count 60%. So right now I have an A-, a 34, and an 81.</p>
+
+<p>THERAPIST: An 81, and then the…</p>
+
+<p>CLIENT: Yeah. So a 92, 81, and 34. And then the mid-term I just got maybe [a four?] on. So…</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: Oh, and plus like the other 30% of the grade is attendance.</p>
+
+<p>THERAPIST: Oh, okay. Okay.</p>
+
+<p>CLIENT: So…</p>
+
+<p>THERAPIST: What does that even… just how many times you check into the lab?</p>
+
+<p>CLIENT: Yeah, I need to be there three hours a week. Or three hours per week total. So 45 hours by the end of the semester. If I manage to finish a week early he doesn’t give a shit and he gave me full credit for attendance.</p>
+
+<p>THERAPIST: And you get to… didn’t you say you get to drop one of the tests? Is that right?</p>
+
+<p>CLIENT: Yeah, that’s what I did, because I took a strategic F. That 34 is a strategic F.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: If you don’t get a 70 you have to take it one more time before you can take the next test.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: So I got a 34, and I was like, but I need to take… I’m out of time, I need to take the test 3 today or else…You know, or else.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: But I don’t have time to do both. So I’m like, yeah, I was like, “Just give me a zero.” And he’s like, “Are you… you don’t want to take it again?” I’m like, “No, just give me a zero.” It’s like, otherwise hand me test and I’ll hand it right back and say those are my answers. Like or you could just write a zero. Then he’s like, “Yeah, I know, I’ll just write a zero.” And then I went and got a 46. And he’s like, “What the fuck is this guy thinking?” You know. Like he gets… so he’s taken… he’s assured himself an F on this second test, and he’s taken the third test and he’s gotten like a D-. No, that’s right, it’s still an F. It’s still an F.</p>
+
+<p>THERAPIST: But you get to take that again if you want?</p>
+
+<p>CLIENT: Yeah, but [I’ve only?] got to take it again. So I was like, this is strategic. Like I’ll fail this because there’s no time and it doesn’t matter.</p>
+
+<p>THERAPIST: Okay. [0:26:00]</p>
+
+<p>CLIENT: One failure’s not going to kick me out of the course, right. And I’m like, and I’ll take this one today and do poorly, but then I get to take it again and I’ll just do better.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Which is what I did. So ta-da.</p>
+
+<p>THERAPIST: Yeah. Well, good. Yeah, so the 34 will count, but it just won’t weigh that heavily because you get all this other…</p>
+
+<p>CLIENT: Yeah, it’s just one of…</p>
+
+<p>THERAPIST: Well, good.</p>
+
+<p>CLIENT: It’s one of like ten tests. One of ten tests.</p>
+
+<p>THERAPIST: And then you’ve got 30% that you’ll just… yeah.</p>
+
+<p>CLIENT: That counts as an A, you know.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Yeah, so. And then the other 20% are mid-terms, and as long as those are B’s—so it’s a mid-term and a final—as long as those are B’s or higher, I mean, that’s fine, that’s just 20% of the grade [overtalk].</p>
+
+<p>THERAPIST: You basically already have a 45… 45 points towards your hundred.</p>
+
+<p>CLIENT: Yeah. It’s 48. Forty-eight’s what I have.</p>
+
+<p>THERAPIST: Because you got a…</p>
+
+<p>CLIENT: Yeah, for the totals. They showed me the grades, they’re like…</p>
+
+<p>THERAPIST: You’ve got 40 already.</p>
+
+<p>CLIENT: “Yeah, for your tests you have a 48%.” I’m like, “Great. Fantastic.”</p>
+
+<p>THERAPIST: Oh, I see. All right.</p>
+
+<p>CLIENT: Yeah, they’re like, “But based on your tests alone you’re getting a D+ right now.”</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: And not…</p>
+
+<p>THERAPIST: But that doesn’t even count the 30% attendance.</p>
+
+<p>CLIENT: Right. Exactly. Exactly. So like the grades thing isn’t very useful, it’s just like, here’s what you got on each test.</p>
+
+<p>THERAPIST: Oh yeah, I get it.</p>
+
+<p>CLIENT: Yeah. And the funny thing is like I can calculate the weighted average, I can sit down and just be like, du-du-du-du. And I can then calculate, you know, by using…</p>
+
+<p>THERAPIST: Exactly what you need to [pass?].</p>
+
+<p>CLIENT: Yeah, a systems equation. It’s like exactly what I needed for a minimum on each test, you know…</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: … to pass with a C.</p>
+
+<p>THERAPIST: Did you like… how do you like the material?</p>
+
+<p>CLIENT: I like the material.</p>
+
+<p>THERAPIST: You did.</p>
+
+<p>CLIENT: I liked it a lot, especially once I realized that like this math is so [wrong/long?] to be by hand that we just did it already. So you just plug all this in. And…</p>
+
+<p>THERAPIST: Oh, okay. Yeah, that’s the table you were referring to?</p>
+
+<p>CLIENT: Yeah. And I’m like, really it’s about… I just like that. It’s like, okay, in N (the number of trials) how many R (successful trials) will you get? You know. And yeah, that’s going to be the coefficient of two numbers based on the probability you want. Yeah, so there you go.</p>
+
+<p>THERAPIST: You’re halfway there. [0:28:20]</p>
+
+<p>CLIENT: Yeah, yes. I have a test on Monday on the first half of chapter 6, so.</p>
+
+<p>THERAPIST: What’s 6 on?</p>
+
+<p>CLIENT: Outliers in binomial distributions on curves.</p>
+
+<p>THERAPIST: Uh huh. Yup.</p>
+
+<p>CLIENT: And standard deviations. [Then I’m?] reading a bell curve and there’s standard deviations in a bell curve. And if something’s outside three standard deviations like why? You know, that’s something worth looking at, how did it get there?</p>
+
+<p>THERAPIST: Yes, right, yeah.</p>
+
+<p>CLIENT: You know. Because that’s way off what we expected. Whereas [with?] one standard deviation where you go, “Yeah!” That was fun.</p>
+
+<p>THERAPIST: Oh yeah, right.</p>
+
+<p>CLIENT: That was fun. Two, you’re like, “Well, that’s interesting.”</p>
+
+<p>THERAPIST: But outside of three, right.</p>
+
+<p>CLIENT: Outside three, yeah. Because that’s 0.003% that it could be outside…</p>
+
+<p>THERAPIST: If it’s three standard deviations away or more.</p>
+
+<p>CLIENT: That if something’s… yeah. Because three standard deviations is always 99.7%.</p>
+
+<p>THERAPIST: Mm. Okay, right.</p>
+
+<p>CLIENT: You know. Away from the core number, you know.</p>
+
+<p>THERAPIST: Right. The mean. Yeah, the mean, right.</p>
+
+<p>CLIENT: The mu. The mu. Yeah. And it just means the mean. And I think it’s funny that they have…</p>
+
+<p>THERAPIST: The mu is what the excavated mean.</p>
+
+<p>CLIENT: Yeah, it’s the expected number of the population.</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: You know. Whereas the mean is the expected number of the sample. Which seems like a trifling distinction considering the formulas are exactly the same.</p>
+
+<p>THERAPIST: Mm hm.</p>
+
+<p>CLIENT: You know, so. Still. But I ask and I’ve sat down with the tutor, and I was like, “I have a couple questions on like decimal points. You guys are giving answers in all different levels of decimal points. You never go beyond four, but how many am I supposed to know?”</p>
+
+<p>THERAPIST: Yeah. Yeah, yeah. [0:30:00]</p>
+
+<p>CLIENT: And he’s like, “Three significant digits.” And he’s like, “If the first number is zero it’s not significant, so you can [throw out?] the four.”</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: Yeah. And he’s like, “It’s a very, very, very, very small…” He’s like, “You just…” You know, three zeros, and then like the last number is a 1. And you just… this is how you [bring it?] 0.0001.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: And that’s the only thing that’s significant. Like it’s that tiny. You know. Instead of going to scientific notation, he’s like, fuck it. It’s [unclear]. So I’m like, “Okay, fine.” And I like that about statistics and math in general, is like there’s points at which we can just say, “We’re just gonna do this with the numbers because we know we’re allowed to.” Like in calculating standard deviation. It’s like, okay, so you know we subtracted the value from the expected value and got some negative number in most cases. But to be easier to work with we’re just gonna square all that. And we’re gonna add all those things up. And then we’re gonna say the standard deviation is the square root of that sum. And boom, it’s back to what we need it to be. But it’s positive now and it has to be positive.</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: You know, so. These little tricks you pull to manipulate numbers into the form you want them to be so you can work with them. As Sharkey said one day, he’s like, “Eighty percent of statistics are made up and fifty percent of people know that.” [laughs] That’s great. That’s great, it’s funny. Yeah. But what it does let you do is just [so clearly?] look at stats, and like, well, what does that actually mean?</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: It’s like, “Seventy-five percent of people polled…” Like, well, what’s your sample size and where did you poll? You know. [0:32:00]</p>
+
+<p>THERAPIST: Yeah, totally.</p>
+
+<p>CLIENT: “Seventy-five percent of people” tells you nothing, right. You know, and so you need to ask [overtalk].</p>
+
+<p>THERAPIST: Yeah, you start to ask questions.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: And look at it with a critical eye.</p>
+
+<p>CLIENT: Right. Exactly. And there’s more complex things. You’re like, okay, these many people polled out of hundred saw the TV ad for this. Well, you know… so it’s 75 out of 100 saw the ad. And we know that of those 75, 32 of them bought the product. And then from the table then they’re asking you to figure out the various probabilities. You know, it’s like, what’s the probability that someone saw the ad, bought [this product?] given that they’d seen the ad.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: And you’re like, ah, this is useful information, right.</p>
+
+<p>THERAPIST: Yes, right.</p>
+
+<p>CLIENT: This is sort of tracking. And I think that’s what I love about statistics, it’s all about the questions you ask. It’s all about are we asking the right questions? Like what are we looking at? And that’s what I love about it! That’s why like I want to get into, you know, stats analysis stuff. It would just be like I think I would ask really good questions. I think I would… I think many people probably asked a lot of excellent questions already. But I think standing on the shoulders of giants essentially…</p>
+
+<p>THERAPIST: That’s right, yeah.</p>
+
+<p>CLIENT: … you’d be like, “Oh, you mean I can ask other questions?” You know.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: “Look at this. What’s this, and what about this, and these numbers, I can see…” I’ve always known that numbers can move, but before they used to swim. And now they’re starting to float.</p>
+
+<p>THERAPIST: Hm.</p>
+
+<p>CLIENT: You know.</p>
+
+<p>THERAPIST: Yeah, what do you mean by that?</p>
+
+<p>CLIENT: Well, they would just, you know, swim off on their own direction, okay. Now they just kinda started to float in place.</p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: Like I’m just kinda beginning to…</p>
+
+<p>THERAPIST: More manageable or something?</p>
+
+<p>CLIENT: “Ah, okay. Now I can move this here and I can move this here,” and like, you know.” As opposed to this morass, you know.</p>
+
+<p>THERAPIST: Ah, interesting. Right.</p>
+
+<p>CLIENT: You know, chaos.</p>
+
+<p>THERAPIST: Uh huh, yeah.</p>
+
+<p>CLIENT: And it begins to form more clearly.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And there’s things I still… It’s still right there, I can still see it. Well, this one is more faded. That was about the plan. But, I mean, this one here is still… And this… whatever these were those are long gone. [0:34:00]</p>
+
+<p>THERAPIST: Uh huh. What, these thoughts…</p>
+
+<p>CLIENT: The ones I’ve locked into position here, yeah. No, there’s one there too. But like, I mean, I’ve scattered this whole area with things as we’ve been here, you know, so.</p>
+
+<p>THERAPIST: Huh, is that right, yeah?</p>
+
+<p>CLIENT: Yeah. You know, just over the course of all the visits. It’s like I usually put them [up here?].</p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: But sometimes like I need to put those there, so.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: And I mean, it’s like my thoughts are superimposed on reality, right.</p>
+
+<p>THERAPIST: They stay?</p>
+
+<p>CLIENT: Uh huh, yeah. I mean, they’re still there.</p>
+
+<p>THERAPIST: Oh, geez.</p>
+
+<p>CLIENT: [laughs] You know what I mean, so. But only while I’m sitting here, and there’s something I can remember, yeah, there’s these two things I really wanted to talk about, so I lock them in place.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: You know, and…</p>
+
+<p>THERAPIST: It’s almost like, yeah, it’s some kind of external to do list.</p>
+
+<p>CLIENT: Yeah, it’s the more senses you use, right. And use sight.</p>
+
+<p>THERAPIST: If you image you can remember.</p>
+
+<p>CLIENT: Yeah, the imaging. There’s a whole magic system in the book based on imaging, right, which is you image an object and force it into being.</p>
+
+<p>THERAPIST: Huh, that’s there?</p>
+
+<p>CLIENT: Yeah. But they do other things, like where they imagine invisible objects, you know, that like are shields that essentially float around them. You have to imagine invisible objects that allow air through. And it’s just, you know, it’s very complicated and that sort of thing. And like the fight scene in the end of the book is just between this one imager and another imager who’s trying to assassinate this king, and they’re both imaging poison out of glasses into other things and like trying to track with where’s the poison going, and they’re looking for the gentle disturbances in like liquid levels in bottles and cups that they showed that like something’s been imaged, you know. And that’s the entire thing, is trying to figure out like where is the poison.</p>
+
+<p>THERAPIST: So the liquid will be displaced if…</p>
+
+<p>CLIENT: Yeah, exactly. Where is the poison, you know, where can we put it.</p>
+
+<p>THERAPIST: Ah.</p>
+
+<p>CLIENT: And it’s a very clever… clever little thing. Yeah, you know, like he gets assaulted by his other two students early on and he images lye into the guys eyes, just imagines that there’s lye in his eyes. [0:36:07]</p>
+
+<p>THERAPIST: Oh, the chemical.</p>
+
+<p>CLIENT: The chemical lye. And so his eyes are burning. I’m like, “See, that’s how you do it, man. Like that’s how you fight if you can imagine shit.” And of course he’s one of the better ones, none of them can do it to that level of [the law book?]. And he gets a clever magic system, or the… [] sometimes just wants to write about like courtship customs. And he always wants to write about food, what everyone’s eating. So that’s… every meal is very well defined, described.</p>
+
+<p>THERAPIST: This is the writer, is that right?</p>
+
+<p>CLIENT: Yeah. In all his books, yeah. And the customs, he’s very… he’s very invested in the day-to-day lives of his characters. Right, you know. There’s a whole chapter where he just sets up the fact that this guy is going to build this particular staff out of a particular piece of tree he found. Like first he’s like setting up like tools, and like setting up a shop for it, and just like… And then he has lunch, you know, and what’s that like, and blah, blah, blah. And then every now and then some element comes in, it’s like, “Oh, this is a fantastic element. Okay, we’ll have to deal with that eventually. But in the meantime I’m working on this forge I’m doing, and like I’m tending sheep,” you know, whatever. So good books, but sometimes you’re like, “I don’t care about the day-to-day life of this particular [overtalk].”</p>
+
+<p>THERAPIST: No, no, no, right, yeah.</p>
+
+<p>CLIENT: Like it’s boring.</p>
+
+<p>THERAPIST: Yeah, isn’t that the… that was like criticism of F. Scott… or I guess people liked it about F. Scott Fitzgerald, the [overtalk].</p>
+
+<p>CLIENT: What, the food? Or the…</p>
+
+<p>THERAPIST: Well, how much he would go into…</p>
+
+<p>CLIENT: The detail [overtalk].</p>
+
+<p>THERAPIST: … great detail about something that seems, you know…</p>
+
+<p>CLIENT: Sort of innocuous or…</p>
+
+<p>THERAPIST: … like what kind of tie a person was wearing.</p>
+
+<p>CLIENT: Right. Yeah, sure, like [dividing them up?]. Whereas I’ve done very little to describe my characters. You know they’re women. I have images of them in my head. There’s been reference to Erin having a braid, you know, and her hair is dark, right. We know that just from things that are said that like Maggie wears various forms of metal armor. [0:38:15]</p>
+
+<p>THERAPIST: But yet there’s not a clear image of what they…</p>
+
+<p>CLIENT: It’s not their image. I mean, I like that because Glen Cook does that, and he’s one of my favorite authors, who in his book series The Black Company, it’s told from the point of view of the chronicler, his name is [Kruger?]. And his job is for this mercenary company he keeps track of the history, he writes down all the stuff that happens. So the books are basically just his journal of everything they’re doing. And he doesn’t describe people. He will occasionally give one trait, like The Lady, this powerful sorceress known as The Lady, you know that she’s beautiful and you know that she has black hair. That’s it, that’s the only thing you know. You know that there’s a guy named One Eye. [You know, it’s like everything?], well, [if I’ve?] only got one eye, you know?</p>
+
+<p>THERAPIST: But yeah, no… there’s not a clear… he leaves it up to the imagination.</p>
+
+<p>CLIENT: Yeah. And he never talks about himself much, so he’s written no qualities of himself. So you have no idea what the main character looks like.</p>
+
+<p>THERAPIST: Uh huh, uh huh.</p>
+
+<p>CLIENT: You know.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Until much, much later in the series when people have thought he’s been dead and someone else is writing the story. And they find him, and it’s like he had his same old familiar face, and you get like an image finally of what this guy looks like. And it’s an interesting choice he made, because at that late point in the story it’s like, “Well, we’ve had our own image, like why are you telling us what you think he looks like?” You know. I’m like… But I suppose at one point he does reference that he’s not pretty.</p>
+
+<p>THERAPIST: But that’s about it, huh. [0:40:00]</p>
+
+<p>CLIENT: But that’s about it, yeah. Yeah. But so I’m doing a similar thing. Like I just want to like be, here are a few broad strokes of what they look like, and fill in everything else yourself. Because in my mind if it’s a successful young adult trilogy and then make a movie, and I get to be all, “Look, I set it up so you can be ethnic.” You know, you can cast any ethnicity as any one of these people.</p>
+
+<p>THERAPIST: Mm. Mm hm.</p>
+
+<p>CLIENT: I’ve written a world without race or gender inequality, so like whatever. You know, I can just write characters and emotions and… Yeah.</p>
+
+<p>THERAPIST: So if somebody wanted to make a movie they could just do whatever they wanted to do.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: In terms of casting.</p>
+
+<p>CLIENT: Right, that would be my one thing, is I want input on casting. I want detail rights on the casting. I promise to be reasonable, but we’re not casting Tom Cruise as the main character. She’s very clearly a woman. You know. That’s something I like doing, is people don’t write a lot of fantasy about women. Unless it’s like some special thing. You know, it’s like, “Oh, she is the special lady who knows how to use a sword.” Like, “Oh, the special lady who knows how to use a sword. That’s so unconventional.” I’m like, “What? Why are we even bothering with this?” In a world where people have magical, fantastical, heroic powers, like that’s the equalizer, right. And your ethnicity, your gender, nothing has anything to do with what you are capable of.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: It’s like if you’re a wizard who the fuck cares what color you are, what bits you have, you can fucking wield fire from… you know, like a tool. And who cares if anything else if you have these other… if you had all these other capabilities, then mass… your physical mass is no longer much of a factor. Unless that’s your one capability you’re really focused on.</p>
+
+<p>THERAPIST: Yeah, what do you think it was that led you to write about women? What drew you to women in this?</p>
+
+<p>CLIENT: I just… they… I was playing a board game, and it was like a… it’s a co-op solo board game. And there was a narrative developed, [and I got on and said?], “That’s really interesting.” I was like, oh, I’ll just write like something funny about these. And I realized all three of the characters I’ve chosen just happen to be women, so it was like…</p>
+
+<p>THERAPIST: Uh huh, uh huh. [0:42:15]</p>
+
+<p>CLIENT: The women. So [there we go?]. And I was like, I like that. I like that. I’m writing three strong female characters, but not as like, “I’m [unclear] strong female characters!” I’m like, I’m writing these three characters. Your gender isn’t significant, other than that it’s not something that you see very often in literature.</p>
+
+<p>THERAPIST: Yeah, I was thinking in some way that you can… you feel more sympathy, or you can empathize more, you can relate more to women more generally. There are specific men…</p>
+
+<p>CLIENT: Yeah, [true enough?].</p>
+
+<p>THERAPIST: … specific men that you felt like… as Sherlock Holmes kind of thing.</p>
+
+<p>CLIENT: Yeah, very… yeah, [very much?].</p>
+
+<p>THERAPIST: But it’s…</p>
+
+<p>CLIENT: Specific men…</p>
+
+<p>THERAPIST: Specific men.</p>
+
+<p>CLIENT: … [that have specific issues?]. Um…</p>
+
+<p>THERAPIST: But women in general you find more, um, relatable.</p>
+
+<p>CLIENT: Yeah, definitely.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Definitely. They’re emotionally crippled.</p>
+
+<p>THERAPIST: Not emotionally crippled.</p>
+
+<p>CLIENT: They’re not trained to be emotionally crippled, you know. That’s something I find so irritating about dude. You know, it’s like, “Hey man, you know I don’t want to get all sensitive.” But like, yes you do. What do you want to say?</p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: You know. Like, what you’re telling me is you don’t want to [look you’re?] weak. Fine. I don’t care, right. Like, what do you want to tell me? You know, it’s… dudes…</p>
+
+<p>THERAPIST: Women kinda just come right out with it.</p>
+
+<p>CLIENT: Yeah. But sometimes even they have… they feel they have to apologize for things. And like you don’t need to justify that at all, you know. Like people are like, “Oh, I know, I really love…” Like, “Oh, I know it’s stupid, but I really love like this book series, this is my guilty pleasure.” I’m like, “No pleasures need to be guilty [anyway?].” And I’ll tease them, I’m like, “You don’t need to apologize for what you like.” Like who the fuck is going to say anything? That’s what I want to know. Because I should probably put that person in the box as someone whose opinion matters less to me than anyone else’s, you know. If you judge people for the things they enjoy…</p>
+
+<p>THERAPIST: Yeah, you want people to be kind of removed from that [overtalk]. [0:44:30]</p>
+
+<p>CLIENT: Yeah, fucking [unclear] loves baseball, they played baseball. And like baseball’s a stupid sport, but if you love baseball, love baseball. That doesn’t change how I feel about you. For fuck’s sake. You know, it’s like…</p>
+
+<p>THERAPIST: [Why/I feel?] guilty about it.</p>
+
+<p>CLIENT: Yeah. Well, I heard this thing, because, you know, on Melody, people are like, “Oh, [white?] people are magic.” I’m like, “Yeah, a lot of us [unclear] magic actually. It’s a really good game, so that’s why we play it.” Like, “Huh huh, [unclear] talking about.” And like, “Yeah, well, you know, you guys can off and be a bunch of nerds.” I should let you know, I’m a nerd who like fights as a hobby. Right, you know, it’s not… I’m not here to be derided. Right.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: I’m not your typical like glasses-pushing nerd who’s gonna stand down when you get all like, “Huh huh, huh huh.” [goofy voice]</p>
+
+<p>THERAPIST: Yeah, that kinda interest doesn’t make you…</p>
+
+<p>CLIENT: Well, right. But it’s like, “Excuse me, you’re calling me a nerd because really you’re teasing, but it is a derogatory term. And second, you’re doing so because it conveys a sense of physical weakness,” right.</p>
+
+<p>THERAPIST: Yes, that’s right.</p>
+
+<p>CLIENT: And like, “I’m someone superior to you because you’re a nerd because you play games and I play sports.” I’m like, “I play sports. I play kill sports. Like what do you do, you throw a ball through a hoop. I can kill people with my bear hands.”</p>
+
+<p>THERAPIST: Yeah, but that…</p>
+
+<p>CLIENT: We really need to… we need to reevaluate your feeling of superiority in this relationship. You know, like you’ve never been punched in the head. I get punched in the head a lot. It sucks, but, you know, your estimation of the fight is that you will punch me.</p>
+
+<p>THERAPIST: Yeah, I think what… that you’re getting at like the idea of like a vulner… like a…</p>
+
+<p>CLIENT: A perceivable vulnerability. [0:46:00]</p>
+
+<p>THERAPIST: Perceivable vulnerability.</p>
+
+<p>CLIENT: Like they have projected the vulnerability onto me. But I feel a very necessary step, I’m going to be like, “No, don’t think you [overtalk].”</p>
+
+<p>THERAPIST: What makes you vulnerable doesn’t make me weak.</p>
+
+<p>CLIENT: Yeah. Well, and it doesn’t even make me vulnerable. You know. That there’s no causation. Perhaps there’s a correlation. I’ve known a lot of like introverts who play this game because it’s a way to escape and interact with other introverts. And so they’re like, “Ah, okay, well, these guys are introverts.” I’m like, “Well, some people are, certainly.” And some people who are really good at like baseball can also fight. But I have multiple interests, and some of them are playing card games, and some of them are hit… hitting and getting hit. You know.</p>
+
+<p>THERAPIST: Mm hm, mm hm. Hm.</p>
+
+<p>CLIENT: So it’s like… Again, “You speak as if you’ve never been punched in the head.” You know. It’s like that level of disregard for someone else just because, “[unclear], well, these are the things I know about them.” It’s like, no, I bet there’s things you don’t know about yourself. You know, like, uh… But I’m a better. Yeah. Yeah, I remember there was this one… this one dude, he was working at the company for a little while, and he had this riff about when [kids?] were going to [] today, [unclear], but that’s what they do. And [] was very… you know, he was like in his 40s and he was working with us, he’s very outspoken about all the kung fu he’s done and like street fights he’s been in and like how [allowance?] is bad. You know, the wisdom of an older man who’s fought a lot of people. And so Jared just kind of like swinging the bat like loosely at him. He’s like, “Man, you don’t… you don’t want to do that.” Like, “There’s no play fighting. There’s no such thing as play fighting. So don’t swing a bat at me.” And so the guy turns towards me with the bat, and I just look at him, and he’s like, “Don’t swing your bat at Luke either.” He’s like, “He isn’t play fighting either.”</p>
+
+<p>THERAPIST: There’s no such thing as play fighting.</p>
+
+<p>CLIENT: Yeah. And the guy looks at me and I’m like…</p>
+
+<p>THERAPIST: Ah, yeah. Yeah, it’s not play. [0:48:00]</p>
+
+<p>CLIENT: Yeah, we don’t play. We don’t play fight.</p>
+
+<p>THERAPIST: It’s not play fighting.</p>
+
+<p>CLIENT: And I’m like, “Okay, do this thing.” I’m like, “No, if you want to fight then… then let’s fight.”</p>
+
+<p>THERAPIST: It’s very real.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Huh!</p>
+
+<p>CLIENT: Yeah. I mean, there’s no pretending. You know, it’s like my first time taking Tai Chi Logan was [producing?], he’s like, “Yeah, I get in bar fights,” and he’s all trying to be intimidating. And so he knows I’m taking Tai Chi, he’s like, “Oh, taking Tai Chi, whatever.” And one day he comes out and does kind of a slow punch, you know, “Whatever.” And I just… I need to duck under it, shoulder punch him in the gut and walk past him. And he’s like, “Kung Fu!” I’m like, “Yeah, Kung Fu.” You played, I hit you. And now I’m over here…</p>
+
+<p>THERAPIST: Don’t play.</p>
+
+<p>CLIENT: Yeah, don’t play. We don’t play.</p>
+
+<p>THERAPIST: Yeah, yeah.</p>
+
+<p>CLIENT: This is for real.</p>
+
+<p>THERAPIST: Yeah. Yeah. Yeah, it’s not an illusion.</p>
+
+<p>CLIENT: Yeah, it’s not a combat sport. Which is, you know, real stuff, and it’s real information taking that. But, uh… you can’t T-cup in combat sports, you know. It’s like… Yeah, you just don’t play. That’s the thing you realize eventually, you fight enough and you’re like, ah, there is no such thing as play fighting, as roughhousing. Like either we’re in it or we’re not. You know. And if we’re not, why are we practicing like we’re not? Why are we practicing not to hurt people?</p>
+
+<p>THERAPIST: Hm.</p>
+
+<p>CLIENT: You know. That’s what people say, there’s a place for no contact sparring. But like, “We do no contact sparring.” It’s like, “Then you do nothing.” Like if you’re not doing contact sparring then you’re not fighting.</p>
+
+<p>THERAPIST: It’s either real or it’s not.</p>
+
+<p>CLIENT: Yeah, either it’s real or it’s imaginary.</p>
+
+<p>THERAPIST: Mm hm.</p>
+
+<p>CLIENT: You know. Because if it’s real you learn what’s magic and what’s… and what’s real very quickly. You know, like flying crescent kick!” You know, sorry, you’d never land that unless you’ve already beat the shit out of me. And then it’s just a win more kick. Right. It’s like, now you’re just expending all sorts of energy to win in a fancy way. You know. And on the off chance that I… that you still miss me with it. And I get to come back, you know. You see it happen. You see like in Ninja movies when people are on their back and flip back onto their feet, you know, from the ground. Dude, try that in a UFC fight. As he comes up, other guy kicks him in the face. Goes right back down. It’s like, that’s what happens in real life. You did a Ninja movie and I was fighting you. So you got your nose broken. [0:50:30]</p>
+
+<p>THERAPIST: Yeah. Yeah, I think it’s all… you know, it’s all so… you’re coming from experience of seeing real… real violence.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: And you have that, and it’s not play.</p>
+
+<p>CLIENT: No, it’s not. Yeah, it’s not something you play with.</p>
+
+<p>THERAPIST: That’s right.</p>
+
+<p>CLIENT: You don’t ask a Marine to…</p>
+
+<p>THERAPIST: Yeah, you know the reality of that.</p>
+
+<p>CLIENT: Yeah, yeah. Exactly.</p>
+
+<p>THERAPIST: That’s right.</p>
+
+<p>CLIENT: You know.</p>
+
+<p>THERAPIST: Yeah. It doesn’t have a kind of a [overtalk].</p>
+
+<p>CLIENT: Maybe you ask a Marine to paintball, but you expect to lose.</p>
+
+<p>THERAPIST: That’s… that’s exactly… yeah.</p>
+
+<p>CLIENT: Yeah. You know.</p>
+
+<p>THERAPIST: This isn’t play fighting. [laughter]</p>
+
+<p>CLIENT: Yeah, yeah. It’s like…</p>
+
+<p>THERAPIST: I don’t know how to turn that off and make it just play.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Yeah, and why would you turn that off?</p>
+
+<p>THERAPIST: Why would you turn that off, yeah.</p>
+
+<p>CLIENT: That should… It’s like, this fucking “The Avengers,” last… you know, last thing that Bruce Banner says. They’re like, you know, “Bruce, now might be a good time to get angry.” And he’s like, “Well, that’s my secret,” you know, “I’m always angry.”</p>
+
+<p>THERAPIST: Hm.</p>
+
+<p>CLIENT: And he immediately transforms into The Hulk. Showing that he can do it whenever he wants. [Unless/I guess?] he loses control of it. But if he needs to be The Hulk, he’s The Hulk. You know, he’s like, “No, that’s how I control my anger, is I accept that I’m always, always angry.”</p>
+
+<p>THERAPIST: Ah, okay.</p>
+
+<p>CLIENT: I never turn it off. I turn it up.</p>
+
+<p>THERAPIST: Uh huh. Uh huh.</p>
+
+<p>CLIENT: So…</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Yeah. Yeah. I can turn it down, but only so much.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: You know. And that’s what a philosophy about understanding of one’s self.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: But fighting is fighting.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And if you’re in a fight you should fight.</p>
+
+<p>THERAPIST: Okay, well, so it’s Monday. [0:52:00]</p>
+
+<p>CLIENT: Right, we’re still on for Monday. And then there’s the week after that.</p>
+
+<p>THERAPIST: Monday, Thursday, then yeah, then I’m off until Friday.</p>
+
+<p>CLIENT: Excellent, okay.</p>
+
+<p>THERAPIST: So headed down to the lab, is that what you said today?</p>
+
+<p>CLIENT: Headed down to the lab. Learn more math.</p>
+
+<p>THERAPIST: All right.</p>
+
+<p>CLIENT: Take care.</p>
+
+<p>THERAPIST: Yup.</p>
+
+<p>END TRANSCRIPT</p>

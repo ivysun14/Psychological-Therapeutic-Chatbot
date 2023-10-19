@@ -1,0 +1,137 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: Good morning.</p>
+
+<p>CLIENT: Good morning. (sighs) </p>
+
+<p>THERAPIST: What’s on your mind?</p>
+
+<p>CLIENT: The long list of things I need to do that I haven’t done yet because I suck. (pause) [00:00:57] I’m sorry. That was kind of a conversation killer, wasn’t it? (sniggers) There is class I’m teaching at work, Statistics. It’s at 1:00 on Wednesdays. I intended yesterday to prepare lecture notes and examples for class today; and not because I was fucking around, for one, but we have this design review coming up next Tuesday and so my boss asked us all to submit drafts of our slides by Monday evening. First thing when I got in yesterday, I had feedback from some of the people who had reviewed my review, so even though I have until the end of the day today to get edits back out for a second round of critique, I spent all day yesterday working on my slides instead of preparing for the class. Now I’m kind of screwed because this class is at 1:00 today. [00:02:01] </p>
+
+<p>I leave here around 9:20 and I tend to get to work around 10:10. I have an 11:00 – 12:00 meeting, which gives me a little under two hours to get my lecture notes and my examples done and also eat lunch. The examples require coding and mining data from the rows and I am just unprepared, wildly and dramatically unprepared. I understand the material; I can talk about the material ad lib if I have to – not ad lib, extemporaneously. That’s the word I was looking for. Why do I have trouble coming up with the right nouns? I know the material. I’ve read the relevant chapters in three statistics textbooks and the Wikipedia pages. I’m pretty confident that I know the material, but I don’t appear prepared because I don’t have the examples ready. The problem is that this particular topic is hard to find relevant examples because it’s kind of foundational. [00:03:14] (pause) I don’t have a whole lot of experience and skill with managing a classroom. Because these are my peers and, in some cases, my superiors, it’s extra challenging versus a room full of college sophomores. (long pause) [00:04:15] There is that. And I’m behind on my frustrating [ ] (inaudible at 00:04:15) magazine and I don’t know when I’m going to have time, but I have like 40 stories that I need to plow through, some of which are over a month old, which is bad. The schedule is on the book I’m producing very badly for a lot of reasons. I got shut down and couldn’t deal with ordering type last fall, so I didn’t order the type until January and it didn’t arrive until the last weekend in February. When I ordered paper I ordered the wrong paper, which was stupid of me. Last weekend I went into the shop. I thought that even if I can’t print because I have no paper, I can at least set the type and then I can print when the paper comes in. [00:05:05] I spent a total of 17 hours over two days in the shop and didn’t actually manage to set any type because of a whole laundry list of stupid incidents, some of which were my fault and some of which weren’t. There is this guy, Howie. I think I’ve mentioned him before. He’s in his 60s or 70s. He knows a lot about the shop.</p>
+
+<p>THERAPIST: Here at the Harvard shop as opposed to the other one.</p>
+
+<p>CLIENT: Yes. The other one costs $5 an hour to use.</p>
+
+<p>THERAPIST: Yeah, I think you mentioned Howie.</p>
+
+<p>CLIENT: Howie is an asshole. He kept interfering and getting in my way, so I had this type which came in four big bricks this big around of individual letters, so I had 4,000 individual pieces of letter that had to be sorted and put into the case. The case is this big with internal dividers so there is a compartment for each letter. [00:06:06] I pulled down a standard case and Howie yelled at me and told me not to use a standard but to use a double [ ] (inaudible at 00:06:13). A standard case is this wide and holds all of the characters for a single font – lower case, upper case, numbers, punctuation, et cetera. By font, I mean a case and a size, so Garamond, Italic, 10 point. A double case holds two fonts by making each compartment smaller; half its size, in fact. You could have Garamond’s Italic 12 point in there with Italic 14 point side-by-side in the same case, which totally works if you have a small amount of type. Howie was like, “We have all this type and that’s not displayed yet. We have all this type in back storage still in boxes. We need to be able to display it and we don’t have any more room, any more cabinets or type cases to put type in. I’m moving all of the type from singles into doubles.” [00:07:04] I was like, “Well, okay, but this font doesn’t even fit in the doubles.” He was like, “You should try it anyway.” I was like, “It’s 4,000 characters. It’s not going to fit.” “You should try it anyway – and you shouldn’t be buying fonts without getting permission from the chapter anyway.” Never mind the fact that the reason we have so much font in boxes filling up not just our office, but our secondary office and another student group’s office and they’re kind of pissed at Howie for this. </p>
+
+<p>Howie keeps buying fonts that we don’t need or want without the permission of the chapter, but let’s leave aside the hypocrisy there. The other reason we don’t have room is that Howie won’t let us get rid of fonts that are obviously bad, so ones where we’re missing seven letters and you can’t print anything that requires a “q”, a “u”, a “t”, a “z” or – I don’t even remember what the other letters are missing, but are missing. Or fonts where there is so little type that you can’t print anything larger than a business card or fonts where the type is so damaged and worn that it’s hard to read. [00:08:02] You should just scrap those. They’re no good anymore. Type is meant to be molten down and reforged and, yes, it sucks that there are no traditional foundries using traditional processes and we’re stuck with monotype fonts. It’s kind of sad to see vintage foundry fonts get melted for slag, but when they’re not using the type . . . We can’t use it; it’s unusable. (sighs) I started filling the double case and, as I predicted, I ran out of space before I was even a third done or half-done distributing my type, so I had to move it all to a single case. </p>
+
+<p>Then also, Howie insisted that I had to distribute the type for a composing stick. I have a brick of type this big; a composing stick is about this big. [ ] (inaudible at 00:08:57) this big. A composing stick is about this big. [00:09:00] Typically when you buy type, it comes in bricks sized to slide your brick into the composing stick, slice open the paper with an Exacto blade. The bricks are wrapped; the paper holds it all together in shipment. It’s typically newspaper. So you just slide the brick into your composing stick, slice it open with an Exacto knife, and you’re good to go. The composing stick allows you to move type from wherever you set it to wherever your type cases are. The problem is that with a brick this big, it’s hard. And there were no spacers. So typically when you’re actually working at a job, you have a line of type and just the flexible feet of lead, slide it in, and then the next line of type. So we get leading from the visual typesetting because the actual lead you put between lines of type. </p>
+
+<p>I don’t know if you’ve ever heard the term leading if you’ve ever set text. In Framemaker or the other big digital print-making newsletter you can set up the leading, which is the space between lines. [00:10:08] This is actual lead, so you will have a thin, flexible piece of lead that you slide in and that lets you take a line of type and you have these two sheets of lead on either side. You can squeeze the lead and then the compression will hold your type in place once you pick it up and move it safely. My brick of type from this particular type caster didn’t have any in them, so it was very hard to manipulate the type and move it around without knocking it over and making a mess. If you knock it over, then it’s no longer sorted. It’s not easy to see what letter each character is. Len was like, “You should put that in the composing stick.</p>
+
+<p>THERAPIST: The basic gist here is that you have tons of teeny little letters that you need in some kind of order and also not spill them all over the place. And so these tools help you to manipulate and move the type without trouble. [00:11:10]</p>
+
+<p>CLIENT: Yes. Actually, I have a picture. I cheated because I was frustrated on Friday night. (pause) [00:12:00]</p>
+
+<p>THERAPIST: What are those?</p>
+
+<p>CLIENT: That’s the type.</p>
+
+<p>THERAPIST: The little sticks?</p>
+
+<p>CLIENT: They’re about an inch long.</p>
+
+<p>THERAPIST: I see. I don’t have anything to judge scale, so they’re about like that. What’s on each one?</p>
+
+<p>CLIENT: There they are, all standing upright and aligned.</p>
+
+<p>THERAPIST: So they’re like this?</p>
+
+<p>CLIENT: Yeah. (pause) </p>
+
+<p>THERAPIST: Where are the letters?</p>
+
+<p>CLIENT: The letters are on the top surface.</p>
+
+<p>THERAPIST: So if the type was sort of rectangle like this; here?</p>
+
+<p>CLIENT: No, the type stands up vertically, the long way, so it’s tall and narrow.</p>
+
+<p>THERAPIST: Okay, got it. I was wondering how you can see all that? All right. So you have a bunch sitting there like this, like crayons in a crayon box. They put the spacers in and all of the colors in some particular order that gives you what you want.</p>
+
+<p>CLIENT: So Howie kept insisting that I had to transfer the type to a composing stick before I could put away the case. I was like, “Or I could move the case off the composing bench and put it next to where I’m working.” Typically, you don’t do that because you need the whole stone area so we have this giant granite stone that’s like 3’ x 2’ that you use to lock up the type. [00:14:04] I’m not going to explain what locking-up is, but you use it to lock up the type; and you can’t have anything on the stone when you’re locking up type because it would screw up the locking up process. I wasn’t locking up type, so wouldn’t this just move it easier if I put the letters in immediately and then I don’t have to . . . But Howie was like, “No, we have to move it into a composing stick.” Well, because there wasn’t leading in the block of type, every time I tried to move a chunk of the type into a composing stick, it fell over and got unsorted and [ ] (inaudible at 00:14:30). Then Howie dropped my phone on the floor three times on purpose, which is why it’s cracked.</p>
+
+<p>THERAPIST: I noticed there were cracks in it.</p>
+
+<p>CLIENT: He did it on purpose. So the first time, I had run an extension cord from the front of the office to where the shop is because there weren’t electrical outlets in the back of the shop. I had my phone plugged in charging and he tripped over the cord. That was probably an accident. But then I picked it up and made sure the cord was flush against the wall and put the thing on a shelf. Two minutes later he’s rummaging around on the shelf I put my phone on that he saw me put it on and knocked it on the floor – oops. [00:15:10] I picked it up and put it on the shelf again and then he goes and picks up the extension cord and says, “This shouldn’t be out. This should be put away,” and starts winding the extension cord around his arm while my phone is still connected to it via the charger which, of course, pulls my phone off the shelf and it fell on the floor. That time, he looked at it, looked at me, looked at it, looked at me, and paused for four or five seconds and then said, “Oops.” That was pretty clearly intentional. Asshole. The point of that whole long story is that I didn’t actually set any type because it took me two days just to put my type in the case, which is annoying and I feel like a loser even though I did [ ] (inaudible at 00:15:53). I’m super stressed about the schedule now because I have a lot of work to do and not a lot of time left to do it in. [00:16:03] A lot of that is my fault, but it feels really shitty; not to mention being behind on preparing lecture stuff for work. I was going to plan a big birthday party, but I’m just too tired and don’t have the spare brainpower to figure out what I want to do or call or set anything up.</p>
+
+<p>THERAPIST: This would be for you?</p>
+
+<p>CLIENT: Yep. Last summer, an acquaintance I am not friendly with had one of my favorite musicians come to her house and play a house party for her birthday. I wanted to do that, but none of the musicians I would have wanted to invite were able to make it. Helen is touring in Toronto and Delia is touring in the Pacific Northwest, even if I were willing to pay for plane fare for them. [00:17:06] Even though I was willing to pay for plane fare, schedule-wise and stress-wise it wouldn’t work. (pause) This sucks. I didn’t do any planning and now it’s going to be come hang out at my apartment and have pizza and cake, which is not the worst, but . . . I’ll be a power of two. I wanted to do something special and I didn’t do anything special because of this whole domino effect of things piling up and stress piling up and timelines and schedules. [00:18:03] (pause) Penelope asked me to move my birthday party because March is her birthday month, so everything that happens in March is her birthday celebration. (laughs) That look on your face – yeah. Yeah. (pause) I don’t know how I was taken in by her cult of personality for so long. [00:19:02] I suppose that’s how cults of personality work.</p>
+
+<p>THERAPIST: When is your birthday?</p>
+
+<p>CLIENT: Next Tuesday.</p>
+
+<p>THERAPIST: Happy early – Tuesday, right? </p>
+
+<p>CLIENT: Thank you. (long pause) [00:19:59] The last big birthday party I had was for 27, which was also a special number, a perfect cube.</p>
+
+<p>THERAPIST: It’s been a while since you’ve been a perfect cube.</p>
+
+<p>CLIENT: Yeah. It might be a while before I get another one. It was great. I rented out the big tub at the Inman Oasis and we went hot tubbing [ ] (inaudible at 00:20:25) and came back to my place. It was fun. We watched silly movies all night. My birthday parties as a kid all sucked. Only one person showed up to my sweet 16, even though I invited my entire grade. That kind of sucked.</p>
+
+<p>THERAPIST: Yeah. (pause) </p>
+
+<p>CLIENT: It was quiet.</p>
+
+<p>THERAPIST: It is quiet?</p>
+
+<p>CLIENT: It was, but now it’s making noise again. Strange. (long pause) [00:22:17] I’m kind of tempted to just call in sick to work today. That would be wrong. (pause) [00:23:00]</p>
+
+<p>THERAPIST: I guess I’m struck by the various nickel regimes that you find yourself under with Penelope insisting that March is her birthday month or Howie at the print shop or, even in a maybe somewhat more benign but totally also in a way, all that’s involved in setting type and dealing with stuff in the print shop or your schedule at work; and how you’re kind of squeezed out.</p>
+
+<p>CLIENT: The work stuff is my own fault for choosing to work on slides yesterday instead of preparing my lecture notes. I could have worked on lecture notes. I should have worked on lecture notes. [00:23:59]</p>
+
+<p>THERAPIST: I see what you mean, that there was a decision for you to make. There wasn’t somebody else doing it to you, but I imagine in a way it’s similar in that I suspect you didn’t actually make a decision. I imagine it was more anxiety-driven than that. You were probably worried about your slides. I’m just speculating here, but you felt dominated by something – whether it was a sense of they sucked or you sucked or you were going to suck if you got [ ] (inaudible at 00:24:36) – or something like that; that you were worried about it not being right, as opposed to “I could to work on that, I could work on that. What seems like the right thing to do? Let me think about it.” Again, I’m just guessing.</p>
+
+<p>CLIENT: A big part of it was I was producing flow diagrams for my components and some of the things I had in the Visio diagrams were slightly wrong and I had left some things out. [00:25:07] There were some things that the reviewers thought were extraneous. Visio is almost like a video game, in that it’s visual, it’s graphical, and you’ve got all these thousands of things that can be maxed or optimized, like is this going to look better with a half line or a three-quarter point line? Et cetera. Once I started moving boxes around to make room for the changes that had been requested – I thought it was going to be a quick job. And then I spent all day tweaking the fucking diagrams. Diagrams – plural.</p>
+
+<p>THERAPIST: Because of the big optimization problem with 500 moving parts.</p>
+
+<p>CLIENT: And there is no clear right or wrong answer. Readability is such a vague goal to shoot for and there are many ways to achieve it. [00:26:02] It was blech. </p>
+
+<p>THERAPIST: Is it just kind of obsessive or just kind of fun?</p>
+
+<p>CLIENT: Both. I typically work until 6:00 - 6:30, but I had a voice lesson at 6:00, which means I had to leave right at 5:00, so I lost an hour of my day. I meant to make up the time once I got home, but I had a voice lesson and then a piano lesson and then got home and prepared dinner. By then it was 9:00 and the last thing I wanted to do was log into work and think about statistics; but I felt like I ought to have, so instead of doing anything fun or leisurely, I was just on Twitter all night talking to my friends about how I should be doing statistics and work but I wasn’t because I suck which, as you can imagine, did wonderful things for my mood and self-image. [00:27:01] </p>
+
+<p>THERAPIST: I can imagine. (pause) </p>
+
+<p>CLIENT: I need to be better about either doing my work or making a clear decision that I’m not going to do work and, therefore, I’m just at liberty now. The in-between spaces, trying to force myself to do work when it’s obvious that I’m not going to get any done is just no good for me. It doesn’t help me; it doesn’t help the people I owe work to; it doesn’t help anyone really. (chuckles) I don’t know how to go from recognizing that this is unhelpful behavior to actually correcting it.</p>
+
+<p>THERAPIST: I see. You’re sort of talking, I think, about the procrastination phase.</p>
+
+<p>CLIENT: Yep. (pause) [00:28:18]</p>
+
+<p>THERAPIST: I imagine for you it’s that you’re being squeezed into it, like at a time like last night, squeezed between, I think, how overbearing the work itself can feel and how on the other side, and in a way, not subjectively, how overbearing your conscious can feel if you’re not doing the work. [00:29:08] This is like an unhappy medium. I appreciate that this absolutely does not address your question of what to do about it. (pause) </p>
+
+<p>CLIENT: I’ve tried rewards and punishments for myself. I’ve tried CBT techniques like self-talk and all of that stuff; and I just end up doing end runs around them all. [00:30:04] (long pause) </p>
+
+<p>THERAPIST: I wonder if you feel like you’re procrastinating here, that you’re sort of talking about these things, but in some way that’s not really picking them up or really doing something - so it’s like they’re kind of here, but not really. Something like that. [00:30:59]</p>
+
+<p>CLIENT: I’d be lying if I said there wasn’t part of me that felt that way. You’ve explained your methodology to me before multiple times and I trust you.</p>
+
+<p>THERAPIST: So that’s something that rests – that feeling of procrastinating here – I guess it sounds like it rests at least on me and maybe on both of us, although you feel . . . (pause) [00:31:59] In that version then, I’m sort of inviting procrastination?</p>
+
+<p>CLIENT: I think it’s more that – and you’ve told me before – that even if I don’t see the utility of things immediately or if I feel like I’m being off-topic or irrelevant, that it’s useful because of the whole being able to spur associations to things that are relevant. I also kind of am just sitting here just bullshitting you and, obviously, stonewalling. You’ve pointed that out before. (pause) [00:33:10]</p>
+
+<p>THERAPIST: But I think you’re also saying that those ways of reasoning are set against a feeling which is quite different, which is . . . </p>
+
+<p>CLIENT: That I am just wasting your time and mine. Which is not unique to this, just so you know. It’s something that I feel with my voice instructor and sometimes with my friends, that I’m being useless here and just wasting everyone’s time. Sorry, you’re not special. (chuckles) [00:34:01]</p>
+
+<p>THERAPIST: Actually, I had the other impression when you said it. I had a sense that you were generalizing – not because you were concerned about my feeling special, but because you felt bad saying that. It may be partly the way you’re going about this, but partly about the way I suggested you go about it aren’t working or aren’t working in the way that you want. It feels like a waste and you felt bad. So okay, Brian, it’s not just here.</p>
+
+<p>CLIENT: Yeah. (pause) </p>
+
+<p>THERAPIST: We should stop for now.</p>
+
+<p>END TRANSCRIPT</p>

@@ -1,0 +1,415 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: It wouldn't work next week, but I think starting in June - I'll have to make sure about this. I'll know by next week. I think starting in June I have a noon on Mondays free. I know that's going to be a problem when you're back at work.</p>
+
+<p>CLIENT: Right. But for now it could probably work.</p>
+
+<p>THERAPIST: Okay. Would that be okay with you?</p>
+
+<p>CLIENT: Yeah, that would work. Let's figure it out when we get closer, if possible. </p>
+
+<p>THERAPIST: I think I'll know by Friday this week when I meet with this guy. (pause) [00:01:04]</p>
+
+<p>CLIENT: I'm thinking about what to do with my life because I'm not finding work. The recruiter has been real spotty at getting back to me. I'm still looking for other stuff. I'm trying to think of what I can do to monetize my time in the meantime. There is stuff I can do. It's stuff I do, but I'm not good enough at any of those things to actually make money. I can do Kickstarter for a couple of months for the card game I'm working on, but I'm still a couple of months away; and still the only thing you can really hope for there is you can to make [ ] (inaudible at 00:01:43)your money back.. Over and above, [ ] that's great;, but who knows.</p>
+
+<p>THERAPIST: If you don't make it, the money goes back to . . . </p>
+
+<p>CLIENT: Right. It only charges the cards on the day of completion. [00:02:00] Indiegogo is when you think you're going to fail, but you still want some money because they give you whatever money you raise, even if you don't make your goal, so that's cool. (pause)</p>
+
+<p>THERAPIST: But the recruiter has been pretty spotty with the . . ?</p>
+
+<p>CLIENT: Pretty spotty. [ ] (inaudible at 00:02:33) I'm probably not too high a priority. That's too bad. too bad. Really I'm really just looking at opening the bottom end of my search. I could make $70,000 and I would be fine, so I'm working to find work for that. So we'll see. (pause) [00:02:59] [ ] (inaudible at 00:02:58) I had a meeting with friends last night. Helen was like, "Yeah, you should take [Koala Pressure] (ph?) and put it up on a free flash board." It's where you just run ads and you potentially make some revenue. I was like, "That actually wouldn't be a terrible idea to do that." (pause) </p>
+
+<p>THERAPIST: So you put it up on . . ?</p>
+
+<p>CLIENT: There are these sites that just have flash games hosted and you just go on and play it on them for free. They run ads over the site. [They truncate] (ph?)run it over whatever runs on your site, what runs on your game. [00:04:03] So, yeah, I think I'm just going to start it up there. It's not super good.</p>
+
+<p>THERAPIST: You still [ ] (inaudible at 00:04:12).</p>
+
+<p>CLIENT: Yeah. It would be possible, perhaps, just do drive a small few people to the game because when they play a really small game it's like you're an artist. You can program things. This is what I want to make, so let's make this. Let's make a month or two in a spare economy. Unity is a free mobile. I have Unity [ ] (inaudible at 00:04:47), so it's fine; but now there's a free mobile license, so it's easy to get people to work with you. So I'll get Unity, which is a great development tool.</p>
+
+<p>THERAPIST: How does Unity work?</p>
+
+<p>CLIENT: It's a development tool. It lets you create 3D spaces and 3D objects within that space. It's for games, essentially. You can make any sort of game exist. You can make [ ] (inaudible at 00:05:12). It's a really good tool set. That's what Koala Pressure is made with. It's what a lot of things are made with these days. It's such a strong engine. In 3D it's essential to make less than $100,000 it's free. If you make more than $100,000 then they start charging you for it; but still, it's not expensive. It's like $1,000 for a license, which is not expensive for a game company, especially when that's [ ] (inaudible at 00:05:41) only 1% of what you made in a year. But that's per seat. It's a license per seat. So if you have a 10-person team it's $10,000.</p>
+
+<p>THERAPIST: Anybody that's using this pays that toll.</p>
+
+<p>CLIENT: Yeah, exactly. [00:05:58] Still it would be totally possible to do that like - here's your game. Let's make a game just to make a game, just put it out there.</p>
+
+<p>THERAPIST: Do you have any thoughts about what you would make?</p>
+
+<p>CLIENT: I'm not sure. Barry was telling me about this really interesting game called Alpaca Evolution or something like that, which I never did find. You have an alpaca on the screen and [ ] (inaudible at 00:06:24) it grows fur and you attack it and the fur falls off. You tapattack the fur. There eventually is food shows on the screen. You can feed the alpaca. You tap tap the food; you tap tap the alpaca, which feeds the alpaca, and then it grows more fur. You collect the fur. As you collect things, things start to evolve. He's like, "Just the art changes, there is actually this story being told." You tap, tap, but all you're doing is tapptapping the thing and tapping other things. You just watch this thing progress. [00:07:04] </p>
+
+<p>That's interesting. There's actually a lot you can do with that. He's like, "Yeah, you can make a whole series of games that are these weird stories based on tap interaction." I'm like, "That's the simplest, most pure expression of the point and click adventure game, except you don't have to look for stuff now." Part of the adventure is that it pretty much gives a story as you click your way through every now and then, like, "Where's the wrench?" Click, click, click. "Found the wrench. Okay, now what do you do with the wrench? Leaky faucet." Click, click. Yay. Cut scene.</p>
+
+<p>THERAPIST: Yeah, it ends up just being ways to tell stories.</p>
+
+<p>CLIENT: Yeah. The barest level of interactivity. The illusion of choice. The illusion of causality. [00:08:02]</p>
+
+<p>THERAPIST: Yeah, right - y. You being the eye of the story when it's actually being driven by something else.</p>
+
+<p>CLIENT: Yeah, it's just a taptapping. You just tap. You're just turning pages.</p>
+
+<p>THERAPIST: Like the guy that talks about any action you're doing has already been decided for you.</p>
+
+<p>CLIENT: Yeah. </p>
+
+<p>THERAPIST: So you think you're tapping. You think it's for you, but it's already been determined.</p>
+
+<p>CLIENT: Your guy dies at the end. You raise these bees for honey. Do the bees realize they're making the honey for you or are they toiling because they think it's their own choice? Which is funny because, of course, nowadays making honey they don't realize we're going to take it. Making honey is what they do. So there is that. [00:09:00] I'm thinking about of writing a Cracked article. They give you $100 if they publish your first article. They've all got to be in the same style of five reasons or five things, like [ ] (inaudible at 00:09:11) paragraph or two about each item on various things, like "six movies with terrifying implications"; if they're real or . . . </p>
+
+<p>THERAPIST: I've seen those lists. </p>
+
+<p>CLIENT: Yeah. A good one is on [cracked.com] (ph?), the good stuff. They're funny. I was thinking of writing an episode - e. Essentially "six reasons why I lost this bet and you're wrong to like it." and have grown to like it.] (ph?) [ ] (inaudible at 00:09:41) Something you could debate.</p>
+
+<p>THERAPIST: (laughing) Do you have the six in line?</p>
+
+<p>CLIENT: I'm sure I could figure them out. I'd find some number, but no. I'd work it out. There are plenty of reasons. I'd just do one for each season. Reason 1: Season 1. (laughs) I'd do it that way. [00:10:02] (pause) It would take me three hours. I'd have to do some research on it to make sure I'm quoting all their information, but whatever. Essentially it goes to the forum like this is the thing I want to write. This is my pitch. If enough people [up-vote] (ph?) it. Yeah, you should edit it in the following ways and then, if they like it they'll publish it.</p>
+
+<p>THERAPIST: The editors at Cracked will review it? </p>
+
+<p>CLIENT: Yeah. The next thing you know - $100 - who-hoo. Two bucks is two bucks. But it would sort of be nice.</p>
+
+<p>THERAPIST: Also something just to . . . </p>
+
+<p>CLIENT: Just to do something for myself. Yeah. I feel like such a sham. I've got things I want to do and then they never materialize and when they do they're not very good. [00:11:02] It makes me wonder.</p>
+
+<p>THERAPIST: What's that?</p>
+
+<p>CLIENT: I don't know. How much value there actually is to me in terms of what I produce. And what I produce are people. I have no access to people to produce. That's where I'm effective and that's where I'm of use. It's hard to sell that. Yeah, what I produce is better people, so put me where you want better people.</p>
+
+<p>THERAPIST: You're a good leader. It's true, though, that you haven't been able to kind of work that muscle in a while and you feel it. You start to feel it.</p>
+
+<p>CLIENT: I wonder. I identified as an actor for several years and now I'm identifying as someone who works in the game industry for some years; and I'm not even sure if I want to stay in the game industry. [00:12:05] I don't know what it would be. I don't know what it would be. And that is less now, I think. I just want a job I can get to that I don't hate and that pays the bills. That's great. (pause) </p>
+
+<p>THERAPIST: I don't know if you're still thinking about this, but it's tough to move from games to other stuff.</p>
+
+<p>CLIENT: Yeah, it is. It's different. It's a different world. [00:13:04]</p>
+
+<p>THERAPIST: It's interesting, though, because the poker site seems like . . .</p>
+
+<p>CLIENT: It's on the periphery somewhat.</p>
+
+<p>THERAPIST: Because, yeah, it's using the gaming concept, but you guys were doing so much.</p>
+
+<p>CLIENT: It's all my good friends. Barry is our a community manager for [ ] (inaudible at 00:13:24). He want to do community management and so that's what he does. He creates publicity for the game and attracts the community. He's like, "In the past couple of years everything has changed, literally everything has changed about games - the way they're made and the economy of them, what you charge for them, what it costs to make, how you sell them and how you promote them, how we talk about them, how we get the word out. [00:14:02] Years ago I was having to send e-mails to various websites like, 'Hey, I want to get . . .' Now I go to YouTube. I'm like, 'Hey, if I give you a guide to the game, will you play it?' and people are like, 'Oh, yeah. Sure.'" [ ] (inaudible at 00:14:17) They're like, "Yeah, totally. Give me a free game. I'll play that."</p>
+
+<p>THERAPIST: And then if they have a lot of viewers . . .</p>
+
+<p>CLIENT: Yeah. Then you get more exposure. When Nintendo first started out, the golden tradition Nintendo was never a matter of [ ] (inaudible at 00:14:34) over usage. You can't choke to death. They found out there were people doing it in [ ]Let's Play; of its games. People were running ads on videos and making money off of playing Nintendo's games and, essentially, commenting over them and kind of making money off the experience. So Nintendo went to YouTube like "these are our games."</p>
+
+<p>THERAPIST: They're promoting the hell out of their games. [00:15:01]</p>
+
+<p>CLIENT: They were like "Just give us all the money. Don't take the videos down. Just give the ad revenue to us instead of that guy." And so YouTube was like, "Yeah, sure. No problem. That's what we do. We're not going to fight you on that. You say it's your stuff. It looks like your stuff to me." Essentially what happened immediately was that YouTube was like, "Okay, goodbye Nintendo. It makes no sense to let us play your stuff now. There's no need to do it so we're done. We're never going to do this now." Whereas in [ ] (inaudible at 00:15:36) along the same vein, [ ] (inaudible at 00:15:37) came out came out with putting more specific language on their website. It's like, "You can go to Let's Play and just run ads. We don't care. That's great," because people are like, "Yeah, when somebody wants to play (inaudible) game our sales when through the roof." It makes the most sense. Then Nintendo is like, "We'd rather have the money than the exposure." Well now you'll have neither. [00:16:04]</p>
+
+<p>THERAPIST: Penny wise, pound foolish.</p>
+
+<p>CLIENT: And you get nothing. Stupid. (pause) That sucks. Still it's great for the Let's Play community because now people are like, "Oh, totally explicit and legal permission to monetize videos you make of our game." So it's great news for everyone else. Xbox One was announced yesterday. [It's a stupid name change] (ph?) for the third Xbox. </p>
+
+<p>THERAPIST: They're calling it Xbox One?</p>
+
+<p>CLIENT: Xbox One. Yeah. Why? Why? [00:17:00] And there's nothing about that that appeals to me. It doesn't do anything I want a console to do. It's like they want a console to be like a PS3 - which I have.</p>
+
+<p>THERAPIST: What are they saying it does?</p>
+
+<p>CLIENT: Nothing, really. You no longer buy a game. You essentially buy a license to install that game once.</p>
+
+<p>THERAPIST: Download it?</p>
+
+<p>CLIENT: Yeah, or buy it on a disc and install the game with the disc. But then if you want to switch that to a different machine - say your friend's machine - it's just a disc because he has to pay money for the game at the full retail price of the game to install it. So, okay, this is a disc game for now. One is just a disc. But if you want to move it over to a different machine, you have to pay. So when your first Xbox breaks, which it will because they all do because I'm on my third one, you will have to pay money to transfer all your games to the new one. [00:18:08]</p>
+
+<p>THERAPIST: You've got to be kidding me.</p>
+
+<p>CLIENT: No, I'm not kidding you. I'm totally serious about this fucking ridiculous bullshit. </p>
+
+<p>THERAPIST: Then you can't take it to a friend's place?</p>
+
+<p>CLIENT: Right. You can't bring your game over to a friend's place. He's got to pay for it if he wants to play it on there. That's stupid.</p>
+
+<p>THERAPIST: That's really stupid.</p>
+
+<p>CLIENT: Because [even with Steam, ] (inaudible at 00:18:29) which is the way everything else works for now, you buy a license to a game and, whenever you're signed in on a machine, you can access all your games. You can access your games from as many places as you want, but you can only be signed in one place at a time.</p>
+
+<p>THERAPIST: So nobody can take your . . . </p>
+
+<p>CLIENT: Right. These are my games. You can have them on your friend's computer and your computer and you can share games, but only one of you can play at a time. It makes it really easy in the sense of bundles. It's like if you want to play this cool game you can buy four for a discount and you can give one to each of your friends. [00:19:06] But here's the thing that's going to bite them in the ass - let's say there's a license fee of $5 to install my game on a different piece of hardware. Okay, great. </p>
+
+<p>THERAPIST: This is the Xbox?</p>
+
+<p>CLIENT: Yeah, the Xbox. I have three friends and we each pay $15, so that's a $60 game. Let's say $5 each for the licenses to our machines. Now we've each paid $20 for a $60 game. My Xbox holds one copy as opposed to four. $80 for a $60 game, instead of $240. It cuts their profits by 66%. [00:20:00] And that's just what people will do to get around that. Let's buy the new [[ ] (inaudible at 00:20:02)Madden] (ph?) because that's what this machine was built for.</p>
+
+<p>THERAPIST: So when you buy it you can just, for $5 extra, you can give it to . . ?</p>
+
+<p>CLIENT: Something like that. You can license it so it's still on another machine.</p>
+
+<p>THERAPIST: And you don't have to pay the same retail price?</p>
+
+<p>CLIENT: Yeah. Kids will find ways to game it. Then Xbox will figure out ways to block that and people will be like, "No, I'm going to go to PS3 and PS4," because PS4 will probably be the same thing like "we're going to do that, too." And then what happens is people are like, "Oh, you know what I do have? A computer. That does everything. I'll just use that." There's almost no game you can't get on your computer. Certain ones. Those games are great for kids. That's what consoles are becoming. They're for college guys who play Madden and Call of Duty and they're for kids who can't afford their own computer and probably shouldn't have one anyway. [00:21:07]</p>
+
+<p>THERAPIST: Xbox One.</p>
+
+<p>CLIENT: Yeah, it's stupid.</p>
+
+<p>THERAPIST: It has the same kind of Internet functionality?</p>
+
+<p>CLIENT: Yeah, it's got an always-on functionality sort of thing, so you have to be online to play your games just so they know you're not stealing them.</p>
+
+<p>THERAPIST: So you're not stealing them?</p>
+
+<p>CLIENT: Yeah, it's the whole same stupid thing. "We know it's you. We know it's you playing the game that you bought. We know it's not your friend using your account. It's got to be you. You have to be signed on."</p>
+
+<p>THERAPIST: So there's a way to link up the game.</p>
+
+<p>CLIENT: They want to know you're not selling your game to the used market. They're trying to kill the used market. Gamestop is all about used games and they want to kill that, which I don't think is going to happen because video game stores are going to go away because we won't need them anymore. [00:22:06]</p>
+
+<p>THERAPIST: But it's interesting because that's another way that people might be drawn to another console or another system.</p>
+
+<p>CLIENT: And so the PS4 can do really well, but it's not doing this.</p>
+
+<p>THERAPIST: Yeah. They're not trying to grab every nickel. </p>
+
+<p>CLIENT: Yeah, you make awesome stuff and make it easy to buy it.</p>
+
+<p>THERAPIST: Yeah, so what if there's a used market? You're still making a . . .</p>
+
+<p>CLIENT: There's a secondary market that they can't monetize so they're trying to destroy it. If there's a market you can't make money in - destroy it, no matter what the cost.</p>
+
+<p>THERAPIST: That's dopey.</p>
+
+<p>CLIENT: Microsoft is just full of idiots. It's sad, but their execs just don't know what the fuck they're doing.</p>
+
+<p>THERAPIST: That's very interesting because they're very out of step with the culture.</p>
+
+<p>CLIENT: They've always been out of step. Always. [00:23:05] QDOS, a quick and dirty operating system - the first thing Bill Gates bought and then sold to us repackaged was DOS. What is this? It's a rip-off from a dude in his garage because it was cheap and it basically works. It's shit. So we're all using DOS as kids. Then Mac was like, "It's really easy to use computers. See?" They were like, "We can make it more complicated." But it's like an Audi. You buy the Audi. You don't work on the Audi yourself. You bring it into a specialty shop for your brakes, whereas your old-timey Fords you buy in the '80s, you buy a Ford and something goes wrong, you open it up and take a look. You see what's going on? You move stuff around. You tweak it. </p>
+
+<p>THERAPIST: You can't do that with a Mac. [00:24:01]</p>
+
+<p>CLIENT: Right. You can't open up Macs. You can open a Mac, but you shouldn't; it's specifically put together. Whereas my computer broke, so I took parts out and replaced it and fixed it. Boom - new computer. Fixed. [ ] (inaudible at 00:24:15) And I can do that. I can take apart computers and put them together. Anyone can do that, really. It's not typical. </p>
+
+<p>THERAPIST: But with the Macs it's not as . . . </p>
+
+<p>CLIENT: You can't take a Mac apart. You cannot do it. Mac is a closed system. There's no way to open it unless you have the right tools to open it.</p>
+
+<p>THERAPIST: Oh, really?</p>
+
+<p>CLIENT: Yeah. It can be opened. It's just that once you do, you can't switch out the parts. It's all proprietary. It's not like you can go to the store and buy an upgrade for your Mac. I can go to Newegg or any company and be like, "I would like a number of new video cards and I'll pick one based on my CPU and the heat regulation I can do and my own needs and whatnot and what will work best with various other things." I can really get into the details and be like, "Hey, friends, what should I be looking at?" On the Mac it's like, "Here's money. Give me that machine. Mostly you do exactly what that machine does." What happens when it's no longer useful? Trash it. Give it away. I don't know. Get rid of it, I guess.</p>
+
+<p>THERAPIST: But people don't play games, like the big games, on a Mac, right?</p>
+
+<p>CLIENT: No, because Mac is really anti-game. It's just really difficult for games to go on. It's harder to make a game work on a Mac and so people don't do it as often. It's a smaller market; whereas with PCs you can do anything. Of course, that's the problem. That's why they're so unsafe, replete with viruses and malware attacks, because you can do anything. </p>
+
+<p>THERAPIST: Because you can do anything. [00:26:03]</p>
+
+<p>CLIENT: That's the problem with Google phones. That's why you need virus scanners on your Google phone, because it's open.</p>
+
+<p>THERAPIST: Is a Google phone an actual piece of hardware?</p>
+
+<p>CLIENT: It's Android, so any phone that runs Android is a Google phone, essentially. Android is a Google operating system, so anything that's not Mac.</p>
+
+<p>THERAPIST: They could spy on you.</p>
+
+<p>CLIENT: They can. They have viruses they can enact. The advantage Apple has is the law of governing approach. Every app is self-contained. The apps cannot communicate over apps. They can't access parts of the program. They run on the hardware but they can't tweak the hardware. They can't affect the hardware. Apps can't reach out. That's important. They're all self-contained, which makes it difficult to run games on them because your app has to be one self-contained thing. It cannot reach out, which makes it much safer, though, but it's also limited. [00:27:11] What does it do? The following things: It makes toast 1,500 different ways, but that is all it will do. And it only makes those in very specific varieties and you cannot tweak how the varieties are made. It does those things. What if? No. No "what if." This. This is how it is. Whereas on a PC it's like, "Ahh, it's not that. What can I do? Switch out the ground. Really? Okay. That's easy enough to do. How's your heat sink? What's that look like?" I have a liquid cooled, just the case was wrong. So I got a bigger case and then I got just a basic fan and there was a basic heat sink that comes with the fan, so that's good. But now what comes out of the PC is cooler than what goes in, so that's nice. With my internal PC at home, if my hand is over the fan exhaust and cold air comes out. That's how good that PC is. [00:28:05] </p>
+
+<p>I built my first PC out of college. For $700 I built that PC and it was still good as of last year. It still is able to do stuff. It even ran Starcraft II - poorly, but it ran it. </p>
+
+<p>THERAPIST: [You built a lot of stuff.] (ph?)</p>
+
+<p>CLIENT: Yeah. I like building stuff. And halfway through its life it needed a new graphics card, so I got one. I took out the old one and put in a new one. When I first got it and put it together it wouldn't really work, so I fiddled with it and talked about it and talked to people about what was wrong. And I found out what I was doing and I put it together and it was like, "Huh. Now I've built a computer. Ta-da." I bought all the parts separately, motherboard, chip, fan, graphics card. Everything. Everything I built by myself incredibly cheap. I built a $1,500 computer for $700. [00:29:08]</p>
+
+<p>THERAPIST: And figured it out from scratch.</p>
+
+<p>CLIENT: Yeah. Someone had to order all the latest parts, but when it showed up on day one it was just me and that computer. It took me two days to get it running from nothing to a working computer and I've still got it running. Once I got it running it was a good computer.</p>
+
+<p>THERAPIST: It just makes me think that there's a way that if a project is for yourself and you have to figure it out yourself, there's a certain kind of comfort and ease and accomplishment that you feel.</p>
+
+<p>CLIENT: I don't share it.</p>
+
+<p>THERAPIST: It's when you share. </p>
+
+<p>CLIENT: That's interesting. It's hard to share because I know other people have expectations [ ] (inaudible at 00:29:56), whereas all I need to do is make it work. [00:30:01] I have very specific requirements for a piece of work. It needs to do the things I want it to do. It doesn't have to be beautiful. It doesn't have to be polished. It needs to function. I'm always about function over form every time.</p>
+
+<p>THERAPIST: It makes me think about you being in certain workplaces with a Mac. I do this really well. Don't make me do all these other things because that's not what I'm built to do. And yet you get criticism because you don't do these other things. But you're like, "Wait, wait, wait. I do this stuff. I do this stuff."</p>
+
+<p>CLIENT: I do this stuff really well. I work really well in those situations.</p>
+
+<p>THERAPIST: Put me in the right situation.</p>
+
+<p>CLIENT: That's the case with everybody, though. With everybody. People are essentially Macs. We're closed systems in many different ways.</p>
+
+<p>THERAPIST: But you see people try to be PCs. </p>
+
+<p>CLIENT: Oh, sure. And it doesn't work. I am both of them and I upgraded myself over the years. [00:31:07] I acquired qualities that I wanted. But that's the difficulty in life rather than a PC. It doesn't work that way. You can't be a PC. You have to be a Mac.</p>
+
+<p>THERAPIST: What do you mean?</p>
+
+<p>CLIENT: That's the issue, really. The better analogy is that everyone is a PC, but once you go to work you have to be a Mac. Everyone is capable of upgrading and changing themselves but once you are at a job, they want a particular app and so that becomes what you do. And it doesn't matter how good a PC you are. If they don't want a PC, they want a Mac, it doesn't help. And, again, they just want a Mac. "We want specifically this. Are you that?" "I'm a number of things." "No, no. I want this. Can you be this and nothing else?" That's actually a better analogy. [00:32:00] (pause) I'll see what I can do about making this game or maybe I'll see if I can get somebody to be able to make a game. Just make a game. Fuck. Jesus. (pause) Why the fuck not? Fucking iTunes.</p>
+
+<p>THERAPIST: Do you have people in mind?</p>
+
+<p>CLIENT: No, but I'll just reach out to the community. I'll be like, "Hey, I need an artist and a programmer, a sound guy." I'll design it. It's a game. Ta-da. (pause) [00:33:04] No reason it can't be done. This game [ ] (inaudible at 00:33:10). You guys are together for a weekend. In the beginning you're like, "We're looking for games along this theme. We're trying to do that." And they're like, "All right. This is what I do. I'm a designer." "I'm a sound guy." "I'm a programmer," and you just make teams of those pieces you need and then you spend a weekend making a game.</p>
+
+<p>THERAPIST: Can it be done that . . ?</p>
+
+<p>CLIENT: Yeah, it can be done that quickly. You can make small games. You can do that. Really can make a game prototype with some nice art, but still, in three days you can do a lot.</p>
+
+<p>THERAPIST: Your friends do those kinds of things in Providence?</p>
+
+<p>CLIENT: Yeah. Just for fun. [00:34:01] So I can do that. You scale it up somewhere. My problem is I was trying to do everything myself. I'll be the one in Ironman who plays all the part and wears all the hats and, again, not all the hats fit.</p>
+
+<p>THERAPIST: You have relied on yourself to build a lot. There's something about . . . </p>
+
+<p>CLIENT: Needing to use other people. [ ] (inaudible at 00:34:46)</p>
+
+<p>THERAPIST: Yeah. What about it?</p>
+
+<p>CLIENT: I don't know. It's a matter of reaching out. Who wants to do this? [00:35:01] And then they should. We can. We have the capability. If you can use Unigate and program and you can make art and you can do sound and I can design, then let's just make a game. Here you go. Congratulations. We've done it.</p>
+
+<p>THERAPIST: What I think is relevant here is, again, your history of it really being much more a wise improvement to doing things on your own. To open it up to help was . . .</p>
+
+<p>CLIENT: That's always been my difficulty. This is the same thing with G.I. Joes. I stopped playing G.I. Joes with my friends around fifth grade, I think, because they were doing it wrong. I had these story lines that were going on that were complicated and went on for months at a time. [00:36:04] Six months of my life were dedicated to one story art with my action figures and they generally didn't want to play. He wouldn't do that. He's also got a broken arm so he can't hold the rifle. He's got to use a pistol in the other one. You weren't here for it, but I'm telling you what happened. So, yeah, they couldn't be part of it. They wanted to bring their own hold the rifle. He's got to use a pistol in the other one. You weren't here for it, but I'm telling you what happened. So, yeah, they couldn't be part of it. They wanted to bring their own [ ] (inaudible at 00:36:30). </p>
+
+<p>THERAPIST: Would it ruin it for you?</p>
+
+<p>CLIENT: Yeah. It's like, "This is the thing I'm working on." They're like, "Oh, here's what I want to do." Well now we're not doing my idea. Now we're doing something else and I'm just trying to work out my idea, please, and you're being really distracting trying to bring it in a totally different direction. While you go do that, I have something else I'm doing now so go away. [00:37:05] (pause) I was at my friend's house last night. He had a brain tumor and still has it. It has tendrils all throughout the base of his brain so it can't be taken out. They would have to remove his medulla oblongata - so kill him, effectively. Because of it he had a shunt in his head to drain fluid. But then about three years ago the shunt got infect he spent a year just having multiple brain surgeries, several brain surgeries in the same year and so he was fucked for the longest time and he couldn't remember for very long. [00:38:12] Basically he would just wake up and not know who his wife was. He may remember coming into work and she was [ ] (inaudible at 00:38:18). She was like, "This morning she woke up and he didn't recognize me so we got him to the doctor and he was very confused." Fucking brain surgery. Now it's been a number of years and he's doing much better. He seems much more like his old self - but he isn't. We're talking and [ ] (inaudible at 00:38:45) he's like, "Remember, I had brain surgery and I can't hold onto this thought. It's like if we go away I won't remember what I was talking about so I'm going to stay with it." He gets these ridiculous headaches. [00:39:01] He's also a Baron barometer because he knows when the rain is coming because of the pressure in his head. It knocks him out essentially.</p>
+
+<p>THERAPIST: What's that - a Baron barometer . . ?</p>
+
+<p>CLIENT: A Baron barometer, who is actually is the baron of [Blackland] (ph?). You know, the Blackland? It's this tiny little island country this dude sells chunks of, like one-foot chunks of his land and you become a baron of that piece of land. You buy it for like $100 and you get a one-foot plot of land in this country that you are a baron of now. It's just a funny thing. He's tried to do marijuana for the pain management and he's like, "It's the best thing. It's the greatest thing. I don't have pain anymore." So he's going to apply for a card once it opens up. I'm sure he'll be able to get one. It's like, "I had brain surgery and I'm in constant pain from having had all these brain surgeries. This tumor will eventually kill me. We don't know when."</p>
+
+<p>THERAPIST: Something to deal with that pain. Yeah.</p>
+
+<p>CLIENT: Yeah. So I went over to his place last night. He really has a lot of weed. He has a vaporizer which is great. He uses the vaporizer. It's warm. I don't know if you're familiar with how it works but it's this little wooden box with a Plexiglas slab top over it. You put weed in the circle, close it - there's a hole in the side where you put a battery. It has a battery in it that lights up this little wire that then vaporizes the weed that you breathe through this small tube. So it's really great, the smoke that comes out. [00:40:58]</p>
+
+<p>THERAPIST: Does it make it clear and cleaner?</p>
+
+<p>CLIENT: Yeah. You just get the THC of the cannabis and you don't get any of the crap that comes with burning plant matter, so it's much cleaner. It was really nice. I was like, "Ah. This is very pleasant." We smoked weed over the course of a few hours. He's made all these chocolate truffles. He takes all the excess weed after it's been through the vaporizer and puts it in the slow cooker with a couple of sticks of butter for eight hours and it melts down and you strain out the weed and you cook with this butter. </p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: Yeah, truffles, man. You eat some truffles. These are really good.</p>
+
+<p>THERAPIST: What have you noticed since, though? I think you were talking two weeks ago or last week about it can be good, the pain . . . [00:42:04]</p>
+
+<p>CLIENT: It takes away my shoulder pain. I don't feel pain, you know, which is really nice.</p>
+
+<p>THERAPIST: Is there any kind of an emotional hangover from that either?</p>
+
+<p>CLIENT: I'm a little tired. It can make me tired. That's the problem of smoking for a few days in a row. There are issues unless I keep smoking it. That's the difference if you just keep smoking it. And if I could get a card it would be like "I just smoke weed every day. This is my life now. I'm smoking weed every day."</p>
+
+<p>THERAPIST: Would you do it?</p>
+
+<p>CLIENT: Probably. Probably. There are trade-offs.</p>
+
+<p>THERAPIST: What is the trade off?</p>
+
+<p>CLIENT: I get the creativity back. [00:43:00] I get the creativity back that the Lamictal takes from me. That's the biggest problem. The Lamictal really cuts into my creativity hard core. That is the trade-off. (pause)</p>
+
+<p>THERAPIST: When you're using it consistently, what is the downside of using it?</p>
+
+<p>CLIENT: I'm more numb. I'm a little slower most times, but I'm happy. Again, imagine there was a button you could press that would make you happy when you were having trouble. You have no control over your emotions and someone gives you a button you could press. It's like, "Well, this is nice."</p>
+
+<p>THERAPIST: It relieves a lot.</p>
+
+<p>CLIENT: It does. It relieves a lot. It's like, "Oh, God. This is nice." I was feeling so down. [00:44:00] The other day on Tuesday I was like, "Oh, shit. I'm going down. It's happening. I'm going down." I don't go up anymore, I just go down when I change. That's not great. So Barry is like, "Yeah, I have a little weed. You want to smoke some?" Yeah, I do. Actually that would be really good.</p>
+
+<p>THERAPIST: I'm glad you called. He called on Tuesday?</p>
+
+<p>CLIENT: Yeah. I was sitting there like, "Yeah, I'm definitely depressed today. I should probably call." He gave me a little pack to go, too, so that will be nice. There was a trade-off. The trade-off is I can't really do Let's Play because the more I try I'm like, "No, it's awful."</p>
+
+<p>THERAPIST: It's just awful to try?</p>
+
+<p>CLIENT: Yeah. [00:45:03] I lose focus and I go silent. So much goes on in my head that I go silent.</p>
+
+<p>THERAPIST: Was anything happening on Tuesday? What was happening on Tuesday? What did you notice?</p>
+
+<p>CLIENT: Monday, I think, is when I called you. You must have been out, so it was Wednesday.</p>
+
+<p>THERAPIST: Yeah, we talked about it.</p>
+
+<p>CLIENT: I was just going down. I was going to make eggs for dinner and I hadn't sprayed the pan with Pam previously so the eggs weren't coming off the Teflon very well. There was a moment there when I wanted to cry. I was like, "Yeah, that's not good. This is not good. Because I was so upset about these eggs . . ."</p>
+
+<p>THERAPIST: That they wouldn't get off the Teflon?</p>
+
+<p>CLIENT: They wouldn't come off the Teflon correctly and I was so upset. I was like, "This is not a good sign." [00:46:00] And so I do what I have to do when I start feeling that way. I just shut down and become tired very quickly. I think it's a learned response, partially, that my body goes into. The old response is not to care about anything and then you start to go down and nothing matters.</p>
+
+<p>THERAPIST: You know I realize I took until the next morning to get back to you. Part of it was because I was out very late.</p>
+
+<p>CLIENT: No, I figured. [I don't need you to get me to turn around.] (ph?)</p>
+
+<p>THERAPIST: I know there was a time when I also thought and realized there was a time of need and you were gone. I didn't know for sure but I sensed that you were calling, not only to talk about the session, but saying that something was going on.</p>
+
+<p>CLIENT: I needed to come in, certainly. I recognized that.</p>
+
+<p>THERAPIST: No, no. I'm sorry I didn't get back to you quicker. [00:46:59]</p>
+
+<p>CLIENT: It's really all right, man. Again, I understand. It doesn't matter when I'm depressed. There's nothing you can say when I'm depressed to make me feel better. Allie Brosh, the writer of Hyperbole and a Half, took a year off from blogging. Are you familiar with her work? </p>
+
+<p>THERAPIST: Yes.</p>
+
+<p>CLIENT: It's not that my fish are missing, my fish are dead. </p>
+
+<p>THERAPIST: My fish are dead. Don't go looking for them.</p>
+
+<p>CLIENT: Yeah. Don't go looking for fish, they are dead. "I'm sure they're over here somewhere." No. the fish are dead. It's really an apt description. My fish aren't missing, they are dead. And it's true. Other people really do think there's some way to fix it, like maybe they can say something or do something that will change their depressed state. No. That's what happens. I feel my body runs out. My body is no longer making the chemicals, is what it feels like. You kind of know that production of this chemical has stopped and now I'm just subsisting with what's left in my system. That is kind of drawn out. You can feel it running out. Then I'll actually be like, "It's gone. It's all gone." [00:48:08] Again, it's just an illusion that people have. "Happiness is a state." No. It's a chemical response. Your brain releases chemicals to encourage certain things like holding babies, playing with puppies, eating food, making food, forming strong bonds, creating little humans or trying to - or tricking your body into thinking you're trying to make those humans. (pause)</p>
+
+<p>THERAPIST: I'll say this, though, making a call or talking changes brain chemistry, changes the brain.</p>
+
+<p>CLIENT: Does it?</p>
+
+<p>THERAPIST: Yeah. Yeah.</p>
+
+<p>CLIENT: Interesting. Which is life-affirming, isn't it? Your body recognizes you're looking for help and tries to do something. It's like, "Ah, yes. This is good for me. Do this. I don't want to die." [00:49:01] All living things wanted nothing more than not to die. That's just a true statement. It's the most basic thing to all life, the desire not to die - once one realizes that death is possible, certainly. I don't know how the earthworm thinks about their mortality or if it does. But if it has anything resembling thought other than "dirt goes in; dirt goes out". It's a simple organism. My dog rolls on it. Did I tell you he found and killed a baby bird?</p>
+
+<p>THERAPIST: Yes.</p>
+
+<p>CLIENT: Every day he goes back to that tree and looks for it. Every day. He stands on his hind legs and looks in the branches and he's just like, "Once I found a baby bird here and I killed it and it was amazing."</p>
+
+<p>THERAPIST: I want another.</p>
+
+<p>CLIENT: I want another one. Ginny was like, "Maybe it was already dead," but I was like, "Nope. It was not already dead."</p>
+
+<p>THERAPIST: He killed it.</p>
+
+<p>CLIENT: Yeah. And she's like, "How do you know?" I was like, "Because it's part of my job. Pulling things as they die." It's true. (pause) We're on for tomorrow at 9:00, right?</p>
+
+<p>THERAPIST: Yes, we are.</p>
+
+<p>CLIENT: Awesome. I'm hoping the recruiter will get back to me today.</p>
+
+<p>THERAPIST: I was thinking, too, you smoking to get some relief.</p>
+
+<p>CLIENT: It works. And it works immediately.</p>
+
+<p>THERAPIST: That was last night, right?</p>
+
+<p>CLIENT: Yeah. It works and it works immediately. Yep. I want to apply for a card to get some. I don't know if they would. [00:51:02]</p>
+
+<p>THERAPIST: They're not going to allow that in Rhode Island [ ] (inaudible at 00:51:04).</p>
+
+<p>CLIENT: [ ] (inaudible at 00:51:06) This is how the wording is: "It's for a variety of these horrible diseases and anything else a physician thinks it's good for." </p>
+
+<p>THERAPIST: Oh, is that right?</p>
+
+<p>CLIENT: So the wording is there. The implication is very heavily that it's only good for serious stuff, but the wording is there that a physician can make a call.</p>
+
+<p>THERAPIST: It is up to the physician's instruction?</p>
+
+<p>CLIENT: I will eventually have to have a conversation with a doctor like this is something you will do and if not I will need find another doctor. I will find one who does. Those will be very popular doctors.</p>
+
+<p>THERAPIST: You will find a doctor that will do it.</p>
+
+<p>CLIENT: Yep. We're done for today.</p>
+
+<p>THERAPIST: Yep. Tomorrow. By the way, if it ever feels like it's more pressing, I will interrupt whatever is going on and call, as long as I get the message.</p>
+
+<p>CLIENT: If it's like I have an emergency I'll call 911.</p>
+
+<p>THERAPIST: [ ] (inaudible at 00:52:13) I think you're right. I think you're right.</p>
+
+<p>CLIENT: Sometimes. (both laugh) Take care.</p>
+
+<p>END TRANSCRIPT</p>

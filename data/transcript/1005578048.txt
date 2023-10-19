@@ -1,0 +1,881 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: Week, but one meeting that we're going to miss will be the 22nd of July.</p>
+
+<p>CLIENT: Okay.</p>
+
+<p>THERAPIST: It's a Monday.</p>
+
+<p>CLIENT: Okay, sure, cool.</p>
+
+<p>THERAPIST: So we'll be back on the 15th, the 18th, and then I'll be out the 22nd but back the 25th. All right? </p>
+
+<p>CLIENT: Okay, cool. Awesome. Sounds good, sounds good.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Yeah, the game is coming along really nicely.</p>
+
+<p>THERAPIST: Yeah? </p>
+
+<p>CLIENT: Yeah, which is actually really nice.</p>
+
+<p>THERAPIST: Sweet, man. </p>
+
+<p>CLIENT: I'm actually further along now than I was in the previous tool set. I'm in much better shape than I was in the previous tool set.</p>
+
+<p>THERAPIST: Oh, cool.</p>
+
+<p>CLIENT: The logic I'm using is much tighter and better distributed. It's really nice.</p>
+
+<p>THERAPIST: Well, cool.</p>
+
+<p>CLIENT: Yeah, it's been neat figuring out where to take pieces and move them, and... I was having a hard time making all these six different objects work together in a unit. [0:00:53] So I just built another object to tell them all what to do instead. </p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: It's like, oh, it's your turn (inaudible at 0:00:58). And it's like, okay, I'm done with my turn. Okay, great, so then I guess it's your turn now. And it's better. It's very nice. It's [real simple to manage it] (ph). </p>
+
+<p>THERAPIST: All right.</p>
+
+<p>CLIENT: And it's interesting. You have to build all these little machines to run all these little functions. So you have to get the click manager. So it's like, whenever someone clicks, it's like, okay, wait, what did you click on? And it's like, well, was it one of these three things? Was it a person or an enemy or a bug? It's like, no. Okay, fine. Keep listening.</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: (inaudible at 0:01:35) whatever you click on. It's like, I clicked on a... I clicked on something. Okay, great, cool. So was that an enemy? It's like, yeah, it was an enemy. Great, okay, cool. Who's the active agent right now? It's like, oh, this player is the active one. Okay, great, in that case, he's going to attack first.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: And that just kind of works through the entire (crosstalk).</p>
+
+<p>THERAPIST: There's a whole kind of logic you've got to follow. [0:01:56]</p>
+
+<p>CLIENT: Yeah, and machines talking to machines...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Just being like, you do this thing. It's very cool. It's like when I say, activate, you do the following thing. If I say end a turn, you do this other thing.</p>
+
+<p>THERAPIST: Oh, okay, yeah.</p>
+
+<p>CLIENT: And it's just all very quickly... and this is not revolutionary stuff. But this is... what is great about this is that this is visual coding. As soon as you took coding and you made it visual [for me] (ph), it's so much easier.</p>
+
+<p>THERAPIST: Oh, right, okay.</p>
+
+<p>CLIENT: Yeah, it's so much easier. I can just look at it. One of the biggest hurdles I often had in trying to do regular programming, besides [all that you learn is] (ph) tedious syntax, which is always slightly different based on which language you're using. And it's easy to mess up. You have to look at the (inaudible at 0:02:40) vision thing. And... but the real issue was structuring it in my head, trying to imagine what this thing looked like. And they get very quick at it and huge. [0:02:56] Then I'm having just pictures and flow charts and arrows and their transitions. It's...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: It's like, ah. I can move things around. I literally move them around on the screen.</p>
+
+<p>THERAPIST: Yeah, it's still doing the same kind of logical pattern without all the syntax.</p>
+
+<p>CLIENT: Yes, it's all the exact same logic. Yeah, it's all the exact same logic. It's just a different way of viewing...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: You're inputting information, arranging information to input. And it's far superior for me. And I would have a lot more... I am limited in a sense, in that the tool set only has so many actions. But it has a lot of actions, and they cover basically anything you'd want to do. There's [a few] (ph) situations where it doesn't. For instance, being original (inaudible at 0:03:39), it doesn't handle arrays. Do you know what an array is in code?</p>
+
+<p>THERAPIST: Yeah, no, I don't.</p>
+
+<p>CLIENT: It's a list. It's a list. It can be one to three dimensional. It can have X, Y, and Z values.</p>
+
+<p>THERAPIST: Okay. [0:03:55]</p>
+
+<p>CLIENT: But usually you'd use an X. The one dimensional one with an X. You're like, okay, there are eight indices in this, labeled zero to seven. And there's something in each one of those. And then it's a matter of saying, hey, array, what's in your third X? It's like, oh, it's this thing. Great, in that case... and this is where you store information (inaudible at 0:04:14).</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: It's like, I need to know this at this point. And you use it with all sorts of things. But System doesn't actually do them because you can't really make a picture of an array very efficiently. I mean, you can build one in the system, but it's this huge structure (crosstalk).</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: So it's like, oh, let's do that. But someone was like, oh, I just made arrays. He's like, I made arrays for seven (ph). Here it is. You import it. (inaudible at 0:04:40) great. So you just take it, and you put it in. Not only will it help you make stuff that you probably needed already, but you can also... if you can code or if you can figure out how to code it or get someone to code it for you, you can write (ph) new actions.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: So it's offensible (ph). So it's this amazing system. [0:04:54]</p>
+
+<p>THERAPIST: And then there's a community that helps you (crosstalk)?</p>
+
+<p>CLIENT: Oh yeah, totally. You're like, how do I do this thing?</p>
+
+<p>THERAPIST: Yeah. </p>
+
+<p>CLIENT: And that actually came up. I really was struggling with this one thing. And it seemed so simple. I want the dude to move across the screen to another dude. And then he collides with that dude to do something, even more...</p>
+
+<p>THERAPIST: To do something when he... after he collides?</p>
+
+<p>CLIENT: Yeah, to take some action.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: So... but I want also to happen then is, while he's moving, he hits something else, and that thing is another enemy. He stops there, and hits that thing instead.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: Doesn't seem particularly difficult. Remarkably difficult to get to happen. And I kept searching for it. And all these threads are people being like, I can't do this thing. </p>
+
+<p>THERAPIST: (Chuckling)</p>
+
+<p>CLIENT: Why can't I do this thing? People are like, oh, maybe try this thing and this thing. People are having various levels of success. (Pause) I was like, this is ridiculous. And then I found a way it could work by ray casting instead (pause), which would be cool. [0:06:02] But then I'm like, okay, the amount of work I'd have to go through to learn ray casting and to implement ray casting, is it actually worth that (crosstalk)?</p>
+
+<p>THERAPIST: What you want (chuckling).</p>
+
+<p>CLIENT: Yeah, exactly. If what I really want to happen is they have to take out the guys in front before they can get to the guys in back unless you're the wizard, in which case you don't shoot anybody. And so what I did instead is, I was like, okay, when you click on a target, added a step (inaudible at 0:06:20) okay, is it an enemy? Yes. Okay, is it a legal target? And to evaluate that it says, is it on this side of the screen, the left-hand screen?</p>
+
+<p>THERAPIST: Oh, okay, right.</p>
+
+<p>CLIENT: And [if it's no I can't do anything with it] (ph). I just keep listening for a click...</p>
+
+<p>THERAPIST: Oh, okay, right.</p>
+
+<p>CLIENT: If yes, just attack. So very nice. And then I was trying to figure out how to get the wizard to shoot. And I was like, okay, so I've got to put a switch in here, it's like, if it's the wizard doing it (crosstalk)...</p>
+
+<p>THERAPIST: Wow, wow.</p>
+
+<p>CLIENT: But then I'm like, oh, what I can actually just do is take that step of game advantage out of the loop in the combat manager and put a unique copy of it into every single unit essentially. [0:06:59] So they can all handle that step differently. So yeah, just taking your transplant essentially. It's like, one organ goes into every body.</p>
+
+<p>THERAPIST: Okay, yeah.</p>
+
+<p>CLIENT: And you can change the organ once it gets there to do different things or come about its results differently. The end result is always damage to an enemy hopefully. Well, yeah, that's not true. I'm expanding that, so there's always some end result with taking an action on some other object and getting... and putting the ability to handle that on each individual person will make a lot more sense, and it works so much better. So in any case...</p>
+
+<p>THERAPIST: But yeah, each step was a little puzzle you had to figure out.</p>
+
+<p>CLIENT: Yeah, every single step, every single thing. I'm always like, okay, once I do this, the next thing will be easy. But I'm like, no, the next thing will be the same thing (inaudible at 0:07:48) if I don't learn it. Okay, so how do I do this? And what's great is I can learn it. Everything is documented...</p>
+
+<p>THERAPIST: Yeah. [0:07:56]</p>
+
+<p>CLIENT: Not terribly well, but there's people talking about it. People make YouTube videos, like, here, I'm doing this specific thing.</p>
+
+<p>THERAPIST: Oh, is that right? </p>
+
+<p>CLIENT: Yeah. That's pretty common. It's like, here's the thing where you get a key card. And if you have the key card, you put it into this pedestal. And that lights, and then you need a different key card for that pedestal. And if you light them both up the door opens. It's like, okay, great, simple, common things. They're like, here's how you set up triggers to do various things. Great stuff, all sorts of stuff. And...</p>
+
+<p>THERAPIST: Using a specific programming tool box.</p>
+
+<p>CLIENT: Yeah, exactly. And...</p>
+
+<p>THERAPIST: What's it called, the program?</p>
+
+<p>CLIENT: program is the toolset, and System is the add on that makes it visual.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: Yeah. And program is extremely popular. And the version I have is now free actually, which is nice.</p>
+
+<p>THERAPIST: Oh, okay. </p>
+
+<p>CLIENT: I paid for it four years ago, but... because they put the new version out which is better. This is still incredibly good. You can make any sort of game on it...</p>
+
+<p>THERAPIST: Oh. </p>
+
+<p>CLIENT: (inaudible at 0:0:8:57). [0:08:59] But the realization that I can do that... it's really... it's the one... there's one thing I really took from working that job(sp?)... or rather the one thing he once said that actually really I kept, because it seemed important, was, people were saying, why didn't you go to these Providence post mortem venues and looking for new people in the industry? He's like, really, all these people are going there trying to get jobs in the industry. He's like, if you're into games, you should just make games instead of asking for permission.</p>
+
+<p>THERAPIST: Hmm.</p>
+
+<p>CLIENT: And that's actually a very true point, because the industry is very competitive, the spots. And once you get to a company there's no, let's make your game. It's the guy at the top, let's make his game.</p>
+
+<p>THERAPIST: Yeah, he's... yeah.</p>
+
+<p>CLIENT: He's got to know... he started a game company because he has games he wants to make, and he's going to make those games. </p>
+
+<p>THERAPIST: Right, exactly. [0:09:55]</p>
+
+<p>CLIENT: There's a huge indie market now, it's totally viable. </p>
+
+<p>THERAPIST: Okay, yeah.</p>
+
+<p>CLIENT: And with Pete backing the original version of this, should be able to get some amount of cash out of it. Any amount of cash would be great, which would then allow us to start in with Kickstarter for the next one, which potentially could... so this is if everything goes well. This is a great scenario.</p>
+
+<p>THERAPIST: That's wonderful (ph).</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Give yourself a chance (chuckling).</p>
+
+<p>CLIENT: Yeah, I really am. I should have done this four years ago, but...</p>
+
+<p>THERAPIST: You're also... it sounds like you're also just developing a pretty good skill.</p>
+
+<p>CLIENT: Useful skill? Yeah. Totally. I mean, I can put it on a resume, program and system. And...</p>
+
+<p>THERAPIST: Is that right? That'll all be something that's...?</p>
+
+<p>CLIENT: Yeah, I'll put it on my resume. And that'll... depending on where I apply that'll mean something. But the thing is, being like, oh, no, sorry, I won't program in System, is not going to be an issue for much longer. [0:10:56] A lot of places in other industries would be like, no, we code with code. But even eventually with them, like, no, no, we code in code. But also for most things you do there's this visual system. And it doesn't do it, building in code and put it into the visual system.</p>
+
+<p>THERAPIST: Oh, okay, yeah.</p>
+
+<p>CLIENT: It's no big deal. So really soon what coding will be is your ability to think through logic problems.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: That's just it. It's like, how do you solve a problem, which is mostly what it is now. It's how you solve the problem in a specific language. </p>
+
+<p>THERAPIST: No, that's interesting, right, because it's like you're adding... it's almost like you're noticing that the syntax part of it is a whole different kind of skill set that might become obsolete (chuckling).</p>
+
+<p>CLIENT: Right, yeah. I mean, except maybe for a very few people who want to continue to keep it at the machine level.</p>
+
+<p>THERAPIST: Right. Yeah.</p>
+
+<p>CLIENT: But especially when we get processes that can do stuff fast enough that, even being so far a stretch from the screen language, it's still fast enough with the actual noticeable difference to our minds between binary speed and visual speed...</p>
+
+<p>THERAPIST: Oh, yeah. [0:12:01]</p>
+
+<p>CLIENT: Would be (crosstalk).</p>
+
+<p>THERAPIST: Yeah, you point out that's one of the big differences about speed.</p>
+
+<p>CLIENT: That's the big difference is... yeah. And it depends, I mean, in terms of what you're going to try to do. But that's okay. You can make games in system. And I think it's really well suited to making 2D games, which are generally lower power anyway. </p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: And so... [and are you going to] (ph) make 3D games in it?</p>
+
+<p>THERAPIST: It might be (inaudible at 0:12:30) 3D.</p>
+
+<p>CLIENT: It might be, I don't know. I mean, it may not be any significant difference at this point. (Chuckling) we may happen to be at the point where it doesn't matter so much. But again the market will still veer to the software (ph) puzzles, and that's exciting.</p>
+
+<p>THERAPIST: So the latest Halo, what did they use to program it? [0:12:54]</p>
+
+<p>CLIENT: Oh, they own proprietary.</p>
+
+<p>THERAPIST: Oh, is that right?</p>
+
+<p>CLIENT: They make their own engine out of something, C# or C++ or...</p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: Yeah. Maybe they have some JavaScript in places and stuff, but I don't know. (Pause) Yeah.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Totally. So... but they build their own (inaudible at 0:13:09), is what they do.</p>
+
+<p>THERAPIST: That's interesting.</p>
+
+<p>CLIENT: But program is like, [hey, anything you develop] (ph) (crosstalk).</p>
+
+<p>THERAPIST: Then you develop on program, okay, I see.</p>
+
+<p>CLIENT: It's a full-power, professional tool to make professional level games. </p>
+
+<p>THERAPIST: Yeah. Mm-hmm. Yeah, it's kind of like what I guess they did in the music industry. Everybody can make their own... really have studio level equipment (inaudible at 0:13:34).</p>
+
+<p>CLIENT: Yeah. People make stuff. That's the...post-scarcity society. What can you do with the brain? There you go. I was watching this great thing on TED. I love fucking TED talks. I subscribed to them recently because I was like, why would I not subscribe to these? They're brilliant. [0:13:56] And you keep seeing... this guy's talking about the role of robots in the future.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: And how... he's like, robots will be taking care of us. He's like, there will be more of us who are old than who are working. He's like, more of us will be old than there are who are working adults. And he's like, well, another thing is that even the caregivers are older. People who are taking care of old people are older than they used to be.</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: He's like, so robots will really have to take over this level of care. And he's like, bipedal robots that take your groceries in and things like that. And hopefully someday, once they can feed the very deathly ill and watch their face when they're ready for more, see if they've swallowed, receive all that and then offer more...</p>
+
+<p>THERAPIST: Mm-hmm. Interesting. [0:14:54]</p>
+
+<p>CLIENT: Yeah. So they built a robot. He's like, this big problem factor of ours is they're incredibly dangerous. They have no understanding or awareness of where you are. You can't really predict what they're going to do unless you know the pattern. But they also move incredibly quickly.</p>
+
+<p>THERAPIST: They move... they do move...?</p>
+
+<p>CLIENT: Yeah, I mean, they can move very quickly. There are specific (inaudible at 0:15:16) can do stuff now. So... quickly enough that they're dangerous. He's like, so that's a problem. And so he's built something new. It's got a base it stands on, but it's got a torso, a head, and two arms with pincers. And the head is an iPad screen with these two cartoon eyes on it. And the eyes look at what it's doing. (inaudible at 0:15:47) its eyes literally go like this, pick it up, and it looks where it's going to put it, puts it down. And so now you know as a human. You're like, ah, those are its intentions. That's what it's doing... [0:15:57]</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: By looking at the eyes. You see the eyes and now like, oh, that's what it's doing. </p>
+
+<p>THERAPIST: Yeah, you've figured out... that's how you predict behavior and movement.</p>
+
+<p>CLIENT: Right. So it also has great force (ph) sensors. So if it touches you it stops. It's like, oh, I'm sorry, there's resistance. I'm not supposed to walk through things.</p>
+
+<p>THERAPIST: Oh, yeah. </p>
+
+<p>CLIENT: Also you can take things out of the pincers while it's in the middle of doing stuff. It knows not to resist that. It's like, oh, okay, do you want that? You can just have it, you can have it.</p>
+
+<p>THERAPIST: Oh, okay. Yeah, so somebody pull...</p>
+
+<p>CLIENT: Yeah, if somebody has to pull something out of its claws, it's going to be fine. So that's all cool. But the most impressive thing is that you teach it. So this guy goes around to one of the arms and pushes a button on the arm, which makes the arm go into zero gravity mode. Essentially it's easy to move, but it stays where you put it. So... and he gives it a cup, and he closes the pincers on the cup, so it's holding the cup. [0:16:56] And it's like, this is an object. And it's like, okay, got it. I see it, I know how it feels, okay, I recognize it. He's like, great. He takes the arm and draws the screen... the eyes move to the corner of the screen, it shows the interface. And he uses the arm to draw on the screen what the physical space (inaudible at 0;17:14) the area in which to look for that cup.</p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: And then he shows it... he puts it through the motion he wants it to do. He's like, pick it up, move it here, you're going to drop it in this receptacle. He's like, and that's your motion.</p>
+
+<p>THERAPIST: He does that how? He does...</p>
+
+<p>CLIENT: He just moves the arm around. (Crosstalk)</p>
+
+<p>THERAPIST: He takes the... actually grabs the arm...</p>
+
+<p>CLIENT: He's like, now you're here. I want you to do this. Now you're here, I want you to do this.</p>
+
+<p>THERAPIST: Really? Wow. And that's programming it when he does (crosstalk)?</p>
+
+<p>CLIENT: Yeah, but then it learns how to do it. </p>
+
+<p>THERAPIST: Holy cow.</p>
+
+<p>CLIENT: And then it spends its time learning how to do that action until it gets it right. </p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: Yeah. So... now they put these factories. They're trying to put these in factories. And this woman in her 50s working in an assembly line, they gave it to her, they explained how it worked. And within an hour she'd already programmed it to do these menial tasks that took her more time than they were really worth essentially in terms of how her brain power could be spent. [0:18:00]</p>
+
+<p>THERAPIST: Oh, huh.</p>
+
+<p>CLIENT: So her productivity goes up, and she's like, it's a tool, Kylie (sp?). This robot is a tool.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: And I think that's something that he's mentioned is that, robots will replace certain jobs, but they will become tools in other jobs. He's like, Excel made accounting better.</p>
+
+<p>THERAPIST: Made what?</p>
+
+<p>CLIENT: Accounting. </p>
+
+<p>THERAPIST: Oh, yeah, sure.</p>
+
+<p>CLIENT: You've got Excel. You got rid of all the menial (ph) math. It's like... and it does it perfectly every time. </p>
+
+<p>THERAPIST: Right, yeah, yeah.</p>
+
+<p>CLIENT: And it's like, no problem. Librarians with Google. It's like, yeah, now we can do all sorts of crazy... now they're like information czars. They just understand how to find answers. It's like, they can search better and faster than you can. That's what makes them valuable (ph). They know how to structure certain... (inaudible at 0:18:41) does it at Brown. He structures searches. Like, you want to know these things. He's like, great, I will build ways to get that information faster and more (crosstalk).</p>
+
+<p>THERAPIST: Oh, okay, yeah. (Pause) </p>
+
+<p>CLIENT: So that's cool. [0:18:56] </p>
+
+<p>THERAPIST: That's something, though, those robots, to try to make them more responsive to humans like that.</p>
+
+<p>CLIENT: Yeah. Already... yeah, and they have to be. And they really have to for us to work with them, because we have to understand what they're doing. We have to expect what they're doing.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: The more lifelike they are, the (pause) better their [relationship's going to be] (ph).</p>
+
+<p>THERAPIST: Yeah?</p>
+
+<p>CLIENT: And that's the thing, it's going to be a relationship with this thing. And as we do this, as we can teach them more and more complex things, really the question is going to be, what's the difference? What's the difference? As they start having complex enough thoughts that... even though it will be programmed, all the ability to have those thoughts, and you program the decision-making [you need to do this] (ph), and it's like, yeah, we built all that. But now it is running, and it's making decisions. And then the question comes up. It's like... (Pause) Maybe it's like the vegetarian (ph) question, and I can't remember what it is. [0:19:58] It's some sort of quote about, it's like, it's not so much we should be thinking, do the animals think and have personal lives? He's like, you should be thinking, can they feel pain? Do they suffer?</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: It's like, that's really the question, and that'll be the question with robots. It's like, well, can they suffer? Can they experience pain of any kind, and not just physical but emotional?</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: And can you hurt their feelings? And if so, how do we have to interact with them [until they went away] (ph)? </p>
+
+<p>THERAPIST: Well, would it be, too, that eventually you want the robots to have feelings so they can be more adaptive? </p>
+
+<p>CLIENT: Well, eventually they have to. Yeah, well, eventually, because all that they're doing now is simulating emotions in robots. There's an Einstein that they made, and they put it (inaudible at 0:20:39) robot. But it's a Hollywood-level mask, so it's pretty good quality. But it's got servos (ph) that read your emotion on your face and adapt to that... [0:20:55]</p>
+
+<p>THERAPIST: Ah.</p>
+
+<p>CLIENT: To try and mirror your state.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: And it's eerie, because they really put in little things that are like, huh, okay. Like, it does tiny little things that are human. There's this one robot that look at you and really listens to you and gives the impression that it's interested in what you're saying. (Pause)</p>
+
+<p>THERAPIST: Yeah, and I guess the question, is it real? At what level is it real?</p>
+
+<p>CLIENT: At what point does it become real? At which point does it become a being? At which point does it become a being? When it can tell you if it is? And that's the thing. (Chuckling) When it just says, oh yeah, by the way, I am this, it's like, well, what would you mean? What do you mean? When we can ask them, what do you mean by that...</p>
+
+<p>THERAPIST: Yeah. (Pause) Or they... yeah, they have I statements, me. A me or an I.</p>
+
+<p>CLIENT: Yeah, I mean, they're... and they're going to become... (Pause) Robots will take care of us. [0:21:55] And then... (Pause)</p>
+
+<p>THERAPIST: What? Yeah.</p>
+
+<p>CLIENT: I don't know, they'll have created a race. We've created a legacy. As a species we have created another species which will be able to evolve even faster. Or can it? Or can it? There's got to be a limit. So we will be able to engineer ourselves. We're already capable of doing it in small ways, but ourselves, really ourselves, not just mice and junk (ph). To improve, to be better, we change our DNA. And... to make each of us a great expression of what a human can be. Everyone is born an Adonis, I mean, and... or an Aphrodite (inaudible at 0:22:46). Everyone is born perfect biologically. I think we're coming to that point. [0:22:54] And the thing about Gattaca was the... I love Gattaca, but the problem with Gattaca...</p>
+
+<p>THERAPIST: The Ethan Hawke? Yeah. [0:23:00]</p>
+
+<p>CLIENT: Yeah. The problem with Gattaca is (pause), in the world we've created, you really can't do that, because he's like, no, I'm not genetically engineered to be amazing. But I can still do these things. It's like, no, you can't. You actually are not good enough. You'll never be as smart.</p>
+
+<p>THERAPIST: Oh, that's right.</p>
+
+<p>CLIENT: It's like, you'll never be as smart, you'll never be as strong, you'll never be as... have as much endurance...</p>
+
+<p>THERAPIST: Yes.</p>
+
+<p>CLIENT: You'll never have any of these things. But the fact that you would go to space, you would trick your way into the space program as an astronaut...</p>
+
+<p>THERAPIST: Yeah, what...?</p>
+
+<p>CLIENT: Endanger so many people, endangers all those other astronauts who are good enough to be there, who are operating at a level higher than you are. The expectation has... the bar has been raised.</p>
+
+<p>THERAPIST: Mmm.</p>
+
+<p>CLIENT: And that's the problem. It's... Gattaca wouldn't work. You couldn't do it. You absolutely could not do it.</p>
+
+<p>THERAPIST: Why? What's the...? [0:23:55]</p>
+
+<p>CLIENT: Well, I don't know if you know the... so the premise of it is that Ethan Hawke is born right around the time that genetic engineering becomes a thing. And so his parents go... he's born (ph), they read his... sorry, they're like, okay, we can genetically fix some stuff in your son before he's born. They're like, oh, we want to have him naturally. So they have a natural baby, they look at his DNA when he's born. Like, okay, he'll probably live to be about 37, 48, somewhere in that range. He's got his various things. Like, these are all the health problems he'll have through the course of his life. These are the maximum things he'll achieve in these areas. And they're like, oh, okay. And they don't give him the father's name as they were about to.</p>
+
+<p>THERAPIST: They don't give the father's...?</p>
+
+<p>CLIENT: Name to the baby, Ethan Hawke. The second child they have genetically engineered, and he's far superior.</p>
+
+<p>THERAPIST: Who's that played by?</p>
+
+<p>CLIENT: Some guy.</p>
+
+<p>THERAPIST: Was it like Jude Law or something like that?</p>
+
+<p>CLIENT: No, no, (inaudible at 0:24:45). But...</p>
+
+<p>THERAPIST: Yeah, okay.</p>
+
+<p>CLIENT: And then he tries to fake his way into NASA essentially, because all the good jobs are taken by genetically engineered people. [0:24:55] He's not genetically engineered. He has to be a janitor. That's really the highest he can achieve, is the blue collar work...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Because they won't... they're like, no, of course not. You're just not smart enough. And he's like, no, I am. He proves to them all that he's smart enough, and he's freaking not smart enough. (Pause) (inaudible at 0:25:16) genius who lacks all the other requisite qualities.</p>
+
+<p>THERAPIST: Ah, uh-huh. So he did endanger everybody because he's...</p>
+
+<p>CLIENT: Yeah, yeah, it's like... it's not a great story when you get down to it. He's not really the hero. He's a reckless, selfish, sub-human...</p>
+
+<p>THERAPIST: Yeah, oh, I see.</p>
+
+<p>CLIENT: Sub-human, because human has changed at that point. The definition is now better. They're not the ubermen anymore. They are the people...</p>
+
+<p>THERAPIST: But he's still... I see, but he still wanted to reach that level.</p>
+
+<p>CLIENT: (Crosstalk) would reach that level and (inaudible at 0:25:44).</p>
+
+<p>THERAPIST: But he didn't have it in him to do it.</p>
+
+<p>CLIENT: Yeah, so he cheats his way through it.</p>
+
+<p>THERAPIST: He cheats... yeah, right, right.</p>
+
+<p>CLIENT: Yeah, he uses... he keeps taking... he has this buddy essentially who's rich and whatever, who switches lives with him as he has his legs broken (inaudible at 0:25:59). [0:26:00] And...</p>
+
+<p>THERAPIST: That's how he gets into the whole...</p>
+
+<p>CLIENT: Yeah. He keeps getting the guy's urine and blood samples and skin flakes and stuff, and then sprinkles it around his keyboard at work.</p>
+
+<p>THERAPIST: Right. Yes, that's right, I remember that, those pieces of it. </p>
+
+<p>CLIENT: Yeah, and so... yeah. Anyhow... so that's just... that's just that.</p>
+
+<p>THERAPIST: It's got the... yeah, it's got obviously the Brave New World element to it.</p>
+
+<p>CLIENT: We're heading there. And really, robots take care of us, we build species that takes care of us, more of us live longer and longer, older and older, genetic engineering makes that worthwhile. Now we have this race of... as perfect a human race as we are able to make.</p>
+
+<p>THERAPIST: Hmm. (Pause)</p>
+
+<p>CLIENT: And we have this race of robots. [0:26:56] Now, the question I asked earlier is, could they then evolve faster than we do? And the question is, maybe they can't, I mean, because you're limited by your own capacity. It takes effort to imagine better, greater than you are. I don't know, maybe that's not important. But regardless the fact will be there will be two species living together on this planet and on Mars and possibly the moon and maybe eventually... definitely eventually further...</p>
+
+<p>THERAPIST: Ah.</p>
+
+<p>CLIENT: As long as we don't get wiped out before we all settle on Mars. And that's the thing. That's why we get to Mars, all of a sudden the human race now exists, unless the solar system is destroyed, spread out from Mars and from earth to other places. (inaudible at 0:27:44) and we'll bring our robots with us, if there's even a difference at that point, if there's even a difference. [0:27:54] (Pause) (Crosstalk)</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And it's funny, Bicentennial Man, not a great movie, but actually brings up some things, like, that the robot Robin Williams wants to be human, because a glitch makes him sentient. And so he's unique in that regard, the only sentient robot. And he makes synthetic skin. He makes synthetic organs which work better than real organs. So people get them. They get those organs replaced especially as they get older. And he makes all these adjustments to become a fully biological human being. And he's petitioning for human status, essentially to the UN. He's like, I'm a human being. I need you to call me human. They're like, ah, you're still not... you're still a robot. He's like, you're all using the same hearts that I am.</p>
+
+<p>THERAPIST: Mmm. (Pause)</p>
+
+<p>CLIENT: So they eventually decide he's humans, but he dies right before...</p>
+
+<p>THERAPIST: Huh. [0:28:57]</p>
+
+<p>CLIENT: Or right as, they tell him. (Pause) But that raises the question, when does that difference fade? When does that line blur to the point where it makes no sense any more to ask the question? I mean, this is amazing. And we'll only see some small part of this, unless this is the generation that figures out aging.</p>
+
+<p>THERAPIST: Mmm.</p>
+
+<p>CLIENT: When we figure out scarcity and aging at roughly the same time, because we have to figure out scarcity before we figure out aging. (Pause) Who knows what we'll do? Genetic engineering of live people? I don't know [if we have any idea how to do that] (ph). We'd have to do it in utero. [0:29:55] But still there's gene therapy, then your DNA changes. There's a study that says your DNA changes if you don't sleep enough. It becomes different. So your DNA changes as you live. There's no reason we couldn't change it.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: But as we... technology as well. Technology. Robots technology. We'll wirelessly interface with robots with a little thing behind our ears, not even invasive. Yeah. Not even invasive. And there's this book called Old Man's War, which is really good. It's a part of a trilogy which is also good. But the first one's probably the best. It's about a future earth where space age relations are really good. We're on multiple planets, we've got... and we're at war. We're at war with all these various allied races all over the place. And most people are on earth. You're either on earth or you're in the military. [0:30:55] And that's what you know. You know there's war. You know there's a military in space. And you know there's earth. And if you want off earth you have to join the military. But they don't actually want you until you are 75 years old.</p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: And so you sign up at 65, and then ten years from that point you go. They take you into the military. And (pause) you go. And when you get there they're like... you get there with all these other recruits, and they're all 75 years old. And yeah, I guess we're all soldiers now. And then the very first day they sit you down across from this version of yourself, a defective version of yourself, which is green. And then they transfer your consciousness from one to the other. And they're like, now we have experienced, mature people who are our soldiers. And these soldiers are genetically engineered bodies. And they're green because of chlorophyll, because they take in nutrients from the sun as an alternate supply of nutrients. [0:32:00]</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: And when you're out of service, when you're done with the military, they put you back in a different body, a really good body...</p>
+
+<p>THERAPIST: And they just keep transferring you...</p>
+
+<p>CLIENT: Yeah, but it's not the military green body any more, no.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: And there's this whole thing where... he and his wife both signed up at the same time. But she died before the time came. And he eventually needs some of the special forces in the army, and it's her, or this version of her. And it turns out the reason it takes ten years, it takes them ten years to grow you that body.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: And so (crosstalk)...</p>
+
+<p>THERAPIST: When they meet you at 65, then they're growing you a body from that.</p>
+
+<p>CLIENT: Yeah, exactly. And then... but sometimes this happens, someone dies before it's their time. So they have this body. (Pause) And the body has sentience, it's a person. It grows as a person. But it looks full grown, but it's only really a couple years old. [0:32:55] And...</p>
+
+<p>THERAPIST: Okay, yeah.</p>
+
+<p>CLIENT: [But they're trained in special forces] (ph). And so this whole thing happens where she looks just like his wife, and romance happens, whatever. But he trains with them for a while, and he notices the things that are different. They know that bodies can be repaired really easily. Everyone's (inaudible at 0:33:15), but they've grown up knowing this. So they will sacrifice an arm in a fight to win the fight. They're like, whatever, I'll just get another arm.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: It hurts like a bitch right now, but I'll just get another one, whereas people who used to be human won't think of that. It's not even in their...</p>
+
+<p>THERAPIST: So they'll limit the...</p>
+
+<p>CLIENT: They'll limit themselves. And unconsciously or subconsciously, this is what they believe their body is capable of, in their experience.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: So there are these people who have always experienced just incredibly (inaudible at 0:33:47) bodies.</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: And... Four Lord of the Diamond. [0:33:56] It's a book series, where there's these four planets in this system that each have this different sort of bacteria of microbial thing that gets into your cells, gets into every single one of your cells, and allows you special powers on that planet. And if you leave that planet you die because those things kill you. Or they die and take you with them, essentially. So people get sent here as prison sentences. It's like, this is where you go. And now you can't leave the planet. You'll die.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: And these societies build up based on what these abilities are and who is better at them. And there's a conspiracy involving them somehow. So a secret agent has to go there. And he's like, I can never come back. They're like, don't worry. We're going to clone you four times...</p>
+
+<p>THERAPIST: (Chuckling)</p>
+
+<p>CLIENT: And send each one of you to a different version... to a different world.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: He's like, that's great. So he goes to sleep in the cloning process, and he wakes up on the ship to the first world. [0:34:58]</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: He's like, no, no, no, no, no. I'm supposed to be back in the ship. This should be my clone. But he is the clone. </p>
+
+<p>THERAPIST: He is the clone.</p>
+
+<p>CLIENT: And he goes and... each book is a different planet. He goes through this in each book...</p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: Yeah, the same, oh shit.</p>
+
+<p>THERAPIST: Yeah, yeah. Well, it brings up these very... I guess that's some of the critical part of science fiction, is that it brings up all these questions of what makes us human...</p>
+
+<p>CLIENT: Right. </p>
+
+<p>THERAPIST: And what...? (Chuckling) Who are we, and what are we? What's the difference...? I mean, using robots and cloning as ways to introduce the idea, yeah, and tell a story. But also it's getting at those...</p>
+
+<p>CLIENT: Well, and look at this. The Star Trek teleporter problem. Most people don't think about this. You're familiar with Star Trek and the teleportation stuff?</p>
+
+<p>THERAPIST: (Chuckling) Yeah.</p>
+
+<p>CLIENT: Okay. So (inaudible at 0:35:50) (crosstalk). We've talked about this, right?</p>
+
+<p>THERAPIST: Yeah. </p>
+
+<p>CLIENT: So... [0:35:57]</p>
+
+<p>THERAPIST: Because they're not really there when they get back.</p>
+
+<p>CLIENT: Yeah, I mean, well, someone is...</p>
+
+<p>THERAPIST: Somebody is, it's different.</p>
+
+<p>CLIENT: Some biological entity with all of your information and memory is right there.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: And everyone will interact with that new person as if they were you. But you, your particular instance of consciousness, is extinguished.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And then... so that's... whatever happens then. The good news is, that Sam Harris puts out, there's no reason to fear death because being dead isn't going to hurt. It's like, oh, God, I'm afraid of death. Why? It's not going to be painful.</p>
+
+<p>THERAPIST: Mmm.</p>
+
+<p>CLIENT: It would be nothing. So the only real immortality is to never die in the first place. And... but that's what people have... oh, I'll transfer my consciousness to a machine. How does that help you? You're still going to die. Yes, but this thing will live on. It doesn't matter. Nothing the hell matters to you once you're dead. [0:36:54] Either there's an afterlife and you're busy dealing with that, or there's nothing and that's fine.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: That's fine. That's absolutely fine, because, as Ginny's work has taught me...</p>
+
+<p>THERAPIST: Hmm.</p>
+
+<p>CLIENT: Numerous people see dead relatives in the weeks and months before they die, clear as day (crosstalk).</p>
+
+<p>THERAPIST: [Is that right] (ph)?</p>
+
+<p>CLIENT: Yeah. It often happens. And... to atheists, people who are like, why is this happening? Why do I see my husband? He is dead. I don't believe in anything. And so I have two explanations for this. One, there is an afterlife. And it's filled with people that you know, and they're waiting for you to show up. And that sounds fantastic. The other is that there's nothing, and your brain tricks you. To ease your way into death, your brain tricks you. Either way is great news. Either way is excellent news. [0:37:54] So...</p>
+
+<p>THERAPIST: Yeah, it certainly seems to do that biologically. If you... people that are drowning, that have survived drowning... and everybody says it's very painful, but a lot of people were like, your body just takes over, and you get very relaxed. Anything, though, where the body responds to any kind of pain, and that there's... is there a psychological equivalent to that? I think that's where those phenomena of seeing white light and peace is just like what you're saying.</p>
+
+<p>CLIENT: Right</p>
+
+<p>THERAPIST: Is it...? I mean, no one can really say for sure.</p>
+
+<p>CLIENT: Yeah, exactly. Is it real, or is it a trick? And either way, isn't that great?</p>
+
+<p>THERAPIST: Mmm, yeah. Your body's...</p>
+
+<p>CLIENT: Either way isn't that great?</p>
+
+<p>THERAPIST: Yeah, either way one thing or another, you're kind of taken care of. </p>
+
+<p>CLIENT: Right. Exactly. It's like, there is no more pain. </p>
+
+<p>THERAPIST: Yeah, yeah.</p>
+
+<p>CLIENT: Pain is over.</p>
+
+<p>THERAPIST: Yeah. It's as if we're programmed very well (crosstalk). [0:38:57]</p>
+
+<p>CLIENT: Yeah, as if we are. And that's of course the question that ran clockmaker, what's that one theory of the... but then... but even then... there's even more likely explanations for things like that, when you're like, oh, that's a really good mechanism. Some people are like, well, obviously God designed it that way, and the idea of design. What is actually I think a much more plausible... a significant... it sounds funny, but a significantly more plausible explanation than God created the universe and species and everything, is another alien race experimenting with (crosstalk).</p>
+
+<p>THERAPIST: Hmm. </p>
+
+<p>CLIENT: That's totally plausible. I love the ancient alien theory. But there's nothing that's come out of it that's actually been... not been quickly rebuffed. [0:39:55] People are all like, oh, look at these amazing things, which certainly indicate that aliens were here...</p>
+
+<p>THERAPIST: Oh, pyramids and... [0:40:01]</p>
+
+<p>CLIENT: Yeah, and (inaudible at 0:40:02). And people are like, well, no, I mean... (Pause) But the pyramids still have one thing we can't explain. (Pause) We don't know how to build that. We don't know how they did it. There's a lot of theories, but they're all able to be debunked. There's no... and really eventually what it becomes is, yeah, those are the pyramids. How did they come about? Nobody knows, because they don't seem to do anything.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: We don't seem to need to understand how they work. They're not a danger to us as far as we can tell.</p>
+
+<p>THERAPIST: Yeah, it also seems like it's connected to... I mean, those kind of discussions kind of get at something really significant about who brought us here, whether it's mother or a more genetic mother... [0:41:04]</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: It's some way of... who is responsible for...?</p>
+
+<p>CLIENT: Who's responsible, and is it anyone?</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And the question, well, is the universe expanding into... great YouTube video on that, talking about the physics of that, of, what is the universe expanding into?</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: And a couple answers. One answer is... or it's possible that the answer is, there are no boundaries to the universe. It folds in such a way that we cannot understand that there are no boundaries, that there's some way that that happened.</p>
+
+<p>THERAPIST: Beyond our level of comprehension.</p>
+
+<p>CLIENT: Of understanding, yeah, of dimensions and how they work, that...</p>
+
+<p>THERAPIST: Yes.</p>
+
+<p>CLIENT: Because the one thing we do know is that, based on the fact that the universe is expanding, we are farther and farther away from any point at any moment. (Pause) [0:41:57] We will never reach the edge of the galaxy. It will always be further and further away. So if there's a boundary to the universe we'll never get there, and we'll never be affected by it. It's...</p>
+
+<p>THERAPIST: Hmm.</p>
+
+<p>CLIENT: So we'll never be able to see it either. So... unless we figure out something (inaudible at 0:42:15).</p>
+
+<p>THERAPIST: What's it expanding into?</p>
+
+<p>CLIENT: What indeed? The idea... the theory that perhaps... this is the newest theory, which you know is... [rules right] (ph) as they say...</p>
+
+<p>THERAPIST: (Chuckling)</p>
+
+<p>CLIENT: Is that dark matter, dark energy, is a force opposite gravity, which is mass part (ph).</p>
+
+<p>THERAPIST: Part (ph). Uh-huh. (Pause)</p>
+
+<p>CLIENT: Yeah. Fascinating, fascinating. And the universe continues to accelerate. This is what we know. The universe accelerates even today. [0:42:55] Whatever began the push is still pushing. </p>
+
+<p>THERAPIST: mm-hmm.</p>
+
+<p>CLIENT: That's amazing. What happens we can find that, when we can find the center? Well, we can't actually, can we? Just as we'll never find the edge, we can never find the center. We're further and further away from it every moment.</p>
+
+<p>THERAPIST: Yes, we're always off to the side (chuckling).</p>
+
+<p>CLIENT: Yeah. So these are places we'll never be and never see. We'll (ph) be affected by them, except that something is pushing. Something is pushing, and something is pulling.</p>
+
+<p>THERAPIST: What about that? What is that...?</p>
+
+<p>CLIENT: That's amazing, dude. There's a push and pull to... gravity and then dark energy, one of them pushes, and the other pulls, pushes space apart, pulls mass together. And what is space but this fabric? What is space but this... (Pause) Two fish are swimming by, and an older fish swims by and says, how's the water? And he goes by. [0:43:58] And the two fish later are like, which one's water?</p>
+
+<p>THERAPIST: Which one's water?</p>
+
+<p>CLIENT: Yeah, you've heard this, right? What is water? And... (Pause) Right. What's water? So actually that's a very good point, because all sorts of stuff we exist in all the time that we're probably not even aware of. This whole... the idea of the Higgs boson, [a field that... a particle. If something's made of particles then it/ (ph) gives us mass, which we have no perception of. Mostly empty space.</p>
+
+<p>THERAPIST: Mostly empty space.</p>
+
+<p>CLIENT: Everything, mostly empty space.</p>
+
+<p>THERAPIST: Yeah. It's a trick (crosstalk).</p>
+
+<p>CLIENT: It's all a trick. So much of it's a trick. This is why people go crazy. [0:44:56] There's spooky stuff we don't understand. And it's... it makes sense to grasp it or explain why (crosstalk).</p>
+
+<p>THERAPIST: Our minds are set up to do that. </p>
+
+<p>CLIENT: Yeah, and if you don't know the science they'll start pulling stuff. </p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Sometimes this white bolt comes out of the sky and hits things and they catch on fire. What is that? It's got to be... there's someone up there throwing that shit down at us. Why? I don't know, he must be mad, dude. (Laughing) You see what he did? He must be pissed. We'd better do something. Yeah, try burying that child under the foundation so it won't fall down. That's a good idea. I'm going to do that. Fucking ridiculous. </p>
+
+<p>THERAPIST: Yeah, well, but there's also an element of us that's always questioning that, or it has the potential to question. We want to put together with the push and pull.</p>
+
+<p>CLIENT: Push and pull, push and pull. [0:45:57]</p>
+
+<p>THERAPIST: Yeah. </p>
+
+<p>CLIENT: Yeah, I mean, it's just crazy (inaudible at 0:46:03).</p>
+
+<p>THERAPIST: Yeah, part of us that wants order, or part of us that wants chaos.</p>
+
+<p>CLIENT: Sure.</p>
+
+<p>THERAPIST: Or chaos to make new sense of things.</p>
+
+<p>CLIENT: We need chaos for there to be new things.</p>
+
+<p>THERAPIST: Exactly.</p>
+
+<p>CLIENT: We need order to make sense of things as they are.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Yeah, dude. Cosmic forces. </p>
+
+<p>THERAPIST: And they're in us, yeah.</p>
+
+<p>CLIENT: What's that?</p>
+
+<p>THERAPIST: They're in us. </p>
+
+<p>CLIENT: Yeah, totally. Neil Degrasse Tyson. We are all connected to the universe atomically, to the earth... to the universe... yeah, atomically, to the earth, chemically, to each other biologically. </p>
+
+<p>THERAPIST: Hmm. (Pause)</p>
+
+<p>CLIENT: The fact that we're all made of stars should be blowing our minds every day, every single day. [0:46:59] It's amazing. (Pause)</p>
+
+<p>THERAPIST: Yeah, the cosmic mother.</p>
+
+<p>CLIENT: What's that?</p>
+
+<p>THERAPIST: The cosmic mother.</p>
+
+<p>CLIENT: Mm-hmm. Yeah, sure.</p>
+
+<p>THERAPIST: Made from that.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Came from that.</p>
+
+<p>CLIENT: I mean, what's it matter, these things will never affect (ph) us. I mean, the edge and the center of these.</p>
+
+<p>THERAPIST: What...? Yeah, what about that, the edge and the center, mining the center?</p>
+
+<p>CLIENT: There are places that we will never know. We don't know what's going on out there.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And we can never know, and that's fascinating. </p>
+
+<p>THERAPIST: Ah. </p>
+
+<p>CLIENT: Like, what's pushing us? We'll never know. We'll never know that answer. We can't look there. We can go back mathematically.</p>
+
+<p>THERAPIST: Yeah. Yeah, but the limits that we're faced with though...</p>
+
+<p>CLIENT: Yeah, there's things that we can't understand, we can't understand.</p>
+
+<p>THERAPIST: Yeah. [0:48:02]</p>
+
+<p>CLIENT: And Sam Harris says we just need to get to a point in time, in history, where pretending to know things you can't know is embarrassing...</p>
+
+<p>THERAPIST: (Chuckling)</p>
+
+<p>CLIENT: Has a really high social cost, the marginalization of that person.</p>
+
+<p>THERAPIST: Ah.</p>
+
+<p>CLIENT: When the Jehovah's Witnesses come to your door, pass them on the street, offering a pamphlet, took it, said thank you very much, have a great day, went on their way, because it can't hurt me. It can hurt someone else, though. And it's this tiny gesture, taking one pamphlet.</p>
+
+<p>THERAPIST: Oh, one way that they can abuse (ph) someone else?</p>
+
+<p>CLIENT: Yeah, exactly, and that's one. And that's hardly anything. But that's my contribution.</p>
+
+<p>THERAPIST: Right, and the danger of a kind of imposed order.</p>
+
+<p>CLIENT: Infectious thought, infectious order, yeah.</p>
+
+<p>THERAPIST: Yeah. Huh. [0:48:57]</p>
+
+<p>CLIENT: Because you have to use order to control.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Don't trust your own mind, your own perception of... you don't understand what is real without others to shape that, so that it is safer for you, [that you are... that you benefit somehow] (ph).</p>
+
+<p>THERAPIST: Well, yeah, and pulling together in order... for fear of being pulled apart or...</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: I think that's... (Pause)</p>
+
+<p>CLIENT: So it's fascinating to me.</p>
+
+<p>THERAPIST: Well, listen. So it's going to be...</p>
+
+<p>CLIENT: It's going to be a week and a half or so?</p>
+
+<p>THERAPIST: Yeah, well, two weeks. We'll see you in two Mondays from now...</p>
+
+<p>CLIENT: Oh, okay, yeah. </p>
+
+<p>THERAPIST: Because I'm gone Thursday and then the whole following week.</p>
+
+<p>CLIENT: The following week?</p>
+
+<p>THERAPIST: And I'll have my phone with me the entire thing if anything should come up.</p>
+
+<p>CLIENT: If anything came up? If I'm going to kill myself or something?</p>
+
+<p>THERAPIST: And it's set... what's that?</p>
+
+<p>CLIENT: If I'm going to kill myself I'll let you know (chuckling).</p>
+
+<p>THERAPIST: Well, I'll be able to... in fact if you... do you know Viber (sp?)?</p>
+
+<p>CLIENT: Viber? [0:49:58]</p>
+
+<p>THERAPIST: Viber or... I think it's... the other one... I use Viber. And that you can actually... I mean, I'll be... I'm going to be in Vancouver for three days...</p>
+
+<p>CLIENT: Oh, cool.</p>
+
+<p>THERAPIST: And so I won't be able to easily call people.</p>
+
+<p>CLIENT: Okay.</p>
+
+<p>THERAPIST: But there'll be somebody who's covering for me, but if you want to reach me you can also connect me through Viber, which I have, which is like a text messaging and phone call... if you have Wi-Fi, you can... I have Wi-Fi on my end, I can call you...</p>
+
+<p>CLIENT: Oh, that's cool.</p>
+
+<p>THERAPIST: And call people in the States. Yeah, great.</p>
+
+<p>CLIENT: Well, that's nice. That's a good deal.</p>
+
+<p>THERAPIST: Anyway. </p>
+
+<p>CLIENT: All right, cool.</p>
+
+<p>THERAPIST: But that'll be... that's Friday, not this Friday, the following Friday. Otherwise I'll be around town.</p>
+
+<p>CLIENT: I should be good though (chuckling).</p>
+
+<p>THERAPIST: Sure, yeah (crosstalk).</p>
+
+<p>CLIENT: All right, have a good time. Enjoy Vancouver.</p>
+
+<p>THERAPIST: Thank you.</p>
+
+<p>END TRANSCRIPT</p>

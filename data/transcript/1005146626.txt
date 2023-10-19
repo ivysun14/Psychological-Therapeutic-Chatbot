@@ -1,0 +1,326 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: Hey.</p>
+
+<p>CLIENT: Hey. Good morning. I actually don't have a new infusion of drama from my social life to talk about. (laughter) Actually, I can't believe it's Thursday. The last couple of days at work have just flown by. It has been really... Things keep going wrong and things, like, there has just been a constant stream of here's a bug that needs to be fixed. Here's another bug that needs to be fixed. Here's another bug. Which means I can't actually do, like, my actual job because it has all been triaging and dealing with bugs, which just like has made time seem like it is slowing weirdly. Yeah. [00:01:15]</p>
+
+<p>So, I was working in the print shop last night. I went there straight after work and I wasn't operating the press because after a full day of work there is just no way I can do that safely, but I did. People are fucking slobs and don't put away their type and it drives me crazy. So, the, the particular font I wanted, there were no R's left. So, because they were all in. You know, so, people set type and run their jobs and then leave their type sitting. There's a case along the wall with trays where you can leave your type in case, you know, the customer wants more.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Or in case you discover a typo, you can just replace the one letter instead of...</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: You're supposed to leave it for two to three weeks and then put the type back away and people are slobs and don't.</p>
+
+<p>THERAPIST: Right. You sure it's not just that nobody uses R, right?</p>
+
+<p>CLIENT: (laughter)</p>
+
+<p>CLIENT: I'm sorry. I couldn't resist.</p>
+
+<p>CLIENT: Oh, good one.</p>
+
+<p>THERAPIST: Anyway. Yeah.</p>
+
+<p>CLIENT: Anyway.</p>
+
+<p>THERAPIST: So, you're supposed to put the type away?</p>
+
+<p>CLIENT: Yeah. And, people don't. So, I went rummaging for ours and was really annoyed at, like, there were things from, like, 1993 that no one had put away.</p>
+
+<p>THERAPIST: Oh, my gosh.</p>
+
+<p>CLIENT: So.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: I just started distributing type instead of setting my own type and kind of got in to a groove and lost track of time and then Margaret, who is a chapter advisor, I think I have mentioned her before. She is one of the three journeymen.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: She came in.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: To like work on some of her stuff and we started chatting and we ended up talking until midnight.</p>
+
+<p>THERAPIST: Wow.</p>
+
+<p>CLIENT: And, that was good. That was a lot of fun. Then I got home and there was an e-mail from Ashley saying, you know, so, what's the plan for tomorrow? What's the plan? Meeting for dinner after work? At first, I had no cell phone reception in the print shop, so I didn't get his message until after midnight. Yeah. He works much earlier hours than I do. He typically works from 8:30 to 5:00 and then leaves and I tend to work 10 to 6:30 or so, which, makes, you know, meeting for dinner right after work...</p>
+
+<p>THERAPIST: Right. [00:03:40]</p>
+
+<p>CLIENT: Yeah. And, if I weren't coming here, I would have tried to, you know, get up and get to work early so I could leave at, you know, maybe not 5, but 5:30, maybe. Yeah. So, yeah, I twisted myself up in to an anxious knot over having to reply to his e-mail because I didn't know how to say that, you know, no, I can't actually leave work as early as you do without it sounding like I was being inflexible or unwilling to compromise, you know. But, I mean, in the light of day, I recognize that that's silly because you have to go to work. Yeah. (Silence until 00:06:00)</p>
+
+<p>THERAPIST: I guess I had the impression that things are going fairly well socially.</p>
+
+<p>CLIENT: Yes.</p>
+
+<p>THERAPIST: But that it would make you pretty anxious to kind of come out and say that to me or talk about being happy about it.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Because you would feel like that one of us would find some obvious, like, criticism of that or indication that was not actually the case that you thought or something. [00:07:00]</p>
+
+<p>CLIENT: Yeah. Yeah. I guess I mean I'm always worried that, you know, I'm misinterpreting situations and that they're actually, you know, people are laughing at me behind my back, or, you know, to my face and I don't notice it. I mean I could argue the point by pointing to situations where that actually did happen. Like, my last interview which, you know, I thought went really well, but then a couple months ago, Brian, my mentor, told me, you know, actually, your interview was utterly terrible. Like, I completely misread what was going on. So, yeah, I usually just assume the worst because that way I can't, you know, be made a fool of in the other direction. Does that make sense? [00:08:10]</p>
+
+<p>THERAPIST: Yeah. So, I guess you're kind of doing it a little bit right there saying like, well, yes, Brian. I may feel like things are going well, but I try to remember those times when I was clearly an idiot about this kind of thing.</p>
+
+<p>CLIENT: Yeah. [00:09:30]</p>
+
+<p>THERAPIST: But, I can preempt someone else from making (inaudible) and maybe at times that can also strip up something other than kind of a bid with some people, maybe sometimes meet, say like, but of course not. And, I think why, why would I think whatever because he said this. That's great and this other thing and that's awesome, and.</p>
+
+<p>CLIENT: Oh, that's what Chrissy did.</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: It was really frustrating. [00:10:30]</p>
+
+<p>THERAPIST: What frustrated you about it?</p>
+
+<p>CLIENT: I felt like she was just refusing to listen to how I experience things. Or like acknowledge that my experiences are real.</p>
+
+<p>THERAPIST: I see. (Silence until 00:12:45)</p>
+
+<p>CLIENT: I'm thinking about this problem at work. We have this problem where we have, so, you have a computer also essentially what we're designing, the computer and the computer and the computer has state points. So, there, there are tiny little memory elements inside the computer. There are, you know, 30,000 of them in med-lock. They're called flops. And, so, you know, DQ flip flops. They're flops. They preserve states. And, we need, so, the flops need to interact with the logic of the computer and like do computer things, but then we also need a way to test them. You boot up the computer and make sure that they're all resetting to the correct value. So, we call that scanning. So, we input a scan vector and it traverses across, you know, 500 flops and you have to make sure that's the correct value and there's some logic to do that. And, my scan chains are just... [00:13:50]</p>
+
+<p>So, we, we talk about stitching scans, scan chains. So, you have a chain of flops, a scan chain, that you stitch together and in theory, the tool is supposed to just do it automatically using some algorithms and some heuristics and it's just supposed to work and it's not working and the person responsible for the scan stitching tool is not a native English speaker and very, very bad at communicating, both on the phone and in text. I feel like if I could just, like, talk to him face to face and draw things on a white board, this would work better, but he's in Oregon.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And, I blew like three hours yesterday on the phone with him trying to figure out what the hell is going on and that's, you know. My task for today is to fix the scan stitching.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And, I'm not looking forward to it, because it's immensely frustrating because I don't know anything about scan stitching. I'm, you know, learning as I go.</p>
+
+<p>THERAPIST: Yeah. [00:14:50]</p>
+
+<p>CLIENT: Like, this is not something that is covered in any academic course work. It's the sort of thing that, you know, the industry does, but, like.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: If you're in academia, you're never designing a chip big enough that you would need something like this.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: You just, you know. You would probe your circuit, because you can if you have a thousand transistors it's totally feasible, but, so, yeah, it's just I don't want to face it. I'm kind of dreading it. (Silence until 00:17:00)</p>
+
+<p>THERAPIST: I wonder if you're also, like, quieter because, you know, you were describing some, in a way, like pretty bad social outcomes one with Chrissy.</p>
+
+<p>CLIENT: Yes.</p>
+
+<p>THERAPIST: And, the other with your interview.</p>
+
+<p>CLIENT: Yes.</p>
+
+<p>THERAPIST: And, maybe that doesn't do a whole lot. Thinking about those doesn't do a whole lot for your motivation to talk about things because you anticipate a painful misunderstanding of one sort or another. And, I guess, in both of those instances it was with their being troublesome and seeing how things were actually not going well. [00:18:30]</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Which makes me wonder whether you worry about that between you and I. Like, that we realize that from conforming in a way that feels painful and that, you know, is it I am missing or that you're missing about what I am seeing like an attribute. You know, how it feels down the road kind of thing (inaudible). [00:19:20]</p>
+
+<p>CLIENT: You know, it's tPhil because sometimes I am just wrong about what I'm perceiving. I'm reading things that are not there or projecting and, you know, it's kind of your job to point that out, you know, when my perception is distorted. But, I don't know. I've certainly never felt like you've told me that I'm just, you know, that my feelings aren't valid which was how I felt a lot with Chrissy. Like, I don't know. I think there is a difference between, you know, your perception might be distorted or there are other ways to look at this versus, you know, you are wrong to feel upset and anxious. Like, maybe that's splitting hairs or semantics, but it's an important distinction to me. [00:20:20]</p>
+
+<p>THERAPIST: No, I think it's pretty considerable. Well, what did you have in mind as to the difference?</p>
+
+<p>CLIENT: Well, I mean one feels insulting and the other doesn't. [00:21:30]</p>
+
+<p>THERAPIST: Sure. (inaudible) [00:22:30]</p>
+
+<p>CLIENT: So, I was actually, during that pause, thinking about Ashley.</p>
+
+<p>THERAPIST: Stuff you didn't say or actually stuff you want to say?</p>
+
+<p>CLIENT: Well, I was mostly thinking about putting the cart before the horse in thinking, you know, if things go well and I want to like tell my friends I'm seeing him. Like, how will they react? Because, I mean, I don't know. As I might have mentioned before, it's a very small, very tightly knit social group.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Yeah. Definitely putting the cart before the horse since, you know, tonight will be our third date. We're nowhere near established enough where I'm willing to start talking to friends about it. [00:24:20]</p>
+
+<p>THERAPIST: What are your thoughts about telling people eventually?</p>
+
+<p>CLIENT: I'm thinking. Mostly, I'm, I'm concerned about two people's reaction. There is Maggie, who is a friend of mine from Michigan that I've known for a couple of years now. You know, we're reasonably good friends, but I mean we live on opposite sides of the country and see each other maybe two or three times a year. So, just, you know. Not a whole lot of intimacy there. Maggie went to college with Ashley, and, you know, almost dated him and didn't because of like ridiculous 19 year old drama, you know, 15 years ago. See, and Maggie can also be a little bit, she doesn't have a good filter between her brain and her mouth. She, she, she just blurts out whatever's on her mind without thinking about it. And, I mean, I love her. I love her dearly and often times the things that she says are utterly hilarious. You know, sometimes they can be a little brutal. And, then there's Ashley's ex-girlfriend, Katie, who I went to college with and who is...</p>
+
+<p>THERAPIST: Ashley and Maggie didn't (inaudible)?</p>
+
+<p>CLIENT: No. They went to St. Paul.</p>
+
+<p>THERAPIST: Oh, okay. Sorry. I was confused. [00:26:00]</p>
+
+<p>CLIENT: (laughter) I know it's shocking.</p>
+
+<p>THERAPIST: The problem with that is that is because Ashley was good friends with Phil, right?</p>
+
+<p>CLIENT: Yeah. Right. They shared an apartment.</p>
+
+<p>THERAPIST: I think that is where I made the assumption that they knew each other from school for no particular good reason.</p>
+
+<p>CLIENT: So, Ashley, when he moved here, he moved here for a job right after he graduated from college. Maybe 2003. I think. And, he joined a gaming group that had a bunch of people who were recent alums and so they got him to also join this specific guild, which is another gaming group which is how he met Phil.</p>
+
+<p>THERAPIST: Ah.</p>
+
+<p>CLIENT: And how he made a bunch of friends who were students.</p>
+
+<p>THERAPIST: Got you.</p>
+
+<p>CLIENT: And, also how he met Katie who entered school the same year I did and is very good friends with my best friend, Lori and like, Katie, Katie and I have never, ever, ever gotten along.</p>
+
+<p>THERAPIST: Right. [00:27:10]</p>
+
+<p>CLIENT: Like, actively despised each other for most of college and have now reach a civil détente where, you know, we invite each other to our parties and then don't go to each other's parties and are, you know, polite and cordial when we run in to each other at other people's parties and, you know, that's... I have no respect for her at all and she has no respect for me and she dated Ashley for nine years and is still very possessive of him and reacted really badly when he started dating his current girlfriend. And, like, Katie is poly. She has four partners and she doesn't like for any of her partners to date other people and is, she likes to have a harem of people who are dedicated to her and only her. Not with just her partners, but with her friends and has to be the center of fucking attention everywhere she goes no matter how inappropriate it is and Jesus Christ, "shut up, Katie" is pretty much my reaction to her. [00:28:15]</p>
+
+<p>But, you know, she's close to a number of my close friends and I'm certainly not going to put any of them in the position of choosing between us. Which means I have to tolerate her and I did with him. Yeah. (silence until 00:29:30)</p>
+
+<p>THERAPIST: I think a situation like that may make you less anxious. I mean, where the hating is out in the open.</p>
+
+<p>CLIENT: (laughter) Correct. I know exactly where I stand with Katie. There has never been any doubt there.</p>
+
+<p>THERAPIST: Yeah. Yeah.</p>
+
+<p>CLIENT: No. I don't feel anxious about her. I just feel irritated. Well, maybe a little bit. Not anxious so much as like reasonably concerned that she might, like, make things awkward for me at parties or social events because she's unhappy.</p>
+
+<p>THERAPIST: Yeah. [00:30:10]</p>
+
+<p>CLIENT: So, when Katie was dating Ashley, Ashley starting dating this woman, Paige, who had been very good friends with me and Katie and Lori. Like, I was sharing an apartment with Lori at the time and Katie was living in the apartment downstairs in our building. So, not in our apartment, but, you know, the same building and there were eight of us in that building.</p>
+
+<p>THERAPIST: Wow.</p>
+
+<p>CLIENT: Yeah, it was, it's what you do when you're first out of college and working for a startup for equity instead of, you know, a salary. You share a building with eight other people. Yeah. You make it work.</p>
+
+<p>THERAPIST: Right. [00:31:00]</p>
+
+<p>CLIENT: But, yeah, so I was living with Lori and Katie and Katie was dating Ashley. And, Paige, we invited Paige over all the time. Paige was at our place like at least two or three nights a week. And, we're all like, you know, Katie and I tolerated each other. I was friends with Paige. Katie was friends with Paige. Everyone loves Paige. She's a great person. She started dating Ashley and all of a sudden a drama explosion. She wasn't welcome in the house. Don't invite Paige to any Monday nights. Don't invite Paige to dinner. I don't want to see Paige over here. Really? Like.</p>
+
+<p>THERAPIST: Yeah. And that was all from Katie?</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: When you're messing with, like, polyamory or engaging in it in unhealthy ways or just, like, I don't even know what her deal is, but, you know, I think part of the dynamic between me and Katie is that we've always felt threatened by each other in some ways. Katie is very much a, a social nexus. She has a lot of, I don't know, social gravity. Do you have a sense of what I mean by putting those two words together?</p>
+
+<p>THERAPIST: I think so.</p>
+
+<p>CLIENT: She, she knows lots of people and has big parties and is very good at, like, at holding court at parties or at social events. You know, getting people to pay attention to her.</p>
+
+<p>THERAPIST: Yeah. [00:32:20]</p>
+
+<p>CLIENT: Which is not something I'm very good at and, you know, having grown up not having many friends and having to struggle to get any attention at all, you know, it, you know, I was very jealous of her and it upset me a great deal that it was just so easy for her. Then, on the flip side, you know, in spite of all of the problems I had in undergrad and there were many, and I did not do well, you know. I failed classes and I only barely graduated and only then by like begging the Dean to find a form, you know, waiving one of the graduation requirements for me on some clumsy pretense. It was a disaster, but I managed to graduate and I managed to maintain at least a smudge of being able to keep my life going in spite of everything that was collapsing around me. Like, I went to class.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: I might not have been able to pay attention in class and didn't get my homework done, but I made it to class. You know, you maintain hygiene standards which Katie wasn't always able to do. You know, from things Lori and other friends have told me, like, Katie has always been very jealous of my ability to fake having it together which she hasn't been able to do. But, I mean, like, it's a double edged sword because, you know, Katie got far more support and help from her friend's network than I did. [00:33:40]</p>
+
+<p>THERAPIST: Right. You looked more together.</p>
+
+<p>CLIENT: Yeah. Willing to tell people how just very not together things were.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: But, anyway. Yeah. And, I guess maybe part of my worry was like telling my friends that I'm seeing Ashley is, you know, going back to the problem I don't trust my own judgment. Like, what if there is something terrible about him that I'm just not seeing because, you know, I'm in the first flash of like infatuation or puppy love or whatever you want to call it. And it's like there's a very good reason not to date him and my friends would be like well, what the fuck is wrong with you? Why didn't you see x, y, and z? [00:35:00]</p>
+
+<p>I think that's mostly just like me being pathological like, and I'm pretty sure if there were any serious red flags I would have noticed them or at least heard of them since, you know, Ashley dated people I've known for years.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Like, I never really hung out with him, but, you know, I'm friends with people he's dated and I'm sure I would have heard if there was something hideously wrong with him.</p>
+
+<p>THERAPIST: Right. And additionally, who is going to make a face like that? You know, like,</p>
+
+<p>CLIENT: Like.</p>
+
+<p>THERAPIST: I mean you're probably okay on both counts, even though I guess you feel okay on, in a way.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Yeah. [00:36:20]</p>
+
+<p>THERAPIST: Yeah. I guess something good is going on and we often kind of (inaudible).</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Well, maybe like you're going do something that's going to mess things up.</p>
+
+<p>CLIENT: Also, concerned. I mean and not that that's a bad thing. Like, if me being me causes someone to dislike me then..</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Like what happened with Edson.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: That was not, there was no way that could have ended well.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: But, it's still, I don't know. We're still like a brief period of time where I was, you know, blaming myself, saying, you know, why do I have to be so loud mouthed or aggressive or whatever? In hindsight, it was for the best that that ended quickly and sadly. Like, no lingering attempts to hold on, or, you know force it to work or anything crazy like that. [00:38:15]</p>
+
+<p>THERAPIST: Right. (silence until 00:40:10) So, my feeling is that you're, you're thinking. You're having many thoughts, but does it all feel right to say or do you feel anxious about saying them? Or, you don't feel like talking about them?</p>
+
+<p>CLIENT: Well, sure. I mean just now I was thinking about a blog post that Captain Awkward that I read. I can't remember why I said about it. Like, what prompted me to remember it all of a sudden, but.</p>
+
+<p>THERAPIST: That's okay. What was it? [00:41:00]</p>
+
+<p>CLIENT: I don't know. Some guy had written and seen Captain Awkward is an advice column for, you know, nerds and people who are socially awkward and his name is Captain Awkward. Some guy wrote in saying, you know, I have a social anxiety disorder and I've been working with a therapist and I got to the point, you know, where I can talk to women and like that was great and then I read Schrodinger's Rapist and now I'm terrified of talking to women and basically I want you to tell me that it's okay to approach strange women and like make them feel anxious. Captain Awkward reacted predictably, badly by like saying you know you've read... Are you familiar with Schrodinger's?</p>
+
+<p>THERAPIST: I'm not. No. (inaudible)</p>
+
+<p>CLIENT: So, Schrodinger's Rapist was an article that went viral I think channel 11, I think. It's a really, really good article about why women don't like to be approached by strange men in public places, like, you know the grocery store or the bus stop and it basically says, you know, for most women, like both the reality of our existence of sexual self in our lives and the way we are trained by parents, teachers and media is that we have to treat all men as potential sexual predators. And, so if a strange man comes up to us at, you know, a bus stop or in the line at the grocery store, like, we can't know whether he's just a good guy who wants to say hi or, you know, whether he's going to follow us to our car and, you know, rape and murder us, because that's...</p>
+
+<p>THERAPIST: Guilt. [00:42:25]</p>
+
+<p>CLIENT: And, some of those fears are not actually rational. Some of it is overblown media hype.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: And suddenly be like a rapist with the stranger in the bushes as opposed to, you know, a friend or some guy you're on a date on.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: You know. There's a lot there, but, like basically, that's why you shouldn't approach strange women and if you want to approach strange women, you should be aware of things like their body language.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: And, the scenario around you. Is it light? Is it dark? Are you alone in an alley?</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Or, are you in a public place? Like, what?</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Like, what are the factors that will make the woman or a person feel safer on campus. It's a great article. So, but the letter writer to Captain Awkward referenced this article.</p>
+
+<p>THERAPIST: Yes.</p>
+
+<p>CLIENT: And, so, Captain Awkward response was basically, like, you just want to go back to your duchy privileged ways of approaching women.</p>
+
+<p>THERAPIST: Yeah. [00:43:10]</p>
+
+<p>CLIENT: And, making them feel unsafe and scared and you even read Schrodinger's Rapist. You go read it again. Fuck off, basically.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And, then a bunch of people got mad at Captain Awkward because they're like I have an anxiety disorder and you're really mean and I think you're, you know.</p>
+
+<p>THERAPIST: Oh, I see.</p>
+
+<p>CLIENT: Not taking in to account and, you know. I don't know. I was thinking about that. I think, you know, some of my anxieties around social situations and, you know, trying to find the balance between, you know, what's, what's actually, you know, disordered about my thinking that needs to be ignored and what are actual, like, valid concerns. I try take it in to account.</p>
+
+<p>THERAPIST: Oh, I see. Yeah. I think we should stop for now.</p>
+
+<p>CLIENT: And, next Thursday you're out?</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>END TRANSCRIPT</p>

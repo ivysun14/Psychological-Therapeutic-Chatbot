@@ -1,0 +1,666 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: Hi.</p>
+
+<p>THERAPIST: Hello.</p>
+
+<p>CLIENT: (SIGH) (PAUSE) I had a run in with my boss immediately before I left work to come here.</p>
+
+<p>THERAPIST: What does that mean?</p>
+
+<p>CLIENT: Hmm?</p>
+
+<p>THERAPIST: I mean, I get that it means just you and he but...</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Does that...</p>
+
+<p>CLIENT: Oh, he does this with every employee every once a week... About a half hour...</p>
+
+<p>THERAPIST: Okay, so it's a once a week thing. As opposed to like... I didn't know if it was like a three month thing. [00:01:01]</p>
+
+<p>CLIENT: No, it's a weekly thing.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: Well, it's supposed to be weekly. But he ends up canceling at least once or twice a month.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: Because of like commitments.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: But the goal is weekly.</p>
+
+<p>THERAPIST: Okay. You may have mentioned that (inaudible at 00:01:15).</p>
+
+<p>CLIENT: On the bright side, I'm not the only one who is demoralized and frustrated and not getting anything done on this new project. So... (LAUGHTER) Everyone hates it. And everyone is demoralized. And... Kind of sucks.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: Yeah. And part of the problem is this new project, the tools are all (SIGH) really fucking shitty, for lack of a, a, better or politer or more eloquent way to phrase it. [00:02:07]</p>
+
+<p>They, they take a really long time to run and they're really fragile and they crash fairly often. So on the last project I worked on, you could start building your module and it would be done by the time you came into work the next morning. You would have to run overnight and you have to start it by lunchtime if you wanted results by morning. But you know, okay, fine. This project, it's not unusual to have four or five days for the tools to build your module.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: It sucks.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Which means that we're expected to check in, you know, in the evening before we go to bed and at least once a day on weekends and it's just... (SIGH) It becomes a huge kind of internal power struggle for...</p>
+
+<p>THERAPIST: Like you have to check in to make sure it's running or it's...</p>
+
+<p>CLIENT: Yes. To make sure the tools didn't crash.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Because, you know, when it takes five days to run...</p>
+
+<p>THERAPIST: Sure.</p>
+
+<p>CLIENT: ...if something crashes Friday night, you've just lost like three days...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: ...of runtime if you don't...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: ...look at until you get to work on Monday. [00:03:07]</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: So I end up fighting with myself in the evening. Because there's a part of me that says, you know, I tried my best at work. And maybe my best isn't good enough but, you know...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: I'm tired of beating up on myself. I just want to enjoy my evening. But then there's the, you know, this actually is an expectation of my job that I log in. And really it's no more than fifteen minutes.</p>
+
+<p>THERAPIST: Mm hmm.</p>
+
+<p>CLIENT: Even if something has gone wrong. You know, no one expects you to... So, if something does go wrong and something crashes, half the time it's just that the load sharing file did the wrong thing and like...</p>
+
+<p>THERAPIST: I see. So you just restart it again.</p>
+
+<p>CLIENT: So you just resubmit it and all is good.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: The other half of the time, at least half of the remainder of cases is you ran out of memory. [00:04:03]</p>
+
+<p>THERAPIST: Mm hmm.</p>
+
+<p>CLIENT: So, you know, go delete a bunch of files to make more room on your desk...</p>
+
+<p>THERAPIST: Yep.</p>
+
+<p>CLIENT: ...and try again. Like there, there are like four causes that, you know...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: ...account for 99 percent of failures.</p>
+
+<p>THERAPIST: Some of them are trivial.</p>
+
+<p>CLIENT: Well the four biggest, like 99 percent, they're trivial fixes. It's no more than fifteen minutes and you're done.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And if it is something that's non-trivial, like, you know, there's an actual serious bug, like no one expects you to debug ten o'clock at night.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Like that's okay to leave for the morning. So really it's only fifteen minutes. I could just log in, check stuff, check it off my mental task list and be done. But, you know, I get into a, "I don't want to, I shouldn't have to, you can't make me," kind of mental space. And then I don't do it but I don't let myself just go to bed until I've done it.</p>
+
+<p>THERAPIST: Yep.</p>
+
+<p>CLIENT: Because it actual is a requirement. So then I stay up until 2 AM and then I can't sleep because I'm full of anxiety and dread and (SIGH) it's really terrible. [00:05:05]</p>
+
+<p>THERAPIST: Yep.</p>
+
+<p>(PAUSE)</p>
+
+<p>CLIENT: And I really, really resent the fact that this job requires doing work stuff on a regular basis outside of business hours.</p>
+
+<p>THERAPIST: Mm hmm.</p>
+
+<p>CLIENT: Because my last job before grad school, we routinely had to come in and do night shift stuff and Saturday stuff because the (inaudible at 00:05:35) ran 24/7. And I promised myself that the reason I was going to grad school was to get a job where I didn't have to put up with that bullshit anymore and promised myself that I wouldn't put myself in a position where I would need to be on call or on the job on the weekends again. And here I am. And it's a little thing. It's only fifteen minutes. It's not like I have to go into the lab and like manually run an experiment over night. But... (SIGH) I'm so being all kinds of irresponsible and resentful around it. [00:06:07]</p>
+
+<p>(PAUSE) [00:07:00]</p>
+
+<p>THERAPIST: I guess I'm, I'm sort of failing. Like you want me to (PAUSE) step in and maybe say something reassuring about it, maybe have some suggestions what to do about it?</p>
+
+<p>CLIENT: Suggestions would be nice, yeah.</p>
+
+<p>THERAPIST: Like...</p>
+
+<p>(PAUSE) [00:08:00]</p>
+
+<p>THERAPIST: And... (PAUSE) I mean, I don't know. But I would guess that what you're wanting is something like to use, for me to use, for me to use (inaudible) relative like benigness to kind of help you with this sort of knife fight that you're in with work about this in your head.</p>
+
+<p>CLIENT: Mm hmm. [00:08:55]</p>
+
+<p>THERAPIST: Like, you know, yes, they're assholes for making you do this. At the same time, you know, it's not a huge amount of time and we both know it's unfair and that you're also resentful because of your history with working outside of work hours and with all it stirs up. But, at the same time... You know, like something kind of... It sounds like diplomacy as I hear myself saying it.</p>
+
+<p>CLIENT: Mm hmm.</p>
+
+<p>THERAPIST: And why would you want that? Well, maybe because (PAUSE) you get so angry and I think feel so insulted and sometimes kind of persecuted that (PAUSE) (inaudible at 00:10:07). And like, you can't really talk yourself down in those situations like that. [00:10:15]</p>
+
+<p>CLIENT: (LAUGHTER)</p>
+
+<p>THERAPIST: She's treating you like crap and trying to punch you in the nose.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: You know, you kind of want somebody to like, who's kind of reasonable ? to say like, "Alright. Yes, he or she is a bully and an asshole. But, at the same time, like you're probably better off just like, you know, not doing the thing that tends to provoke him or her. Blah, blah, blah.</p>
+
+<p>CLIENT: Mm hmm.</p>
+
+<p>(PAUSE) [00:11:00]</p>
+
+<p>CLIENT: No, it's not even that. I mean... (PAUSE) So everyone acknowledges that this is not a good or okay situation like people needing to log in, you know, in the evenings when you're getting ready for bed and you're with your family on the weekends. You might be traveling or whatever on the weekends.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Like everyone at work acknowledges that this isn't fair. It's not a good situation and like it kind of sucks that our tools are so shitty and, you know, our CAD (ph) team is trying to fix it.</p>
+
+<p>THERAPIST: Are they the ones responsible for the tools?</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: It's just... I don't know. I would like help figuring out a way to snap out of the anxiety and chain cycle that prevents me from being able to... Like, this weekend, I'm at a project at the press shop on Saturday. [00:12:11]</p>
+
+<p>THERAPIST: With the print (inaudible at 00:12:15).</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And I got home at like ten o'clock and I just, I didn't want to log in and check on my runs even though I knew I probably should. I was like, "I'm tired and I don't want to and besides, what if something went wrong?" So I went to bed without checking. And Sunday morning, I got up. I was like, "I have to check on my (inaudible) my job for work. But I'm running late for church and I need to leave now or I'm going to be late." So I went to church and I came home, like, "Okay, I really, really should check on my runs but I really don't want to and what if something went wrong yesterday and now I've lost twelve hours. And then I just got so anxious about it, I couldn't bring myself to check so... [00:13:03]</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Then instead of just logging in and checking, I watched an entire season of Elementary and after every episode, I was like, "Really? I should just log in. It'll take five minutes."</p>
+
+<p>THERAPIST: What's Elementary?</p>
+
+<p>CLIENT: It's a new TV show. It's halfway through the season. It's about Sherlock Holmes but set in New York.</p>
+
+<p>THERAPIST: Oh, okay. Yeah. I think I've heard of it. Alright.</p>
+
+<p>CLIENT: Yeah. It's actually a really fantastic show. I'm enjoying it a great deal.</p>
+
+<p>THERAPIST: That part's good.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: But...</p>
+
+<p>CLIENT: So and like... So I didn't get to bed until two and then I was really dreading going to work because I didn't check on my runs all weekend and what if something had failed? Now I'm really screwed because it's been two days instead of, you know, twelve or twenty four hours and yeah... [00:13:55]</p>
+
+<p>So I got to work late and just felt miserable until I finally, you know, opened my (inaudible at 00:14:05) building session. You know, I (inaudible) around reading work e-mail and responding to bullshit e-mails and writing reports for an hour before I checked on my builds because I was so afraid of what I would see. And they were all fine. Nothing had failed. But all of those horrible feelings could have been avoided if I had just spent fifteen minutes Saturday night when I got home.</p>
+
+<p>(PAUSE) [00:14:55]</p>
+
+<p>THERAPIST: But is it... Yeah that sounds less like a kind of a battle in your head against, you know, a draconian like request or rule.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: And more like, I see what you mean, kind of anxiety and shame.</p>
+
+<p>CLIENT: Yep. And I mean, the last project I worked on, Steamroller (ph), you know, I spend probably a third of the weekends that I was on that project, I would check in on my runs over the weekend just because I was curious to see how they turned out. I wanted to see what the results were, you know, if I could get the results early I could kick off another set of runs. It's only forty five minutes to like evaluate the results, plop them in Excel, start a new set of runs. So, you know, if... When it wasn't an expectation that we had to and when it wasn't this, you know, "If you don't check on them something horrible might happen," I was happy to log in on weekends and check on them and get stuff started. You know? So I don't see why this is such a big deal now other than, you know, something wrong, it's the end of the world or it feels like the end of the world. [00:16:11]</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: So you think it's less because they're making you do it and more because it kind of feels like the end of the world if there's a problem.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: I wonder if it's because you've been feeling worse about work.</p>
+
+<p>CLIENT: Maybe.</p>
+
+<p>(PAUSE) [00:16:57]</p>
+
+<p>THERAPIST: So (inaudible at 00:17:01)</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: ...charged.</p>
+
+<p>CLIENT: Mm hmm. (PAUSE) I'm also really sick of talking about work here. Like this is like five sessions in a row where I've talked exclusively about work and I'm kind of sick of it. But at the same time, I'm feeling so miserable about work and this is kind of the only space where I can get it all out and talk about it. It's kind of... I don't know. I feel caught between a rock and a hard place. [00:18:03]</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: (inaudible at 00:18:21) break. (PAUSE) And that work is making you really miserable.</p>
+
+<p>CLIENT: Mm hmm.</p>
+
+<p>THERAPIST: And I have to assume it's part of why you don't even want to look at it over the weekend or look at something that could be a reminder of, "Oh. I fucked up at work again."</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>(PAUSE) [00:19:00]</p>
+
+<p>THERAPIST: And I would imagine a lot of what's going so awful about it is feeling like a complete failure no matter how much you want to do well or how hard you try.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: You feel like a complete failure there again.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: And you feel horribly ashamed about that.</p>
+
+<p>CLIENT: Mm hmm.</p>
+
+<p>(PAUSE) [00:20:00]</p>
+
+<p>THERAPIST: I guess... (PAUSE) The reason that I'm unpacking it and maybe this is not a good reason but it's probably the reason why I'm approaching this way (PAUSE) although I imagine though it makes you feel worse to kind of look at it and unpack it because it's all just horrible.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: But...</p>
+
+<p>(PAUSE) [00:21:00]</p>
+
+<p>THERAPIST: I don't really know another way to deal with it.</p>
+
+<p>CLIENT: Mm hmm.</p>
+
+<p>THERAPIST: And it sounds like it's also (inaudible) on you but I think a lot of times it all gets kind of scrunched together like dirty laundry in a suitcase.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: And just sort of feels horrible and yet also unresolveable and...</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: I means you're like always stuck with it but in a way it's really hard to deal with it at the same time. [00:22:01]</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: And, you know, like I don't have any problem with diversions, you know, like... I'm not saying, you know, you've got to like stare at this thing until you feel better or are dead or something.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: I just... If you want to actually deal with it, I don't know another way.</p>
+
+<p>CLIENT: Mm hmm.</p>
+
+<p>THERAPIST: And I guess in my mind, I'm like, I'll think some more about it but I kind of feel like giving you concrete suggestions would be often mostly for me... Like, pretty much aiding and abetting not dealing with it. [00:23:01]</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: I'm not saying don't strategize or cope and stuff.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: But at least the sorts of strategies I can think of are not ones that really...</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: ...are to do with dealing with it...</p>
+
+<p>CLIENT: Mm hmm.</p>
+
+<p>THERAPIST: ...managing it. I'm not saying it's a bad thing. Okay (inaudible at 00:23:21) If we start getting into all that stuff...</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: ...and what works and what doesn't and how about this and how about that, then we aren't really...</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: ...dealing with it. Although we're pretending to deal with it.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: That's not very good news.</p>
+
+<p>CLIENT: No.</p>
+
+<p>(PAUSE) [00:24:00]</p>
+
+<p>THERAPIST: I can put it more succinctly. I don't... (inaudible) mostly about emotional stuff and I don't think there's an instrumental way to address that.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Although, you know, there may be instrumental ways that will help with coping with it. But...</p>
+
+<p>CLIENT: Right.</p>
+
+<p>(PAUSE) [00:25:00]</p>
+
+<p>THERAPIST: And I guess what I'm describing in a way probably recapitulates the rock and the hard place you're between all the time.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Between look at it and feeling worse and not looking at it and...</p>
+
+<p>CLIENT: And feeling worse. (LAUGHTER)</p>
+
+<p>THERAPIST: ...worse. Yeah. (LAUGHTER)</p>
+
+<p>CLIENT: Yeah. And I mean, I can't be the only person in the world who is having a rough patch at their job. Right? But...</p>
+
+<p>THERAPIST: Are you sure about that?</p>
+
+<p>CLIENT: I think. I keep comparing myself to this mythical like healthy person who's able to cope with this stuff and box it up and set like emotional boundaries and not let having a rough patch at work ruin the rest of their day or the rest of their week or their entire weekend. And... I don't know. It would be, it would be nice not to be having all these feelings about work when I'm not at work. [00:26:07]</p>
+
+<p>THERAPIST: That also must mean it feels like you're doing something wrong.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: ...in how you're trying to deal with.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: Like if you were a better version of yourself or someone else.</p>
+
+<p>CLIENT: Yep. That's how I exactly feel.</p>
+
+<p>(PAUSE) [00:27:00]</p>
+
+<p>CLIENT: So can I (inaudible at 00:27:15) into an entirely different topic?</p>
+
+<p>THERAPIST: Yeah, of course.</p>
+
+<p>CLIENT: So, are you familiar with (inaudible) National Letter Writing Month.</p>
+
+<p>THERAPIST: No.</p>
+
+<p>CLIENT: Okay, well then I won't make an analogy to that. So there's this author whose books I read, Mary Robinette (ph) who two years ago decided to do an experiment where she just did not use the Internet at all for a whole month and told her friends if they wanted to get in touch with her, they could write her letters. And she really enjoyed it. So the next year she hosted this challenge. Write a letter on paper to someone you know every day for the month of February and call it National Letter Writing Month as an analogous challenge to the National Novel Writing Month, which, you know, is a thing that lots of writers do, write a novel in a month. So, anyway I decided to do the letter month challenge this year. [00:28:05]</p>
+
+<p>And I had a huge amount of fun with it for the first week and I wrote a letter every day and it was great. And then I got into this horrible shame cycle with work last week and I didn't write any letters last week. So now I'm behind. I haven't written a letter a day. And, you know, because the web site tracks your progress and I haven't been to the website, I haven't sent a letter, the size of my little bar is, you know, half the size of everyone else's bar. And so now I feel really terrible and horrible and guilty about having not sent my letters and Saturday I tried to sit down and write a letter. And I took a stationery pad to the print shop with me and when I was taking a break because I was tired of standing I tried to write a letter and I just couldn't because I had it in my head, you know, I'm not eight days behind and I have to write eight letters and my mind just went blank and I had terrible writers block and now I feel horrible and terrible and guilty and ashamed about the fact that I wasn't able to keep up with this challenge. [00:29:07]</p>
+
+<p>Like it's just one letter a day. That's like two hundred words. Surely you can write two hundred words just this whole, you know, the internal voice telling me that, you know, "What the hell is wrong with you? You need to write two hundred words. Are you illiterate? Is that what's wrong with you? You don't have two hundred words to say?" and so on and so forth. And also, none of my friends have written me letters even though a dozen and a half people I know have signed up for this challenge and asked me for my address so there's also the, you know, "What's wrong with you that your friends don't want to write to you? So not only are you not writing but you're not receiving any letters." So you know?</p>
+
+<p>THERAPIST: I'm smiling and laughing because like (LAUGHTER) they're all probably sitting around frustrated because they can't get themselves to write every day too.</p>
+
+<p>CLIENT: Probably!</p>
+
+<p>THERAPIST: I, I I know that doesn't make things better. But... [00:30:01]</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: It seems likely to me as anything else.</p>
+
+<p>CLIENT: And so this thing that was, you know, really fun and awesome two weeks ago...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: ...has just turned bitter and...</p>
+
+<p>THERAPIST: You've been kind of depressed from work, you know? Maybe even more than that. You've been more than kind of depressed and terrified.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: That's like... In case I never told you, that's a tremendous amount to deal with.</p>
+
+<p>CLIENT: And I haven't made as much progress on my piano studies as my instructor inspects me too.</p>
+
+<p>THERAPIST: That's right because you're also doing church and piano and you're spending all day in the print shop and doing God what else but other things I'm sure.</p>
+
+<p>CLIENT: Watching twelve hours of...</p>
+
+<p>THERAPIST: Watching Elementary.</p>
+
+<p>CLIENT: ...TV, yeah in one sitting. That was possibly not a good use of time. [00:31:00]</p>
+
+<p>THERAPIST: Down time? Is that what they call it? I mean, I know it's a lot and I know it was like a lot of, some of it was (inaudible at 00:31:09) you're fucking depressed. What do you want? I don't mean to badger you about it but like it's true.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: I mean, it's unfortunate that you're depressed. It's unfortunate that it's sort of like (PAUSE) makes it harder for yourself to do things like writing letters but...</p>
+
+<p>CLIENT: Or going to work.</p>
+
+<p>THERAPIST: Yeah. You're quite burdened.</p>
+
+<p>(PAUSE) [00:32:00]</p>
+
+<p>THERAPIST: Though I guess it's clear that you'd really rather not see it like that.</p>
+
+<p>CLIENT: Well, I'd really rather not be depressed. (LAUGHTER)</p>
+
+<p>THERAPIST: Absolutely. Me too. I, I, I'd rather that too.</p>
+
+<p>CLIENT: (SIGH)</p>
+
+<p>THERAPIST: But that's different.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: (inaudible at 00:32:33)</p>
+
+<p>CLIENT: Yep. (PAUSE) Like my piano instructor is also my choir director.</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: And he's also a friend of mine who I've known for seven years. And when I started taking lessons, he said, you know, "You're really smart and you already mostly know how to read music. You will probably pick up, you know, the treble staff and be sight reading by the end of the month." [00:33:09]</p>
+
+<p>And I'm not yet and I've been practicing. And I don't know why I'm not. It's just I'm not learning as fast as he thought I would. I know in part he expected me to learn faster than most of his other students because, you know, he has all kinds of crazy, unrealistic, magical thinking ideas that engineers are smarter and qualitatively different from other humans and that's, you know, whatever. I encounter that all the time with people who aren't, you know, didn't have the math or science training in their academic background. But it's really hard to be rational and tell myself, you know, he had irrational expectations for me based on his magical thinking...</p>
+
+<p>THERAPIST: Sure. [00:33:59]</p>
+
+<p>CLIENT: ...and it's not a reflection on me or my intelligence. Instead, you know, a voice in my saying, "Well, what the fuck is wrong with you Constance (ph)? You're not learning as fat as he thought you would." And it's just... (SIGH) Like everything I've done to try to, you know, have the kind of active leisure time that I want, that I thought would be fun and interesting and restorative and a good kind of counterpoint to the mess that is work has just kind of turned into yet another reason to beat myself up.</p>
+
+<p>(PAUSE) [00:34:57]</p>
+
+<p>THERAPIST: I, I sort of have a hunch that, that maybe be partly true but not entirely true, although I'm willing to be wrong about this...</p>
+
+<p>CLIENT: And I can't even watch a TV show without beating myself up about it because... Like not that I watch the TV show although there certainly is that. But then, you know, in my lunch break today I was on the Internet looking for Elementary fan page because I really like the show and there's a lot going on with it. And I found some really interesting and fun to read essays about the show like kind of critical, analytical essays. And then there's the voice in my head saying, "Well, you spent, you know, ten hours watching this show and the rest of the day thinking about the show and talking about it with Dave and, you know, you could have written something useful, contributed to the discussion, exercised the non-scientific analytical part of your brain for a while."</p>
+
+<p>(PAUSE) [00:36:01]</p>
+
+<p>THERAPIST: You know...</p>
+
+<p>CLIENT: (SIGH)</p>
+
+<p>THERAPIST: ...it occurs to me.</p>
+
+<p>CLIENT: Yes.</p>
+
+<p>THERAPIST: I had not, as I said, seen the show. I have read Sherlock Holmes. I can imagine there would be some things that would be awfully nice seeing a show about a guy like that whose mind really can do such nearly magical things...</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: ...almost all the time.</p>
+
+<p>CLIENT: The thing I love about this particular incarnation of Sherlock Holmes, because I, I really loved the Arthur Conan Doyle Sherlock Holmes when I was a kid.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And, you know, there have been multiple TV and movie...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: ...interpretations since then.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: ...and I've watched them all. (LAUGHTER)</p>
+
+<p>THERAPIST: Most of them, right. Yeah. (LAUGHTER)</p>
+
+<p>CLIENT: And there have been many, you know, authorized sequels written in the last century. You know? And I've read them all. (LAUGHTER) I love Sherlock Holmes and the thing...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: ...that I really like about this incarnation, the CBS Elementary version...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: ...is that the show doesn't pull its punches about Sherlock being a completely broken human being. Right? I mean, that's always there if you read between in lines in all the other sources but a lot of, a lot of the versions of Sherlock Holmes try to kind of canonize him and make...</p>
+
+<p>THERAPIST: Yeah. [00:37:11]</p>
+
+<p>CLIENT: This is a model human being and this is what you should strive for.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: And the, the Elementary version doesn't.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: They're like, "Yes. He's brilliant. And yes, he can do amazing things but you don't want to live his life because his life is horrible and this is not something you should aspire to.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And it's, it's very unusual...</p>
+
+<p>THERAPIST: Yep.</p>
+
+<p>CLIENT: ...among Sherlock Holmes...</p>
+
+<p>THERAPIST: Sort of genuinely ambiguous that way.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: (inaudible) yeah.</p>
+
+<p>CLIENT: And Sherlock's partner, Watson, in this version is an Asian woman which is awesome.</p>
+
+<p>THERAPIST: That is awesome.</p>
+
+<p>CLIENT: And she has a therapist who she sees regularly and it's not stigmatized. It's just, you know, she's not portrayed as irrational or broken or hopeless or, you know, this is a thing women do. It's just, you know...</p>
+
+<p>THERAPIST: She sees a shrink. [00:38:05]</p>
+
+<p>CLIENT: She has a really fucking hard job so she sees a shrink to help her deal with it and, you know, that's really nice.</p>
+
+<p>THERAPIST: Is she a doctor?</p>
+
+<p>CLIENT: A former doctor. She had a patient die on her operating table and so she stopped practicing and let her... Well, she was suspended from practicing for three months and then she let her license lapse...</p>
+
+<p>THERAPIST: Yep.</p>
+
+<p>CLIENT: ...and does sobriety counseling which is how she meets Holmes. He's a cocaine addict.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: You know, it's great. There's so much going on there and so much to pick apart and analyze.</p>
+
+<p>THERAPIST: And identify with?</p>
+
+<p>CLIENT: Yeah, maybe. [00:38:55]</p>
+
+<p>THERAPIST: That's where I was (inaudible at 00:38:59) but... And I'm not saying, I am not saying you are like Holmes in being broken and things like that. But I, I mean, at least in the Arthur Conan Doyle books, his intellect is kind of magical. You know, sometimes that's what you want, or it isn't what you want but it's what you expect...</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: ...of yourself.</p>
+
+<p>CLIENT: Even though that expectation is completely unreasonable? Yeah.</p>
+
+<p>THERAPIST: Yeah, like it doesn't matter how unrealistic the piano teacher's expectations are for you. You should surpass them or at least meet them.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: And... [00:39:57]</p>
+
+<p>CLIENT: You know, I thought learning to play a musical instrument would allow me to suck at something and be able to like process that emotionally in a healthy way and learn how to deal with sucking at something. Because...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: ...that I have zero background in that...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: (LAUGHTER) But no. I'm back to the same old, "I should have been smarter and better than everyone else. Of course."</p>
+
+<p>THERAPIST: Well, you had a little help from the teacher it sounds like there.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Unfortunately.</p>
+
+<p>CLIENT: Yeah. I don't know he meant ill...</p>
+
+<p>THERAPIST: I don't mean he's a jerk or he's wasting your time. But it fit right into...</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: ...your stuff.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Well, I imagine there's something quite reassuring about Holmes being broken in this show, like really quite troubled. Like and Watson seeing a shrink. Like, I imagine those things are reassuring for you. [00:41:05]</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: I mean, I'm not saying, "Well, you're having a hard time. Clearly this is the show you're going to watch." (LAUGHTER)</p>
+
+<p>CLIENT: (LAUGHTER)</p>
+
+<p>THERAPIST: I guess I'm struck how it, it relates to the things you were in part avoiding by watching it.</p>
+
+<p>CLIENT: I mostly started watching it because it stars Lucy Liu.</p>
+
+<p>THERAPIST: Is she Watson?</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Who plays Holmes?</p>
+
+<p>CLIENT: I have no idea.</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: No one I recognize immediately.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: It sounds like a good show.</p>
+
+<p>CLIENT: It is.</p>
+
+<p>(PAUSE) [00:42:00]</p>
+
+<p>CLIENT: And it does all kinds of things that, you know, are actually not all that cutting edge or progressive in the real world or at least the world that I live in but that are amazingly progressive for network TV. Like there's one scene where Sherlock asks Watson if she's PMSing and like another character calls him out on that and tells him that (inaudible at 00:42:31).</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Or there's one scene where he tells Watson, you know, "I encourage you to discuss this with the other people who are important in your life and, you know, explain to them what you've become to me and decide whether you want to continue working with me. It's like, wow! This acknowledgement on TV by a man that a woman in his life might have other people in her life who are important to her who are not him and that she might take things into account other than his feelings and wow! That's... You don't see that on TV all that often. [00:43:03]</p>
+
+<p>THERAPIST: That's great.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>(PAUSE)</p>
+
+<p>THERAPIST: We need to stop for now.</p>
+
+<p>CLIENT: Oh. (PAUSE) (inaudible)</p>
+
+<p>THERAPIST: Your phone? I don't see it.</p>
+
+<p>CLIENT: Then it's probably in my pocket. In fact, here it is.</p>
+
+<p>THERAPIST: Oh, okay. Sure.</p>
+
+<p>END TRANSCRIPT</p>

@@ -1,0 +1,433 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: So the math final’s due on Monday, which means that this week I have to do math. I have a lot of it. Couldn’t do it for the last couple weeks but I [inaudible at 00:00:10] roll so I need to spend this week doing that because I also know I can’t just cram this. I need to actually do it. So woo hoo.</p>
+
+<p>THERAPIST: This is the retest, the retake?</p>
+
+<p>CLIENT: No, this is the final exam, the take-home exam.</p>
+
+<p>THERAPIST: Oh it’s take home? Okay.</p>
+
+<p>CLIENT: Yes. Two questions.</p>
+
+<p>THERAPIST: Oh is that the project award? Are they going to publish it?</p>
+
+<p>CLIENT: Yes, exactly. So I should visit (ph) that. And we’re starting again the tide distributions. I’m not sure what those are but some of them have been turning up something. Oh that sounds cool.</p>
+
+<p>THERAPIST: Oh in Time Square?</p>
+
+<p>CLIENT: Yes, I guess, yes. Sounds cool. [inaudible at 00:00:51] other ways so, because basically everything eventually comes to normal exclusion except for certain things that don’t. Yes, [inaudible at 00:00:56] to normal exclusions. Oh this looks interesting. And there apparently is a way mathematically to convert that to normal distribution and use it the same exact way.</p>
+
+<p>THERAPIST: Yes, yes. Yes, Time Square’s one of those, recall the non-parametric statistics where because you use those for such - because they don’t, because they’re not normally distributed. </p>
+
+<p>CLIENT: Oh good because that’s what I’m going for. Fantastic because that’s what I want to do. So I got excited. I went looking at, I think I told you this, I went looking online this not very good [inaudible at 00:01:40] $1,000 course. They offer advanced statistics, which Concord does not. I [inaudible at 00:01:50] hear your prereqs and this is a list of them. They go all the way back down to, so I did pre-calc, then calc, then advanced calc, then I guess pre-advanced statistics.</p>
+
+<p>THERAPIST: For advanced statistics?</p>
+
+<p>CLIENT: Yes. I said okay, I guess that makes sense, right? What we’re doing here involves curves and calculus can give us a greater level of precision than any other math can. As I understand it as the calculus does. The idea of calculus is how close to zero can you get and can ever get? How close to zero can you get? [00:02:28]</p>
+
+<p>I was watching Cosmos the other day, the one about Haley, and Haley’s always been an astronomer. As a kid his father has encouraged this, ideas, his father funded his trip to map the stars of the Southern Hemisphere so he could completed the star map and sail the ocean and go anywhere in the world. Took him years because where he lived it was storming all the time, so he would [inaudible at 00:02:56]. It took him a year. So [inaudible at 00:02:57] a couple months to go to it, and the screwed (ph) option has always been played as a good measure. [00:03:06]</p>
+
+<p>And so he comes back, he comes back, and he’s with this other group of mathematicians and astronomers and they’re discussing why orbits are elliptical. Clearly they’re elliptical and in the end there has to be some mathematical explanation of this. That’s so somebody can express this in their equation just so we can predict times. And this guy, [inaudible at 00:03:34] something like that, he says yes, I can try to raise that. He said yes, yes I’m working on that. Almost got it. But he never actually produced the math. [inaudible at 00:03:45].</p>
+
+<p>Now Robert Hooke is the guy who claimed he invented gravity after Newton came forth and said hey, gravity, no such - ah, here’s the person who stole my idea. And the people said Newton, man, that’s not cool, because Newton’s the new kid. And Newton said well fuck all y’all and went off to live in seclusion. Haley knows about him. There’s one way that this guy can get him out and he goes up to his place and says hey, I know you’re a recluse and known as a difficult person. This friend of mine said the other day from his research thinks that you probably did something wrong as a spectrum (ph) and this is a real difficulty, a drag on your [inaudible at 00:04:21]. </p>
+
+<p>THERAPIST: This is Hooke or Newton?</p>
+
+<p>CLIENT: Newton. And Haley goes to see him and says hey, you’re an amazing - we’re trying to figure out this thing about the elliptical orbits and Newton says oh yes, there’s an inverse square law. And he said what? And he said yes, the orbits [inaudible at 00:04:39] inverse square law. I figured out if you use [inaudible at 00:04:44] we’ve got a ring down here somewhere. Can we, can we do this? He said yes, here’s the proof; here’s the math. All of this is calculus; I made it fun. I still haven’t shared it because when I shared with someone, someone stole my idea so this is mine. And Haley said okay but I need to get this published and then it’s definitely yours and no one would be saying oh I invented calculus because I’m here with you. [00:05:07]</p>
+
+<p>And so eventually he convinced him to do it and because of Haley reaching out, guiding, and convincing him to share his work with the world again, we have calculus. We have astrophysics, [inaudible at 00:05:19] - </p>
+
+<p>THERAPIST: This is all in that show Cosmos?</p>
+
+<p>CLIENT: Yes, and also the Laws of Motion that he discovered.</p>
+
+<p>THERAPIST: Is that right? So that guy Haley went out and found him and got him to tell the whole story - </p>
+
+<p>CLIENT: Yes, and then he figures out this comet and it’s called it Haley’s Comet. It’s when he realized they’re also on an elliptical orbit. He said it’s going to come back every 76 years. And as [inaudible at 00:05:42] this is the first time science did something that religion never could, which was prophecy. Raw, specific prophecy.</p>
+
+<p>THERAPIST: What [inaudible at 00:05:56].</p>
+
+<p>CLIENT: Here’s what’s going to happen now. Seventy-six years from now a comet will fly over the sky as a ball on fire. </p>
+
+<p>THERAPIST: Yes. Comet’s a really good one.</p>
+
+<p>CLIENT: Yes, seriously. And this giant ice cube’s very nice. Giant ice cubes float in space, frozen rock and whatnot, and as it gets closer to the sun it starts burning off and that’s the tail that you see is all those chemicals and other things burning off.</p>
+
+<p>THERAPIST: Yes, being - </p>
+
+<p>CLIENT: Dipping (ph) in the sun has boiled essentially - so eventually the comets will stop. So this will show how easily a comet can get pulled off course as it comes close enough to a certain planet. Sums it - [00:06:34]</p>
+
+<p>THERAPIST: [inaudible at 00:06:38] pull it in its orbit enough?</p>
+
+<p>CLIENT: [inaudible at 00:06:40] be a tug of sliding by its orbit. Not even at the surface the tug is slightly off.</p>
+
+<p>THERAPIST: Just [inaudible at 00:06:41] cutting in? There’s still enough pull from whatever?</p>
+
+<p>CLIENT: Yes, especially Jupiter with its size. Things that fly by Jupiter get bent. God, it’s a bitch. It is, it is. I mean the universe is an amazing Cosmos; you’re right about that.</p>
+
+<p>THERAPIST: Now what is it? Is it dramatizations of these kind of - ?</p>
+
+<p>CLIENT: I mean it’s certainly illustrated frames of some of these stories and this is what [inaudible at 00:07:08] thinks happened. They don’t hire actors, they’re just drawings, stylistic ink colored wood cut sort of drawings. And deGrasse Tyson narrates, [inaudible at 00:07:19].</p>
+
+<p>THERAPIST: Yes, it’s the show. So that’s the show on PBS? [00:07:27]</p>
+
+<p>CLIENT: It’s on Fox actually now.</p>
+
+<p>THERAPIST: It’s on Fox. Maybe that’s why I got confused.</p>
+
+<p>CLIENT: I think it’s Rupert Murdoch’s apology letter to America. He says whoops. He says we realized we actually have made a problem. We’ve lived with the conservatives and Tea Party gab for too long and now they’ve raised a generation of religious zealots who don’t believe in science. And Bill Nye is right; we are going to fall behind scientific and technology in the world very quickly if we don’t fix this. We need to start doing something about it. </p>
+
+<p>THERAPIST: Very interesting that it’s on Fox.</p>
+
+<p>CLIENT: Yes, that is very much like here’s what people believe for reasons of religion. And here’s why we now know how it works. And the sponsors (ph) say can you believe this, because they had no idea and they were afraid and so their views were based on fear. And now, we’re not. They can be based on wonder and wow isn’t that amazing? [00:08:20]</p>
+
+<p>THERAPIST: But it’s the same show that used to be on PBS right?</p>
+
+<p>CLIENT: Yes, Carl Sagan hosted it. And now Neil deGrasse Tyson holds [inaudible at 00:08:29] as chair and he also hosts. The U.S. does have some incredibly intelligent human beings. </p>
+
+<p>THERAPIST: Yes, I was wondering why I saw it all the sudden on - I thought it was some play on that or something. </p>
+
+<p>CLIENT: [inaudible at 00:08:43] developed a skit, Chemotology University, and it did quite well. So that was good. What else, what else?</p>
+
+<p>THERAPIST: Well yes the importance of math and calculus - </p>
+
+<p>CLIENT: Yes, I want to do more math. And I said okay if I’m going to do math, even if I’m doing a night class and I’m busy enough that I’m only getting a C in math and of course I’m actually learning the calculus, that would be great. [00:09:18]</p>
+
+<p>THERAPIST: What about []? What do you want to see done for credit?</p>
+
+<p>CLIENT: About []? I mean it was interesting but they don’t - </p>
+
+<p>THERAPIST: They didn’t have it?</p>
+
+<p>CLIENT: Well they’ll have it. They’ve got everything. But the dude’s a mathematician; he skips all sorts of steps. He says always to do this. I said well wait hold up, why can’t we do that? That’s interesting. What you’ve done there is a very complicated formula and it used to be extremely simple. What did you do? I don’t immediately saw what he did because you say oh.</p>
+
+<p>And he said it’s [inaudible at 00:09:53] due to permutations. He said what do you have? N-factorial over N-factorial times R-factorials something like that? And he said yes, well the N-factorials they cancel each other out. He did this thing where he said well since, I don’t know I can’t really explain it. It was a very good trick because he got out of school to know enough to [inaudible at 00:10:18].</p>
+
+<p>But, yes, I watched that. I’ve been watching that, I’ve been watching the Science Show. I’m just watching stuff about math and science and trying to be more literal about all of that because it’s also fascinating, the ability to understand and know that stuff, the quest to know it. Finally to understand that the explosion - have we talked about it in here before?</p>
+
+<p>THERAPIST: We’ve talked about it before, yes.</p>
+
+<p>CLIENT: Recently because I was watching a video on that.</p>
+
+<p>THERAPIST: Oh no, not [inaudible at 00:10:54].</p>
+
+<p>CLIENT: So, people said it’s the field that gives things mass, right? But these fields have popped into matter resistance all the time [inaudible at 00:11:09] directions and quirks. It’s not so scared (ph), which was the sad thing about it. Nothing should pop in and out of existence. There it is. And it is field particles all around us. It’s the way that it contracts with certain spectrums under electromagnetic, certain parts of the magnetic spectrum that creates the illusion of mass, essentially. We actually feel resistance as the field and that’s how much mass we have. The levels with which we interact with the field is how much mass we have. That’s how mass works. Photons out of the mass they’re not affected by the field. So it’s not that they have to think about - [00:11:57]</p>
+
+<p>THERAPIST: Stop. Stop for a minute. </p>
+
+<p>CLIENT: - although we have the mass it’s not affected by the field, is that? They aren’t affected by the field, which is right by the mass. The particles don’t interact with the photons in any way, because the photons are strong in their way, whereas they interact with us in all the electron energy.</p>
+
+<p>THERAPIST: Oh I get it. </p>
+
+<p>CLIENT: These are things to remember. We are a collection of magnet connections, that’s pretty much - we’re mostly empty space, we’re mostly empty space. So fascinating. So Erickson used to talk about this idea of the self being an illusion and this [inaudible at 00:12:42] is being at a point where you see yourself as you would in an illusion. And that’s really curious when you take a look at it. But who knows? [00:12:56]</p>
+
+<p>It isn’t even [inaudible at 00:12:55] itself. How do we receive any practical [inaudible at 00:13:04]. It’s all well and good. Starting that talk, series on web online course for waking up and guiding spirituality without religion, I’m thinking Bethany (ph) I love you but I don’t think you’ll stop trying to tell your (ph) motivational speaker, just one more God. I want a few things to say of spiritual development. It also will be, depending, I think quite relevant. Such is my thinking. [00:13:39]</p>
+
+<p>Opened my eyes to a lot of ideas I got before [inaudible at 00:13:42]. My favorite bit is some talk on the nature of God and then one of the other atheists are [more saddled] (ph) to reason. People lose thought as gears; there’s a new tribe out that support people [inaudible at 00:14:03]. And then there’s Deepak Chopra and then some female version of the other guy. So I’m going to try to out and test the working (ph) lecture.</p>
+
+<p>So let’s talk about the nature of God. Deepak Chopra, I’ve always loathed Deepak Chopra. He’s very much describing spirituality in these literary terms. And he’s the Kant of quantum physics, says the following sorts of things therefore we can then surmise this stuff nature of reality on a metaphysical level and what is God and those sorts of things. [00:14:36]</p>
+
+<p>And Sam Harris says first off we can’t even talk about nature of God. I think it was implicitly part of that this was the god of Abraham we’re talking about; this is the God most people are talking about when they say God in this country. So let’s not talk about some flimsy idea of what God could be hypothetically let’s not - he says being [inaudible at 00:14:59] in quantum physics that would be like oh this is what’s this. And Sam Harris says you’re not a quantum physicist though. And basically every word out of your mouth just firmly confirms that. And Deepak’s just oops kind of going actually no it’s this, it’s the other thing, this other thing, and Sam Harris said saying it louder and relentlessly won’t make it true. [00:15:23]</p>
+
+<p>He said and by the way can you bring down the volume a little bit? And the moderator says oh yes, here you go. It’s a little bit of Sam Harris. He says you’re just wrong and that’s - I’m not going to shirk but and also what are you doing? That seems strange. I don’t know eventually that’s the thing, you can’t just say quantum mechanics has some stupid stuff in it and just cash out all this other stupid stuff you want me to use.</p>
+
+<p>THERAPIST: Oh what, his point was that - </p>
+
+<p>CLIENT: Deepak has a lot of metaphysical ideas, which are always ideas, which he states as facts. And he claims there’s nothing you can’t possibly know. And Deepak uses some arrogance. He says you are less likely, you are farthest likely to see arrogance at a scientific convention then you are to seeing nudity. He says everyone hedges their comments. I’m sure there’s some here that - </p>
+
+<p>THERAPIST: I do.</p>
+
+<p>CLIENT: - took a lot of the classes. You know the views as long as I have that clearly need to be verified. I’m very excited about it but it could be wrong and since everyone, no one wants to be wrong. As to the point of science let’s not be wrong. Let’s figure out what’s right. [00:16:55]</p>
+
+<p>He’s into reasoning. I’ve seen the equation; I roughly understand the equation. I know how the equation reads but I don’t know why it does what it does, why it does what it does. But it’s very good. Do you know the concept of it?</p>
+
+<p>THERAPIST: No. </p>
+
+<p>CLIENT: Okay, so essentially it’s the algorithm for the equation, bases [inaudible at 00:17:23] equation or theorem, bases theorem. Essentially it’s the probability that this new information should change all the new probabilities you have based on the known universe. [00:17:36]</p>
+
+<p>So this is for instance, the way he says that. It’s takes place at [inaudible at 00:17:43]; he says it’s just some guy, he delivers rather poorly, he writes rather poorly and reads it off on cue cards and you can video it. The explanation is good but his jokes are kind of flat. So to explain the piece, these are all possible known universes in terms of everything you could possibly know about the universe. And he says so let’s just then take a look at someone says to me hey, [inaudible at 00:18:12] was a nightclub singer. Now in all the universes in English someone approaches and says this, he draws a circle around saying this is the universe in which someone tells him [inaudible at 00:18:22] was a nightclub singer. I say I’ve never heard of her being one, there’s no evidence she’s never been one. As far as I know in the known universe the likelihood she’s a nightclub singer is almost zero. So therefore there’s no reason to change our view of reality. [00:18:43]</p>
+
+<p>And in this universe in which she finds a box of photographs which is all Madison, looks like she was singing in a nightclub. There’s an elephant (ph) under these universes. We have the big universe, which is everything. Within that we have contained the universe wherein someone tells him Madison was a nightclub singer and may or may not have been. The other universe is the one where she finds the box of photographs. There’s an overlap of these two universes in the entire realm. [inaudible at 00:19:17] defense, we say okay we cut out the entire order because put that in the relevance of this current situation. [00:19:21]</p>
+
+<p>And now we have B, C, and D. You have B being where you [inaudible at 00:19:26], C being the overlap and D being [inaudible at 00:19:29]. And there’s some recon (ph) with D that didn’t, the other D that found the photographs, so that happened. And now we have a universe wherein we’re told she’s a nightclub singer and this section here is much larger a probability that she actually was a nightclub singer. So I actually changed my, actually updated my reality. </p>
+
+<p>And that’s the idea that it’s not all valuable. How likely is it that this should be included in my understanding? [inaudible at 00:19:52] it’s awesome, which we’re also living and it’s fascinating. How likely is it that I can change my mind? It’s a good thought process; it’s working through what do we know about the universe. And we’re not looking at that as if [inaudible at 00:20:12] was even more ridiculous, even more ridiculous. Athletes thanking God for their win, super idiots. [00:20:25]</p>
+
+<p>The circus analogy really drills down. So I need all possible universes and I need all possible universes in which there is a god. And we need all possible universes in which there is that specific God in which you are giving thanks. Then, all the known universes which [inaudible at 00:20:42] exist to you when you give thanks intervene in your daily life. And now further drills down to a universe where that God exists especially in your daily life and cares about the outcome of specific football games and not others. What is that? What are the chances in fact that that’s what it is? I’m thinking pretty small, pretty small. [00:21:04]</p>
+
+<p>And now, and to answer the first three problems what if we’re wrong? Well what if you’re wrong? We could all be wrong about any number of [inaudible at 00:21:15] or lack thereof. There’s no way to tell other than to say there’s no evidence that we should believe in them.</p>
+
+<p>THERAPIST: Yes. What do you say, I mean I realize we talked a lot about, there’s something really about the kind of the force of volition in the world, the - what is it all, what is it that you think you’re working out?</p>
+
+<p>CLIENT: What is it that I’m working out? That’s a good question. I wondered that because it is a big focus in my life recently. It really resurfaces like this is something that needs to go.</p>
+
+<p>THERAPIST: Is that what it is? It needs to go?</p>
+
+<p>CLIENT: It needs to go. It needs to go. It’s bad for us and it’s dangerous. It makes the world a more dangerous place because people are making irrational decisions that seem rational to them based on an irrational framework which they were given, which was given to them. That’s what [inaudible at 00:22:15] people realize. Oh we believe, we can believe because that’s what you were told when you were a kid and you were malleable. That’s why you believe in all this stuff. The Virgin [inaudible at 00:22:27] was old. Look at someone like me looking at it from the outside. Look at Scientology. When you look at Scientology, some skeptic [inaudible at 00:22:37]. Apply that to your own faith. [00:22:38]</p>
+
+<p>THERAPIST: And you’re sure - do you think that you’re doing - do you do that with yourself? Is that one of your customs?</p>
+
+<p>CLIENT: How so?</p>
+
+<p>THERAPIST: In other words are you sort of saying you’re going after your own religious kind of upward, like the stuff that you’ve learned over the years?</p>
+
+<p>CLIENT: To a degree, yes. Listen that stuff is there and it’s, I have empirical evidence that it since I was born that it continues on throughout one’s life and anecdotal evidence that this is the end. Empirical evidence in my friends and already closed to them. Why - although your actual friends will still identify [inaudible at 00:23:10] keeping them out. I’m sure there are many things [inaudible at 00:23:18] out of their childhood Godparent. They asked me to be Godparent to their daughter. I said yes, I’ll do that. [00:23:21]</p>
+
+<p>THERAPIST: But I’m not going to do that.</p>
+
+<p>CLIENT: No, I’m not going - exactly. But, [laughs] yes. I can’t say I offered, I think that would be the responsible thing. Where are Mommy and Daddy now? No one knows.</p>
+
+<p>THERAPIST: How much does religion do you think still affect you? How much do you think your religious upbringing affects you?</p>
+
+<p>CLIENT: I thought most of the day and I was talking about this to Ginny. I can’t stop blessing my food. And it’s the same rhyme they teach you as a child. Dear Holy Father, thank you for this day, thank you for this food, bless it [inaudible at 00:23:53], in Jesus Christ Amen. Boom. Every. Single. Time. And it’s in there and I say it and I say Amen. And I have to, at night, at night, when I go to focus on positive things and hope for the future, I still, I have the same formula. Here’s this ritual but these are things to think about. [00:24:21]</p>
+
+<p>THERAPIST: What do you do? What do you do?</p>
+
+<p>CLIENT: I don’t know. I don’t want to talk about that. But it’s premature and [inaudible at 00:24:30] down over the years but it’s sort of like varied - </p>
+
+<p>THERAPIST: Varied kind of ritual almost?</p>
+
+<p>CLIENT: Yes, exactly, sort of a [inaudible at 00:24:36] role. But still it’s, I have to tie it from beginning to end with the Mormon format, which is Dear Holy Father, blah, blah, blah. And then praying in Jesus Christ Amen, blah, blah, blah. I don’t know.</p>
+
+<p>THERAPIST: Whether you like it or not you do it.</p>
+
+<p>CLIENT: Yes. Those aren’t beings I ascribe in a note. Dear Heavenly Father, Dear Creator God of the Mormon faith who had sex with lots of women and made children so I could be here on this earth for some great time. Really I mean how many, how far do you have to go? [00:25:17]</p>
+
+<p>THERAPIST: Well I was thinking that in some way it’s like an attempt to kind of deprogram or something.</p>
+
+<p>CLIENT: Oh absolutely. I want to be deprogrammed of this stuff. It’s awful. I have people on my thread I said Easter Bunny, it’s Facebook, I said Easter Bunny another myth I would immediately tell my children about but there’s no such thing as the Easter Bunny. I said there’s too [inaudible at 00:25:38] because why [roll down] (ph) to children? How many kids realize that adults lie to them all the time, that there’s been a group conspiracy of adults who [inaudible at 00:25:47] all these mythical beings? For what reason? I mean for some of them it was fun probably and some of them thought it would be fun for us.</p>
+
+<p>THERAPIST: But it’s kind of why the hell are we putting this all into people’s heads?</p>
+
+<p>CLIENT: Right, why are we putting - ?</p>
+
+<p>THERAPIST: And then it gets stuck in the head and then you can’t - </p>
+
+<p>CLIENT: Yes, Santa Claus from all above, we pulled out - sorry, there’s not a Santa Claus, there isn’t. [inaudible at 00:26:13] Josh Dawkins refers to this very much. This is Santa Claus? Wow, let’s reason that through. How many chimneys are there in your neighborhood do you think? Let’s pick some numbers. Then how many neighborhoods just in this part of the state are going to have chimneys now? Okay, how much, how fast do you have to go between chimneys to do this? And if you get to that chimney and drop with the presents can you do all of that in one night? [00:26:47]</p>
+
+<p>It’s magic. Well, given that magic isn’t real, right, or there’s no reason to believe magic is real, think about this logically. Also reindeer, do you know of any reindeer that fly? Really? Other than the ones you’ve heard about have you heard of reindeer flying because no one else has. No one’s ever seen a reindeer fly. Not ever.</p>
+
+<p>THERAPIST: Really?</p>
+
+<p>CLIENT: Never, never happened. That’s interesting. So I think we have to surmise that that part is a story, right? Yes, okay, interesting. So maybe it’s all a story. Why wouldn’t someone tell you it’s a story? Probably because they thought you would like it because you were young and they thought you’d say oh this is fun. [00:27:37]</p>
+
+<p>THERAPIST: And would make you feel a certain way.</p>
+
+<p>CLIENT: Yes, maybe you’re crying but don’t let your kids ask about Santa Claus. I think much lore is very much offensive. I loved believing in Santa Claus; I want children to be able to believe in Santa Claus as well. And I thought I don’t know if that’s a fair trade. You loved it, that’s great. But then you say still your child to trust implicitly? This is what they think is real. The tooth fairy is a being who comes into your room and takes your teeth and leaves you money. It’s another innocent thing. </p>
+
+<p>THERAPIST: That it can have a real kind of nefarious - </p>
+
+<p>CLIENT: Yes, then it came to me. Why does Santa give poor kids the worst presents and fewer of them?</p>
+
+<p>THERAPIST: Oh boy you’re so right, you’re so right.</p>
+
+<p>CLIENT: Yes, that’s so interesting about that. [00:28:27]? </p>
+
+<p>THERAPIST: We really have such a different feeling depending on who, depending on the context in which it exists too. It’s taken me very - </p>
+
+<p>CLIENT: It’s all insanity. That’s all it is and people making up shit to mix it up because their parents made shit up and their parents made shit up and their parents made shit up. And fathers realize that it doesn’t bother everyone.</p>
+
+<p>THERAPIST: Well no because - but again it’s like when we talk about the healthy illusions. In some cases those illusions don’t see - and you must see it all the time. You see people not really tortured by it or whatever, but there are people that are. [00:29:15]</p>
+
+<p>CLIENT: Yes, oh sure.</p>
+
+<p>THERAPIST: Go look at any county in the Western - some crazy stuff that’s going on with the religious beliefs or some other belief that’s wreaking havoc on bodies and minds and souls.</p>
+
+<p>CLIENT: Well no because they chose insanity. Who knows the sexual and visible about all of it which isn’t very much more comfortable with it I think, being sexual and visible. It being that thing that we all kind of sense about each other and feel about ourselves but which we have no really other word for it than soul. And what is a soul? Is there such a thing? Or is it something somebody considered? Yet we all seem to behave well but many of us seem to behave as if such a thing exists. Curious. Curious. </p>
+
+<p>It’s like the beginning of the first season of Breaking Bad. He’s in a flashback to his chemistry professor, one of the [inaudible at 00:30:11] chemistry professor, and he’s with the woman he’s dating and he’s calculating all the bits and pieces of what makes a human body, the [counter rules] (ph) and percentages, everything. It’s 99.9 something percent is accounted for. He said this little bit we don’t know what that is. And the woman says what about what if that’s the soul? And he says what do you mean it’s the soul? This is science. We’re missing something. We’re missing a very small percentage of something. We don’t know what it is. It’s got to be something. [00:30:50]</p>
+
+<p>Regardless, so what bothers me is that I have friends who are still saying, one of my friends, one periphery of my friend’s circle, honestly wished everyone a happy Resurrection Day. I said yes, well when did you - I said that didn’t happen likely. Let’s circle this truth. Let’s go around it a few times and ask questions and look at it until we see what it really is. Okay, so happy Resurrection Day because Jesus Christ came back from the dead [inaudible at 00:31:45]. Okay, let’s look at the evidence for this. First off let’s look for any corresponding evidence. Do we have any situations where someone died and came back from the dead with their wounds still intact? Is that ever written or recorded anywhere? Never. [00:32:02]</p>
+
+<p>Okay, okay so that’s interesting. Let’s get to [inaudible at 00:32:03]. So in the known universe that doesn’t happen, but in the scripture they’re saying maybe it did. Okay so fine. So now given that we know this never happens then we have one universe in which it can happen and we have this specific version. Okay, now what further evidence do we have that it happened? Well, three of his best friends said they saw him afterwards. And he said yes I fucking died. And I’m not bad anymore but I’m going mad at them so whatever. Peace. And the woman said how many came to America? And he said I’m a spirit ghost. Let’s all bow to Jesus; that’s me. </p>
+
+<p>THERAPIST: And by the way people laugh at that. A lot of Christians would laugh at that.</p>
+
+<p>CLIENT: They think oh that’s funny. I said yes that is funny. </p>
+
+<p>THERAPIST: That’s a crazy idea. </p>
+
+<p>CLIENT: That’s crazy, yes.</p>
+
+<p>THERAPIST: But this other one is credible.</p>
+
+<p>CLIENT: But this stuff, though, this is all the stuff where - and the trinity idea. So God sent himself to Earth to sacrifice himself to himself so as to protect us all from himself. That’s the most ridiculous psycho bullshit in the world. So again, they’ll all resist [inaudible at 00:33:26] for very real trouble? [00:33:26]</p>
+
+<p>THERAPIST: But what about your friend that posted that or whoever - was it a friend of yours?</p>
+
+<p>CLIENT: Yes, and just - I said Felicity I like you but this is crazy. I respect you as a human being, as an intelligent human being, but you just said something that is insane. And I don’t know how to approach that, to say hey that’s crazy. It didn’t happen. I mean, again, what’s the evidence we have?</p>
+
+<p>THERAPIST: Do you know that Felicity’s not insane - ?</p>
+
+<p>CLIENT: Yes, I understand; she said the same thing. And again this is what I’m saying she’s a rational person making irrational decisions because her framework is irrational. She’s in the right kinds of stuff because [inaudible at 00:34:19]. And it’s just the thing of, I explain to people now the game of reality, talk about playing, which really is a game that I played in college. As I said I’m willing to leave the room with that information. If I’m making some shit up just to have fun with you just because you’re going to believe me for a few seconds, I’m going to tell you I was kidding. I’m not going to say oh shit, Leif left thinking that three printers (ph) can make eggs you can eat right now or whatever. [00:34:57]</p>
+
+<p>[inaudible at 00:35:02] you tell someone that and they’ll say you’re a fucking idiot. That’s not true. Let’s Google that. Oh it’s not on Google. Why the fuck would Google lie about that? What’s up with Fred? Is he a pathological liar? No, I was joking and I forgot to tell you. Oops. But let’s get with reality. We love reality [inaudible at 00:35:19] so often because she was so bad at it. Then one day I was talking, I was so excited about yes I vetted (ph) three printers and they’re coming because they got three printers, amazing. She said no, not this time. I said you know three printers are actually really amazing. And she said, no, no such thing. And I couldn’t help laughing because it was so funny. I said this is - I’m telling you the truth and now you don’t believe - every time I lie to you, you eat it up and now I tell you the truth and you say no. [00:35:47]</p>
+
+<p>THERAPIST: The one time.</p>
+
+<p>CLIENT: The one time. So, and then she found out they existed and she said he was right. They’re real.</p>
+
+<p>THERAPIST: Well you know what comes to mind to me is the way you describe kind of how bad information shaped Kevin’s life for instance. How it really profoundly - </p>
+
+<p>CLIENT: Snake juice. He still believes in snake juice.</p>
+
+<p>THERAPIST: What’s, what is - [00:36:15]</p>
+
+<p>CLIENT: Snake oil. Snake oil salesman. You know, the traveling salesman who says oh this is good.</p>
+
+<p>THERAPIST: Oh yes. What does he subscribe to?</p>
+
+<p>CLIENT: Cider apple - apple cider vinegar is his current thing, which cures anything. </p>
+
+<p>THERAPIST: Oh really?</p>
+
+<p>CLIENT: Yes. He’ll say oh just drink apple cider vinegar and hork (ph) out all that phlegm every day and spit it all in the sink. And it’s a horrible sound and he horks (ph) up everything and spits. He does that for a few minutes until he says yes, cleared out all the mucus because he’s got a [inaudible at 00:36:51]. All right man, you’re weird. </p>
+
+<p>But again, and the one that really gets me, the one Jesus fuck-up, is hearsay of three dudes who were his best friends that had a lot to gain by making him go away, who had written down 60 years after it happened. They had 60 years to come up with a story that everyone believes. Pathological liars, you might know something about this. Fascinating watching across [inaudible at 00:37:31] lying, right? Pathological liars. [00:37:33]</p>
+
+<p>So don’t you lie and pretend, whatever. Fuck I don’t care if you never talk about it. In order to lie you need to do something very important. You need to hold two conflicting bits of information in your head at the same time, right, the reality and what you’re obscuring it with. The more complex the lie, the more conflicting information you have to hold together in your head. The gray matter, that part of your brain that is critical decision-making and all those very useful things. White matter carries connections between your brain. The more white matter you have the more complicated information you can hold in your head at the same time. [00:38:10]</p>
+
+<p>Pathological liars have such a great amount of white matter that information is just being connected and held. [inaudible at 00:38:19] of information that’s being held together naturally therefore a lot of pathological liars don’t know they’re lying when they’re lying. They’re used to doing it because the brain says no it’s all here, I got all the information. They can’t distinguish the truth from reality any more. Said you’re on a roll, [inaudible at 00:38:44], still we should forgive him; well we have to forgive him to a degree, really. You can’t help what you’re doing and we also can’t trust you. That is a problem. </p>
+
+<p>THERAPIST: With the teacher?</p>
+
+<p>CLIENT: Yes, yes. It’s a hurricane; now we can’t trust you.</p>
+
+<p>THERAPIST: The drama or the - </p>
+
+<p>CLIENT: Yes. Yes, exactly. Now you can’t be trusted. That’s all. Now it’s important. How do we know the crazies? Facial tattoos? But that’s all insanity. Yes, I’ve got some time to do math every day this week. Just not [inaudible at 00:39:29].</p>
+
+<p>THERAPIST: Yes, well what are you feeling about it? [00:39:32]</p>
+
+<p>CLIENT: Well I’ve got to get a 100 on this, which you recall it possibly will return (ph) itself, and do a couple retakes. I’ll probably retake them this week or next week. Class isn’t open for this kind of a thing so another week after that. </p>
+
+<p>THERAPIST: Weeks?</p>
+
+<p>CLIENT: See if I can do a couple, two retakes [inaudible at 00:39:56]. I’ll take the third [inaudible at 00:40:03] extra points, shouldn’t count very much. I might even choose if that didn’t it wouldn’t hurt. But understanding that stuff - [00:40:16]</p>
+
+<p>THERAPIST: And what is it, what about this week you got ahead of you? What does it tend to bring, bring out? What’s the worst of it?</p>
+
+<p>CLIENT: It’s a little scary. I mean I know my potential to fuck it up is so high and as long as I don’t fuck it up and I pass this course I’ll have my college degree. And my job search restarts in earnest and I can call the places that wanted to talk to me before but couldn’t. Okay now, see now I have this degree now so now we can talk. I can [inaudible at 00:40:54] off success and say hey man, you haven’t gotten back to me so I’m assuming you’re not interested. If you are, we need to talk now because I’m actively looking at jobs. Player, the place I worked and left, had massive layoffs.</p>
+
+<p>THERAPIST: Is that right? [00:41:08]</p>
+
+<p>CLIENT: Yes. Yes. Two women I hired are still there and one of the guys I hired jumped ship for another company, as did other people. But I’m laughing because this is part of the West Coast part of it too. So it’s basically nothing now. It’s just another, once again riches give out, well, time to start a new company.</p>
+
+<p>THERAPIST: Yes. What - did they ever launch that, the [inaudible at 00:41:39]?</p>
+
+<p>CLIENT: Well they launched it yes.</p>
+
+<p>THERAPIST: But not doing much?</p>
+
+<p>CLIENT: Apparently not. Apparently not at all. </p>
+
+<p>THERAPIST: I guess not, yes.</p>
+
+<p>CLIENT: And I was just thinking they still have no [inaudible at 00:41:56] project manager position. And it might be interesting to say hey Josh, now that all those other assholes you [inaudible at 00:41:59] are gone, now we can have a discussion. First off, you can’t talk to me the way you talked to me in the past. This whole raising your voice, trying to be intimidating and take your best shot well you just can’t do that. And the thing I would say this time - </p>
+
+<p>THERAPIST: Communicate better. [00:42:17]</p>
+
+<p>CLIENT: Yes. And it’s not only with me; that’s with everybody. That’s with everybody in this office. If I see you being a jerk I’m going to call it out. I’m going to pulling Pete to intervene on your behalf. I suppose that would be interesting. Hey now do you need me? Now that everyone, all the other people are gone I think I can make this work for you. I just want a piece of the pie. And easily, having been there I can easily be on the same levels as Larry, easily. There is no reason - </p>
+
+<p>THERAPIST: They still have that position posted?</p>
+
+<p>CLIENT: Yes. I thought could I do that? Could I go back there? I said I probably could, if it were a different environment which maybe it is now. But I think I would honestly say we have to make some changes. We have to paint. The moral here sucks because your office fucking sucks. We can make it suck a little less. I know you have worried about the number of water bottles we go through, people drinking water here, come on man. Seriously, health insurance sucks, there’s no 401K, there’s nothing. So we have to make some choices. Let’s make some quality of life decisions. What’s the game? I don’t give a shit what the game is. [00:43:48]</p>
+
+<p>THERAPIST: But it was, it must have been a very sharp contrast from Melody, the economy, the environment?</p>
+
+<p>CLIENT: Oh very sharp contrast. It would be like - and he said this isn’t Melody. We’re not running things loosey-goosey. I said yes, that’s true. But you also panic in the same way they do. You say oh they do things this way; well yes, but you get the same in results, and actually potentially worse because at Melody at least everyone loves each other. At least everyone’s there to better the team. At [] it’s just - I think they on your back if most of us [inaudible at 00:44:43] team were gone. I think and actually I’m throwing around this [inaudible at 00:44:46] I’m here; these are the terms now but they’re different. And we need to fucking paint because it stinks (ph) plus it’s fucking depressing. Your turnover rate is awful. Your explanation of sometimes people just leave is - [00:45:02]</p>
+
+<p>THERAPIST: Well, no, there’s a way to bring that in with you, to say that. Say we’ve got to communicate better.</p>
+
+<p>CLIENT: Pretty much. At the same time he needed to stay out of people’s way. If your job is these things, they’ll come over here and talk about production because we’ll actually real busy right now. And again that’s what I was saying. Man, we’re busy right now. And at least when Orlando was the CEO, he’d call Josh out on points like you should not be involved. He said when you go over there and you’re trying to get stuff forced through it doesn’t happen. So you should step back. But he’s not one to do that. He did it for a couple days. </p>
+
+<p>THERAPIST: Josh wouldn’t step back?</p>
+
+<p>CLIENT: Yes. Yes, yes, we’ve got to make some changes. We got to fucking paint. This is - </p>
+
+<p>THERAPIST: Do something that kind of gives some heart beat to the place?</p>
+
+<p>CLIENT: Yes, this is just awful.</p>
+
+<p>THERAPIST: Some color and all.</p>
+
+<p>CLIENT: Yes. It’s really hot in the summer; it’s cold in the winter. This is awful. We’re a small company do we need - we have a lot of big empty space. Can we find a smaller, more intimate environment somewhere slightly nicer? Some place with an office so we can have private conversations?</p>
+
+<p>THERAPIST: Because it was one just big open space? You didn’t have any space where you go - </p>
+
+<p>CLIENT: No.</p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: Yes. Everything was open. You could go into the server closet but - </p>
+
+<p>THERAPIST: [Laughing] Not quite what you’re looking for.</p>
+
+<p>CLIENT: [inaudible at 00:46:58] over in the back - </p>
+
+<p>THERAPIST: Executive meeting in the server closet?</p>
+
+<p>CLIENT: Yes, exactly. We’d pull some chairs into the door up and around the corner of [inaudible at 00:47:03] wall and would say pretend that I had anything to do with - [00:47:05] </p>
+
+<p>THERAPIST: What was it? Was he just trying to save a lot of money or something?</p>
+
+<p>CLIENT: Yes, he’s very much like you say. His entire plan is to subsist. Not to excel but to subsist. And part of me says that makes sense. But again, I don’t want to subsist.</p>
+
+<p>THERAPIST: People still need the way that you subsist.</p>
+
+<p>CLIENT: Yes. People still need to want to come here. That’s actually the thing. People need to want to come here and right now they don’t. And specifically I don’t. And many people don’t so they keep leaving. So clearly, so clearly - </p>
+
+<p>THERAPIST: So what, you said, so you’re saying that you’re fearful that this week will go - </p>
+
+<p>CLIENT: Will go poorly and I won’t pass the course.</p>
+
+<p>THERAPIST: What will go poorly?</p>
+
+<p>CLIENT: That I wouldn’t study math every day and do the math every day. That’s what I figure, that I won’t do that. That I’ll fail to do that and I’ll won’t pass the course with a C and - </p>
+
+<p>THERAPIST: Is there some reason why you won’t do it do you think? What is it? [00:48:21]</p>
+
+<p>CLIENT: I don’t know, purposely. Well the reason why I smoke weed all the time though that’s just an excuse. I would not be doing it regardless. This is not a time to change horses so - </p>
+
+<p>THERAPIST: There must be something about doing all the - sitting down and studying is bringing out, bringing something out.</p>
+
+<p>CLIENT: Yes. But sometimes it’s fun though. Sometimes it’s fun. Like reading about stats is really interesting. This is when I think oh here’s what I can do with that. I’ve been working on a system for years and trying to convert all possible minis (ph) games I have into one universal systems that I can play all minis (ph) games together, by myself in solitary because that’s what I do with games anyway. So they’re fun video days. [00:49:16]</p>
+
+<p>And I realize now I can actually have the tools. I never could do that before because I could never make it work; I could never figure out the math. And now I say oh wait, I know the math. Oh shit, I can make any of these normal distributions and I can make them all Z scores and then boom. Yes, then I got everything I need.</p>
+
+<p>THERAPIST: Yes, you just need, I mean I’m just going to keep saying this, but you just need the face time with it. That’s all you need.</p>
+
+<p>CLIENT: I think you’re right. That’s why I ‘m so excited about the idea of calculus, doing that. I’d love to do that. </p>
+
+<p>THERAPIST: Yes? You just need time.</p>
+
+<p>CLIENT: Yes. More math. It’d be fun to go get a bachelor’s in math. Really, that’d be cool. I could transfer those other credits [inaudible at 00:50:05] naturals in math. It would be a really good math fortunately.</p>
+
+<p>THERAPIST: Yes, yes.</p>
+
+<p>CLIENT: I guess that’s the thing I interpret (ph). Oh but Ginny said this, we should bring out some batons (ph) just in your head so we can talk about it next time. Ginny said that I often view what I should view as my normal self-esteem as grandiosity and manic insanity. Yes. [00:50:35]</p>
+
+<p>THERAPIST: Wait, what did she mean by that?</p>
+
+<p>CLIENT: Well, I was feeling a little down on myself for a few days. I said you know I’m feeling good about myself. I’m a little worried that’s just my mania. She said when you do that, when you have normal self-esteem about yourself you’re worried you’re screaming crazy.</p>
+
+<p>THERAPIST: Yes, that’s a really good point, and yes.</p>
+
+<p>CLIENT: She said I haven’t noticed you doing any of those things. So - </p>
+
+<p>THERAPIST: Yes, no, you’re right.</p>
+
+<p>CLIENT: So that’s good, it’s good. However we haven’t had sex for over a month but at the same time I just think whatever. Well, we’ll talk another day.</p>
+
+<p>THERAPIST: Yes, listen man it’s all about getting the face time.</p>
+
+<p>CLIENT: Yes, the first part is getting to the gym.</p>
+
+<p>THERAPIST: [Laughing] That’s right. Here you go. See you Thursday. [00:51:34]</p>
+
+<p>END TRANSCRIPT</p>

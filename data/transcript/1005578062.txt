@@ -1,0 +1,263 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: How are you?</p>
+
+<p>THERAPIST: Good! What is that, The Four Pillars of Geometry?</p>
+
+<p>CLIENT: Yeah. Not sure what I think of it. It's interesting in the sense that... geometry can be thought about in different ways. Other math can, too, but geometry sort of lends itself to that. So you can do Euclidian (and so you can draw all sorts of triangles and prove things based simply on that); or you can extend it to algebra; or you can do geometry entirely geometrically; or you can use linear algebra; or you can do this sort of perspective drawing. </p>
+
+<p>THERAPIST: Huh! Is that the four... [00:00:52]</p>
+
+<p>CLIENT: Those are the four pillars, so says he. But it makes sense (therapist responds), because it designates (inaudible). So in your linear algebra, what's handy is there are a lot of things you can do in linear algebra you can't do in Euclidian (ph) geometry because (inaudible) linear algebra, because it's just way too cumbersome, so... (inaudible) to think about it, with algebra is... computer graphics, a computer graphics card is really this hard-coded device that does matrix multiplication all the time; all the time, all the time, fast, fast, fast, fast, fast. So that, for, if you're a first person that (inaudible), some shooter game, and you crash down, or trip on a step, or walk around the building, from the eye point of view, (inaudible) had always taken place, so that you have the perception of walking around and going up and so forth. So you're changing geometry (therapist affirms) all the time. Fast! Or Pixar, right? So all of that is sort linear algebra. [00:02:07] </p>
+
+<p>THERAPIST: Oh, okay. Yeah, how do they change with the lines and the... </p>
+
+<p>CLIENT: Yeah. The thing is, too, like in regular algebra, high school algebra... In fact, I was just teaching this last week to Maria (sp), that's my student in Waltham (ph), she wanted me to do ellipses and hyperbolae and so forth. Well a high school algebra book, you know, I mean, (in college as well, until you get to linear algebra), if you want to write an ellipse, the ellipse is either going to be lined up on the x,y coordinate like this, or it's going to be like that. You never have the ellipse rotate in any way because the math is complicated, right? It's in case (inaudible) end product, most of them deal with the product (ph). But with linear algebra, you can then quite easily just change your axes, change the formula; so then it gets quite easy to draw ellipses; same thing for just shapes in general. You can just move them around however you wish, changing the, just (inaudible) matrix. [00:03:11]</p>
+
+<p>THERAPIST: Okay, okay. Huh! </p>
+
+<p>CLIENT: (pause) But I'm done with that. (laughs) So, my exam was yesterday, so the course is done. </p>
+
+<p>THERAPIST: Yeah, where does that, what are you left with?</p>
+
+<p>CLIENT: Well, yeah, so yesterday was just this day, I just wasn't "on," I just wasn't "on," right? I mean, the last exam, I was totally "in the zone" and did really well. Then... I don't know, I didn't get enough sleep or something. I was trying to like, be more rested. The reason I didn't sleep, I woke up... and I just couldn't get traction like, it was one of those days, where my head was just fuzzy. I just couldn't think straight. [00:04:10]</p>
+
+<p>So then, I'm like, "Oh, God! What am I going to do?" So... and Barbara (sp) took the car to work, which was annoying to me, because then it means, it just adds a lot of length to the trip to and from. I'm not concerned about getting away for the exam; I just want it to be an easy trip, just get over there, and park. (pause) </p>
+
+<p>So anyway, it was a nice day so... but that was an issue. I'm like, "Okay, got to get the train." So now I don't have to take the train anymore, right? So... and I have, you know, I have all this stuff I have to take, my notes and stuff. So there is that, and then... So that begs, that when the wild card, the idea of like taking the train, because normally there are seats (ph) in a car drive. Easy! Listen to the radio on the way instead of crazy people (inaudible). You know, people on... It was really, it's like... Seriously, I mean, I was sitting there, trying to study and like fucking hell! There are these couples, and like, I don't know what it is, is there a certain drug? It must be like, methadone (ph) or something, where people are just like blissfully affectionate and just like (therapist responds/blocks/inaudible). [00:05:23]</p>
+
+<p>And I was like, you know, it seemed like they were from (ph) or whatever, but she's like sitting there, attempting to do some crossword or something in the metro. And he, and they're both rail thin... And then the one guy... And you can't like, dislike them, because they're not (chuckles)... they're just, they're just in their own world. And then like her top, she was untied, so then like, the train is moving along and then he gets down, and like ties her shoe and... they each like have a gazillion different things and cups of this and... (therapist responds)</p>
+
+<p>So anyway, I was like trying to do math. I am distracted by that, then you've got people speaking Haitian and I'm like, "God dammit!" It's like, I still, if I could drive my car, I can listen to Felger & Mazz, drive over, easy, get in a parking space, be in my head. Instead, this God damn world of subway people are interfering with me. (therapist responds) [00:06:28]</p>
+
+<p>And I'm frustrated, because I'm like, I have no, I had no traction all day! I wasn't "in the zone" and I... I was doing problems and I'm like, "I don't know this! How could I know this? How can I know this stuff and now I don't know this?" (therapist affirms) So then, like the last thing going into an exam is you want confident, I mean, you don't want to be not confident! Right? I mean, that's the key! You want to well rested and confident with a decaffeinated! </p>
+
+<p>So now, Jesus Christ! So then, you know, I'm, you know, it's not hot, but I'm schlepping around all this crap, you know, because I like, God help me if I get to the library and not have my notes, right? So I take far more than I need, but I don't know what I need exactly, right? So I have all my files and the book, which isn't that big. So I get to Amherst Library, because I like that library now. It's beautiful. I go up to my usual spot, I sit and study, I start doing a problem and like, "Jesus Christ, I don't know how to do this!" [00:07:33]</p>
+
+<p>THERAPIST: Really? Huh! Just draw a blank, kind of?</p>
+
+<p>CLIENT: A blank! And then, I'm like, then I tell myself, it's like, "All right. All you had was one cup of tea (because you were trying to stay mellow, you didn't want to like, get over-caffeinated too early, right?), you haven't had your coffee, so just... you know? You know this stuff, on the way to class, you go get your coffee, drink your coffee on the way to class and then, when it's "go" time, bam! You do it! You wake up!" Right? [00:08:07]</p>
+
+<p>So, I got my coffee, went to class early, I talked to Elliott, who explained something that was not on the test, but I thought it would be a useful conversation just to hear it, because of like, getting back into math mode. So, we were talking about this, and he's drawing on the board, I'm drinking my coffee, and I'm thinking at the same time like, "Wow, I'm watching this (I mean, this wasn't on the test), but I'm waiting for the caffeine to kick in and I'm hoping this engages me in some sort of math thought," you know. So... I sat, and the exam is passed out, and then it's like, "Blip!" (ph)</p>
+
+<p>THERAPIST: It turned off? </p>
+
+<p>CLIENT: Turned off. (therapist responds) So, I feel like I did all right, but you know, time is an issue, right? So I feel like... I work incredibly methodically and I write far more than most people do, and it's because I'm not, you know, a 20-year-old math savant. So I just do things the way I do them, and so it's just... So I bring, you know, lots of copy paper and my homeworks are always thick, thick, thick, because every answer is like three text typed pages (or not typed, but sometimes typed). Whereas mine... every single side of copy paper (enumerates, "do, do, do, do") and I can't staple it with a regular stapler, which takes twenty; won't work. So I have to go to get a special stapler, right? So it's... You know, my work is often 20 pages, as opposed to three. [00:09:55]</p>
+
+<p>I draw pictures and I describe it and I do all the math and I do nothing in my head (but I mean, that's not entirely true; there are a lot of things you have to do in your head, but...). So I'm always baffled, utterly baffled by people who turn in these little tiny thin things, like, "Where's the math?" (therapist responds) So, anyway, you know, so that's me on exams! It's like, it's, like a homework assignment, it's almost like (verbal sound of flipping pages?). So last night, two hours, you know... Well, so it was 24 pages. Meanwhile, other people are just like, writing on the exam in tiny, tiny, tiny... I'm like, I don't know. My philosophy is, you know, why kill yourself? Why? I don't get it! I mean I... but people, you know, just have sharp pencils and they just write tiny, tiny, tiny. And then erase if they make a mistake! [00:10:52] </p>
+
+<p>THERAPIST: What is it, ((inaudible)/blocked)?</p>
+
+<p>CLIENT: I use the, I like the New York Times philosophy: black pen! Let's say you have an x (ph), right? You make a mistake, you cross it out and re-do it! White blank paper (therapist chuckles), right? That's what you do. (pause) If you're given a drawing, you re-draw it. Why do you re-draw it? Because as you're drawing it, you're thinking about it. Re-write the problem! Why do re-write? You re-write it because as you're writing, you're thinking about the equation and buying yourself a little bit of...</p>
+
+<p>THERAPIST: Interesting. </p>
+
+<p>CLIENT: Right! But... (pause) That's my approach, then. Not the fastest way of doing things, but that's how I do it. (pause) [00:11:45]</p>
+
+<p>THERAPIST: What about that, what about that, that you do it a different way? What does it mean to you?</p>
+
+<p>CLIENT: Well... (pause) (sighs) I don't know. I think there is just... I feel like it's not a race, although you do have, you have to be fast if you want to do well. So I look at it, thinking, in the long... I somehow have this idea that like, in the long run, it's sort of tortoise and the snail, right? Or tortoise and the hare, right? I guess that's the idea. Ah, tortoise (laughs), tortoise and snail! (hearty laughter) (inaudible) Although that might the (inaudible) now, again in my current state. (ph). [00:12:36]</p>
+
+<p>Yeah, I mean, it just it takes longer, but then you make fewer mistakes and along the way, you're not racking your brain. You just sort of methodically go through. As long as you don't really hiccup, right? You just proceed. (therapist responds). I'm not in a race to be first; I'm always the last person. I take the maximum amount of time. (pause) I don't know. I mean, I was just thinking like, you know Euclidian, I mean... The beauty of it is just these beautiful drawings and very clear explanations. </p>
+
+<p>THERAPIST: Hmm. Huh!</p>
+
+<p>CLIENT: And then there was this notion, you know, in the '70s from France saying, "Eh! We don't want drawings anymore! Let's just make it all algebra!" </p>
+
+<p>THERAPIST: Interesting!</p>
+
+<p>CLIENT: Right? It's like, you can't see algebra! You can't see it! [00:13:39]</p>
+
+<p>THERAPIST: But different ways to approach it! Like in the book, right? </p>
+
+<p>CLIENT: Well, yeah. So, and I guess what I'm, that's maybe why I'm drawn to it a bit, although I just checked it out... </p>
+
+<p>THERAPIST: That's kind of cool!</p>
+
+<p>CLIENT: ...before coming here. But, I guess I, I mean I really do believe in this Socratic idea of analysis, right? Getting back to first principles, asking, asking, asking; or Euclid, you know, scratching things in the sand and then writing it into powers (ph) and being very careful. </p>
+
+<p>THERAPIST: Well, why, yeah. It's really fascinating! It's almost like it's this observation you've made about how people really think differently to get at... and it's true! Like, get at the same answer. Huh! I keep thinking, sometimes when we talk about this, I think often about savants. You know like, you drop 8000 coins on the ground, and they can (snaps fingers) immediately tell you how many there are that were dropped, (snaps fingers) that they have a way of processing the world that's different. What I hear sometimes you say, it doesn't sound like it kind of comes, is what you're describing today, but it's almost like, "Does that... does that, is that like a, does that mean it's a better mind in some way, does it mean a more equipped mind in some way?" The ones (snaps fingers) that can kind of just, you know, look at something and then come up with the answer. [00:15:17]</p>
+
+<p>CLIENT: Yes. So, here is the point, right? Like, so now... So now, like if I sort of... I was talking to Elliott about this stuff tonight. I mean, he teaches at BU. And I watch the BU videos, so I watched the (inaudible) of linear algebra at BU. So I feel like I know exactly what's going on. Like, he and I know what's going on like, in terms of what he tells me. So, now, I think, mathematically, in terms of what I know... I just like finished my sophomore year at BU. And yet (chuckles) and yet, I look at that institution or people who are doing math at MIT as different, really, because of that's their thing. [00:16:27]</p>
+
+<p>It's easy for them and they're fast (therapist responds), right? I don't think of myself as a math person, because it's not easy and I'm not fast; but content-wise, that's where I'm at. (pause) So... (pause) So that's the thing, and like... (pause) Well, so... I mean, I was reminded of this last time, to bring my poem, thinking, "Why is there this dissatisfaction after having just finished something? And why is that I don't feel like I know stuff?" And Dr. Benneton, who was my psychiatrist in like '97-98... [00:17:37]</p>
+
+<p>THERAPIST: Was she, she was a resident? </p>
+
+<p>CLIENT: No, it was him, Phillip Benneton, and before that it was Dr. Lowry (sp). So there was lot, one of those things, last time with you, I think, right? It was like, a cycle of ever since I like, starting in '94, every year or two years I'd get somebody new, because I thought I was getting a new resident? Right? (therapist affirms) Which, you know, that was... I don't know. But anyway, so... Benneton, he did this paper and stuff, he videotaped me all the time.</p>
+
+<p>THERAPIST: Oh yeah! Was it the one they did the, was that the grand (ph) (inaudible)?</p>
+
+<p>CLIENT: (inaudible/ (ph)/blocked. </p>
+
+<p>THERAPIST: Was it? </p>
+
+<p>CLIENT: Yeah, it was a grand (ph) (inaudible) as well, that's right. [00:18:28]</p>
+
+<p>THERAPIST: And what did you say before that?</p>
+
+<p>CLIENT: He made me deal with this... (inaudible).</p>
+
+<p>THERAPIST: Oh! Oh, yeah. </p>
+
+<p>CLIENT: You know, at the time I felt okay, but in retrospect, I feel like... Well, I don't know... how good it was, how fond (ph) he was. It wasn't meant to show me. Maybe it was the time (ph). I don't know. I mean, I just have to go to (inaudible). [00:18:51]</p>
+
+<p>Anyway, but he said this thing. He was a good guy; I liked him. He said, "You know, because you're doing all of this to become a doctor, and yet (he said) you might go on and become a doctor, and realize that that isn't going to satisfy whatever you're feeling. And you're going to be really let down, possibly, because there is something else going on, in terms of this notion, this study of like, the actual studying versus the idea of it, try to separate the two things." Which talked to me (ph)... you know. [00:19:40]</p>
+
+<p>So...now, right? I'm doing math and still, there is a feeling of like, "Well, I know a lot," but still, it's at the college level, right? And yet I still look at the people who are speedy, and feel like I'm a different... right? The kids who are, you know, 19 and turning their exam in 45 minutes before I do, thinking, "What?" (therapist affirms) And just... I'm thinking, "Okay; well, I then, in other realms, the speedy, the (inaudible), so the speedy person is the person who's ahead (therapist affirms); I get that. But in terms of math, I'm not that... and whatever math represents; same thing as science classes, right? Always competitive, always best, always competing to be the best, and yet when people turn their exams in early, like in physics (chuckles) or organic chemistry, I'm like, "I know I know what I'm doing. I know I'm really good, but how in the hell did you get done so much faster?" (therapist affirms) It irritates me! (therapist affirms) And it's intimidating! It's sort of like, "Is it that effortless?" [00:21:15] </p>
+
+<p>THERAPIST: What does it mean, that I have to work harder and longer, or something like that? Yeah.</p>
+
+<p>CLIENT: And so then, there is a feeling of like... "Oh. Yeah. Maybe... maybe I'm like... maybe to do what I'm doing, I need like, I don't know if you ever heard (inaudible), but I'm only whatever I am. I'm willing (ph), but... let's assume less, I assume less." It's like, and that's the road, it's, yeah, that's the road, because this exposes it, you know? (therapist affirms) You know, it's not people skills, it's not writing ability, it's not whatever sensibility I have. No. This is just pure thinking ability, absolutely nothing else. </p>
+
+<p>It's not having another perspective, right? (chuckles) It's like... no. It isn't! Really smart people have come off with these ways of doing it. This is what a complex number is, you're not going to change it. (therapist affirms) This is how we draw things in an imaginary plane (ph). This is what we do. These are the theorems; those aren't changing, so you're not going to get creative with mathematics. I mean, people do; but they're, you know, they aren't people who are really doing math, right? [00:22:39)</p>
+
+<p>THERAPIST: Yeah, I see.</p>
+
+<p>CLIENT: So, it's this thing of being constrained... not that I am upset with theorems. That's, they're the charms like, "Wow, that's amazing!" Sometimes! There are other times like, I have no idea how it works but... maybe if I do it enough, I'll figure it out, right? (pause) You know, so yeah, I don't, I'm not upset by them, you know. I like the rules, you know. I mean, there is something about the rules that's kind of interesting. However, I am one of these like people who just sort of absorb them. I mean, zap! You know, just sort of these sponges for rules and, I mean, that's why their homework is only three pages and mine's you know, from 30-50... because I write bigger. I write like a normal person, right? I write like I'm writing a letter. I'm not trying to you know, get, you know, see how short (inaudible). [00:23:54]</p>
+
+<p>THERAPIST: Yeah, you ought to get one of those little typewriter or...</p>
+
+<p>CLIENT: Yeah. And, it's like... Also, here is the idea, right? I mean, like... It's in quantums (ph) in math and in life, maybe it's, maybe it's that, maybe this was... It's not a Gordian thing (ph), I think it's just having (inaudible), is that and especially when you're doing (chuckles) this stuff, do it on the board, don't erase it! You have to write it out! If you make a mistake, cross it out and re-do it. You can retrace your steps. (therapist responds) If you're like, erasing and stuff, you remove the evidence! </p>
+
+<p>THERAPIST: Oh, interesting!</p>
+
+<p>CLIENT: You don't know how to, you're either (inaudible) or wrong! [00:24:51] </p>
+
+<p>THERAPIST: Oh, interesting!</p>
+
+<p>CLIENT: For me. (pause) </p>
+
+<p>THERAPIST: Yeah, but then, it's interesting that that kind of thinking, the ability to do it fast, to see it without having to, actually in some way almost like seeing it without having to think very much about it.</p>
+
+<p>CLIENT: Yes, that's it! That's the feeling! That's the feeling! It feels surface to me. It's the same thing as like the SAT. That's how it felt, right? Like this idea of, "Well..." There is this whole, you know, I've mentioned this before to you, a whole book out, it's called Unstandardized (sic) Minds? This idea that, you know, the SAT tests a certain "jumping through hoops" sort of knowledge, right? You do a certain sort of problems and you sort of do them, you evolve to the (ph) the Volvo effect, right? So you to go Kaplan, Princeton Review, and you become trained monkey and take the SAT. [00:25:44]</p>
+
+<p>So if you have parents wealthy enough to just completely foot the bill for you, like $800 to go take the course, there you go! If you're low to middle (ph) class and do it on your own from a book that you bought for, you know, $14.99, well you are facing (ph) a book. There is no help, there is no guidance, right? (therapist affirms) And, so this, you know, the book, is this idea that, well, first is debate (ph) does not require an SAT. They just, I don't know, do this as (inaudible).</p>
+
+<p>And the people who made the wrong answers for the right reasons, right? That if people are just sort of looking at problems and just putting down the answer, because that's the habit they're in, it's right; but why is it right? And if a person who (inaudible) them through it, they could have just a single error in their thinking and get it wrong, but for...</p>
+
+<p>THERAPIST: Interesting, right, right!</p>
+
+<p>CLIENT: ...for reason that developmentally, it's actually pretty (inaudible). [00:26:51]</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: You know, math is either right or wrong, but, there are wrong answers that show thought, it's just a single little mistake.</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: Whereas English, I mean, that's just, I, that was horrible. I mean... (chuckles) I did well in English, but I hated it because... (under breath) I don't know...</p>
+
+<p>THERAPIST: Why, yeah, why?</p>
+
+<p>CLIENT: Same with the MCAT! The English (inaudible)? That was the hardest part! </p>
+
+<p>THERAPIST: The reading (inaudible)?</p>
+
+<p>CLIENT: The hardest part! Reading, the verbal portion of MCAT. And I thought, going into it, it's like, "Well, it's going to be physics; physics and chemistry, organic chemistry, biology, oh, oh, oh, that's going to be hard! So much stuff to know!"</p>
+
+<p>THERAPIST: What do you do on the verbal part?</p>
+
+<p>CLIENT: What do you do on the verbal? First of all, you have to learn how to speed-read. (therapist responds) So you go through that phase of like, two weeks where you can't read anything, because you've trained yourself to speed read, and it came in that little in-between zone, you can't read at all? (therapist affirms) Because when I deduced how well I did, is I like, I figured it out. I'm like, "Okay, how fast do I read?" Then I realized that I read exactly average. The average person reads 250 words a minute, and that's pretty much what I do, right? [00:28:07]</p>
+
+<p>But... You know, so the MCAT. It's six to seven-ish (I want to say, maybe it's five to eight, I don't know, in that range) of these passages! And, you know, it's all over the place to what things are about. You know, it's history, it's literature, it's you know, literary critiques, it's social theory, it's you know, some description of some engineering things, whatever. And then, at the end of that there are like, six questions. And it's about tone, and author's intent, and factual stuff, right? </p>
+
+<p>And... it's subtle, it is subtle. So then, it's like, okay, you have to like... And the key thing is, you would have to (chuckles)... Here is the thing: naturally when you're reading, because I tend to, I find things interesting, you sort of think, "Huh!" You read and you read, and you're like, "Oh, oh, (inaudible). No; that's some time you didn't get it. No!" They're like, that's a trap! Don't get interested! Do NOT let yourself get interested in the article! No, you are a machine, a processing (inaudible). [00:29:24]</p>
+
+<p>THERAPIST: You're a machine, yes, yeah. </p>
+
+<p>CLIENT: (inaudible)/blocked, process information, right? And this is what you do. You scan, you underline, you're writing, da, ta da, ta da. You analyze the paragraph-topic sentence, conclusion sentence, da, ta da, ta da, ta da, ta da, ta da. Then you have your notes, then you look at the questions, or you read the questions first, then you read the article. (sound of whirring and ticking down a list) (therapist affirms) It's like, it's a race! (therapist affirms) So... what is it, what does it tell about a person, I guess? I mean, it says something important, that one has that skill, to be able to process this issue quickly, so that's important. I'm not denying that. </p>
+
+<p>THERAPIST: Well, that's probably why it's not a, the SATs at least are not a good predictor about success in college. They don't predict GPA. That's interesting, it's testing something else. I mean, psychometrically, it's testing something; other than that... [00:30:25]</p>
+
+<p>CLIENT: Yeah, so tell me about that. Because this is sort of what you do, right? I mean, you...</p>
+
+<p>THERAPIST: Well, yeah, from my days back in doing psychometric stuff. You know, there are all those issues of, you know, validity, test validity. The SAT is notorious for having poor validity, in terms of validity being how well does it predict what it's supposed to predict. It just doesn't. I mean, if you look at the correlations between, you know, SAT scores and GPA, it doesn't... I don't know. I think it's, I don't want, I'm, I know it's not significant. It's probably not a reverse, but (chuckles) but it's pretty flat. (client responds) So what does it measure in that? [00:31:26] </p>
+
+<p>CLIENT: Yeah, what does it measure? What does it measure, other than give people a head-trip? (therapist affirms) People, you know... many years later are still sort of baffled by it. (therapist affirms) And, which... (pause) Well, but it does. It rewards people who can do well at that, as if it is a valuable thing. It's not un-valuable to do well... but, I'm just thinking about high school, that experience, and now me being in this class where there are these, some high school students from a certain track, where they do calculus in tenth grade and then they're able to do variable calculus, and then they end up as seniors, while they're doing regular high school class, they do linear algebra. (chuckles) [00:32:37]</p>
+
+<p>So, I'm thinking, so they arrive... And so these are the people who are actually going to do physics and mathematics at, you know, MIT and BU. So they enter in, already placing out of the first, you know, at least, year, at least year of mathematics, at those places. So that's, I have their good company, stressing me out (therapist chuckles) because they are "the naturals." (therapist affirms) So being, but what, so here is the question now, right? So I can deal with it in a way, in the sense that I deal with it, whatever it is, right? </p>
+
+<p>But what if you are the classmate of one of these kids, right? What if you are one of just the kids who are just sort of smart, and trying to do well, and sorting life out; then you've got all of these hotshots (therapist affirms), and it's all about them getting "5's" on seven AP exams, and taking linear algebra at MIT and, and, and volunteering at hospice or something, right? They're doing all this stuff. And so, you know, if you're 17, you're like... and you think, "Yikes! Well, I'm having a hard time. Now I'm not taking any AP classes, and the AP classes I did take, I got "3's," and I can't feel good about it, even though I should feel good about it, because... [00:34:03]</p>
+
+<p>THERAPIST: Yeah, how do you, yeah...</p>
+
+<p>CLIENT: They took twice as many, they got "5's." (therapist affirms) So it feels like, right? There is this... I don't know. I guess (inaudible) kids then. Maybe some kids sort of bury it, and just sort of renounce it, and wear black, and listen to death metal, and say "fuck it!" But... I think everyone (inaudible) aware of it, everyone is aware of this sort of pressure and the idea that somehow the institution... I might be guilty of this, right? When I taught AP Biology, I was the person who was like, "You have to do well, you have to do well, you have to well! Doo, doo, da, doo, right?" I think I did it like a maniac (ph). But they signed up for AP, right? (therapist affirms) [00:35:00]</p>
+
+<p>But I think, you know, that this idea of, yeah, I guess I don't like being in that role. Like, I, another reason why I don't like being a teacher, is this idea of you have to be in the role of somehow speaking the apparent truths of the institution; not just the particular school, but the idea of academia and the sort of ethos of a country, you know, of (inaudible) work ethic, industry, civilization; this idea that you have to work hard, that you know this stuff; if you don't, you're not doing as well, you're a failure. That's what's implied. And I don't buy it! (therapist affirms) I want people to find themselves and be happy and if they're really happy to study hard, that's somebody that's good at it, then that's terrific. And everyone should have to be held to a certain standard, where they have to expose themselves to things that they don't feel good about, because, I mean, you have fatal (ph) weaknesses. [00:36:03]</p>
+
+<p>THERAPIST: I, but I think that's such a critical question, right? Like, how do you... like the question that one is faced with in those situations, where you have all these kind of machine-like, you know, people that get it immediately and if you're in the position of struggling with it, even successfully, you look to these other minds and way that they operate and it kind of, you know, it kind of humbles you in some way, right? But, it also makes it difficult, I think, to know how to feel, how do you still feel pride about your own mind? How do you feel pride about your intellect, when you have these other people? Where do you, what do you do? What do you think about? Feel good about it and potent, and really potent! Not some bullshit where it's just like, "Oh, I'm good, too and everybody's good," but really feel it, as legitimate and real. And potent, you know? Not just a... "Kum ba ya, everybody's good and..." [00:37:21]</p>
+
+<p>CLIENT: Yeah, it's that, yeah, because you don't want the "You suck!" then (ph) everybody's trophy. </p>
+
+<p>THERAPIST: Yeah, right. But no, no, but see, the real substance in what that kind of... (under breath) It's amazing... </p>
+
+<p>CLIENT: You know, it's... Well... So here I formed study groups. I've always felt a part of something, right? Although there are, you know, the same groups in math, there is a sense of sort of a sense of like... I tend to attract people who are... good. And they really don't want to work and think about it. But not the best, because the really, really, really best, they don't want to be in a study group, right? They don't need a study group. [00:38:24]</p>
+
+<p>So for this class, not a study group, although I had my friend, Miranda (sp), (who I finally met), so we would meet sometimes. And then there were the office hours prior to class, right? So now, before class, it was just, you go in to MIT Hall, it was done (ph) before the classes also, the downstairs. You just ask questions and they'll just go through the homework, right? So it's great. You have the, you know, the instructor, who is doing that.</p>
+
+<p>You know, he's not the teaching fellow, right? So you don't have a college senior, you have the guy, who really knows his math, is teaching the course, who is doing it, who has a very good perspective of things, and can just sort of do things off the top of his head and really like explain it. And he's a good guy. He's humorous, he tries to get to the bottom line, but he also goes into the very interesting details and gets proof-y with it and.. so he's really good; I like him. [00:39:31]</p>
+
+<p>He's sort of this big David Duchovny-looking guy and no fashion sense; always like has his pants stuck into his socks, because he rides his bike. He's big, right? He's really big and overweight. Not like, huge overweight, but he has a big gut on him. And yet he's part of the Appalachian Trail, so he's always hiking, hiking, hiking, or riding his bike; sort of like a kid with (inaudible) in some way. Like, totally bald, but like hair that's a little long, and it's just like, "Just shave it already," right? (therapist chuckles) And like mismatched clothes and you know, again gut. But he's just affable and he likes what he's doing. So he's a really good guy. </p>
+
+<p>So that group, there are like ten of us, right? And we show up. It's nice, just sort of familiarity, right? So I feel comfortable with them to, if they're already there, I walk in the room, I'm happy sort of to like be real, you know? And be funny and I don't feel like I'm competing, necessarily, with them, right? (therapist affirms) [00:40:35]</p>
+
+<p>And I feel like I initiate conversation, right? Like yeah, there is that element, people just would like hunker down and they're like in, everyone assumed everyone else is better. I'm sure they look at me and think, "Oh, well, he knows everything!" I mean, they probably do! And I (inaudible), they know everything. (therapist affirms) But in the other ones, you have to compete, I don't know, but...</p>
+
+<p>Like, I'm not afraid to sort of say... I don't' have to put up a front like, "Oh, I get this stuff." And I'm thinking, "What is that front, right?" You have to put up, you don't want to admit that you don't know something. (therapist affirms) which is a lot, there is that adage, right, you know, where someone raised their hand and asked a question, there is often great relief that someone actually did it, because you know, some large percentage of people are having the same question and they're like happy. (therapist affirms) So anyway, so (therapist starts to speak) class is done; well, go ahead. [00:41:46]</p>
+
+<p>THERAPIST: No, I'm just thinking about the element of... I mean like, just one thing about non-competition is that... Yeah, I mean, like it sounds like for, you know, you've just arrived at a different place and it doesn't hold the kind of meaning that it used to... you now feel like it's not a contentious kind of a situation, or something where you're outdoing other people. But I was thinking about competition in another way, which is that in some way, can you feel like, that you are in competition with these people, but if they have certain things that they have that are, you know, that you feel are, you know, more enhanced or they have a better talent, does that, can you still, do you still have a way that you feel your own talent, that also offers something? [00:42:56]</p>
+
+<p>That's a really, that isn't just that, "Oh, you've got a mind that works differently, and that's good, too." But it is just like a kind of a... you know, but that doesn't really mean anything. But instead, seeing it as something that, it really is substantial, that it really is, your mind is potent, yes, in a different way, but a very real way, a very real way. Because the people that get it, the people (snaps fingers) that kind of get it right away, there is this kind of a feeling of, "Well, do they have some line that..." Or, I mean, it's easy to, anybody can relate maybe to these people at BU (chuckles) or MIT, but there is some way that, if somebody gets it, you feel like they have something that you don't, and maybe that doesn't make me as, my mind as good or as functional and all that. But how do you feel, is there a way to feel that it actually doesn't, and it mean something, it be real. I don't know if I'm losing you, but... [00:44:06]</p>
+
+<p>CLIENT: Well, no. It's exactly right. I mean, it's the feeling of... </p>
+
+<p>THERAPIST: I have to stop in just a couple of minutes... Go ahead.</p>
+
+<p>CLIENT: Yeah. He's great, he's on the third or fourth line, team needs him; but he's not one of the league's best. (therapist affirms) And yet, he's in the NHL. (therapist affirms) So, and so is he going to be grousing, thinking, you know, damn, that guy is much better," right? "Why can't I be on the first line?" No. I mean, if there is something mature...</p>
+
+<p>THERAPIST: But he has to (inaudible)/blocked</p>
+
+<p>CLIENT: ...about feeling... good about what I've done, but also can deal with, appreciate people who are talented, even though at times (chuckles), perhaps more often than not, I find it baffling and annoying. [00:45:14]</p>
+
+<p>THERAPIST: Yeah. And I will say this, I don't mean this as some sort of a way to mollify this kind of, this doubt that you had about your own capacity. But I was thinking about, but your mind does something that theirs doesn't do, in that way that you kind of work through a problem represents something that they're not doing. (chuckles) It represents a capacity that they don't have, one that gets it automatically versus the one that really grapples with it. Well, you grapple with it. You know, it came through, yeah, through work, but real talent, real talent to get there, real talent to work it through, to engage your mind, to challenge you, to be creative in ways (laughs) that really are capacities that these other kids, I don't know that they have in that kind of... that way. Does that make sense? [00:46:25]</p>
+
+<p>CLIENT: Yeah, and Elliott made a good point last night about this, because he was talking about a kid who was originally in (ph) Latin, and is in class and he just got accepted to MIT to study math. And so he was really happy for him, talking about how he and a lot of kids came to his mind, just on rising. It's ironic that they're next to MIT, and that very few get in, but he did. He's really good. Of course, it turned in his exam early. (therapist chuckles) But he said he's a nice kid. Nice, good-looking, Chinese kid, you know.</p>
+
+<p>And he said, he goes, "Now you have kids that are already in (ph) to BU and they've already like, done the first two years of math from high school." And he said that, he goes, "I don't know what it means exactly, because I feel like, is it a surface knowledge? I mean, are they like, learning it too quickly?" (therapist affirms). He said, "Because when I, because I'm a mathematician, and my high school didn't have AP Calculus, so I mean, you know, I took Pre-Calculus and then I did Calculus on my own and I tried to learn about it and went off to college and I did Calculus," right? (therapist affirms) [00:47:31]</p>
+
+<p>And he goes, "I liked it. I had a knack for math, but these kids are three years ahead of where I was." (therapist affirms) And he said, "So I, but I don't know, so is it too fast?" He goes, "But the thing is, they'll get there and maybe they really do know it, maybe they'll just get more practice than me, because they'll just dive into the higher level stuff and they'll be doing physics and they'll use the stuff." But he said, but, you know, we both talked about it like, "But isn't it too much in the sense that, are people feeling too stressed, in terms of having to do much more?" You know, sort of like the, you know, the Romanian gymnasts. I mean, is there that going on? I'm not sure what I'm saying about that, but... </p>
+
+<p>THERAPIST: Well, there is...</p>
+
+<p>CLIENT: Well, still no, so if they have those kids, right. But I guess my point was that, with those kids who are that good, at some future point, they're going to be creative in ways that I will not most certainly be, because they will have the intellectual ability to really do something interesting, for some of them who really go into this. But now, I struggle, I'm doing this at a much later point, right? So I'm just slower in general, and I just don't have a knack for it. I mean, there is a reason I avoided math for so long. (therapist responds) [00:48:58]</p>
+
+<p>(pause) Yeah, so you know, so now, you know, the class is done, we're you know, we're done here, but... you know there were (inaudible) and I, is there a (inaudible), I'm here thinking, what's the next thing, right? (therapist affirms) Also, there is a feeling of like, "Well, what now?" (therapist affirms) It's like, it's instant. Like, on the train ride home...</p>
+
+<p>THERAPIST: (under breath) Interesting, (inaudible).</p>
+
+<p>CLIENT: ...I was like listening to headphones, recognize there are hockey players, people are trying not to look at each other a quarter of (ph) the game. They don't want to like look at the faces, to tell them whether the other one, you know who is it won, right? So I'm hunkered down, I'm reading my new algebra book, I'm thinking, "I've already read this thing! We finished the book! So what is there to read? What's there to read?" And I'm looking at it, thinking, "I don't know what the hell this is!" I'm looking at it thinking, "How did I just do this in your class?" I'm looking and thinking, "What? What is that?" It's like, math is intrinsically like, "Whaaat?" Because you have to look at it very carefully, in the right frame of mind, because if you just simply glance at it, it's like, "Jiminy Christmas!" It's like totally (chuckles) unfriendly to look at it. (therapist responds) So you have to really (chuckles) gear yourself up and in the right, you've got to get your "math major zone," for a different look. [00:50:19]</p>
+
+<p>THERAPIST: That's true, true. Well, all right. </p>
+
+<p>CLIENT: All right.</p>
+
+<p>THERAPIST: I'll see you next week? Okay. (sighs)</p>
+
+<p>CLIENT: Are you bored of this stuff? (both laugh). </p>
+
+<p>THERAPIST: Right. </p>
+
+<p>CLIENT: I didn't say that. </p>
+
+<p>THERAPIST: Maybe only get through two pillars or something.</p>
+
+<p>CLIENT: Exactly! Thanks. (both laugh) Then where will I be?</p>
+
+<p>THERPIST: Yeah!</p>
+
+<p>END TRANSCRIPT</p>

@@ -1,0 +1,851 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: Don't make any plans based on (inaudible at 0:0202).</p>
+
+<p>THERAPIST: Yeah, that's right.</p>
+
+<p>CLIENT: Plus you could sell some mad money.</p>
+
+<p>THERAPIST: That's right. (Pause)</p>
+
+<p>CLIENT: The search for a job continues apace. Called my alma mater about finishing my degree.</p>
+
+<p>THERAPIST: Mmm. Mm-hmm.</p>
+
+<p>CLIENT: They apparently (inaudible at 0:00:37) of all time. So that's good. $50 as a readmission fee, letter of recommendation from my old professors, a short note from me and why I want back in, and then a math class and a global perspectives class, which is new since I left. [0:00:58] (Pause) Hopefully nothing's changed in my major that I have to fix, but...</p>
+
+<p>THERAPIST: Huh. </p>
+
+<p>CLIENT: A couple classes, and I should be done.</p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: Yeah, which will make the job hunt all that easier.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And, if I get it all started and can take a July class, I could have my degree by September maybe. </p>
+
+<p>THERAPIST: Uh-huh. Would you do it through them online or something, or would you...?</p>
+
+<p>CLIENT: I'd do it through Concord. Then I'd transfer the credits.</p>
+
+<p>THERAPIST: Oh, right, yeah. And they'd take it? They'd take Concord?</p>
+
+<p>CLIENT: Yeah, there's just going to review any class I send over. And this class would meet their requirements. Yeah, so (inaudible at 0:01:40).</p>
+
+<p>THERAPIST: Yeah, people do that all... that is true. People do that all the time. I knew some people... a close friend was at BC and finished at Concord.</p>
+
+<p>CLIENT: Yeah, there you go. [0:01:55] It's cheap. Concord's cheap.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: $400 class as opposed to $1600. (Pause) So...</p>
+
+<p>THERAPIST: And you've just got to find out if there's anything new in the major that you had?</p>
+
+<p>CLIENT: Yeah, which would be a pain in the ass. I'd have to find a way to do that.</p>
+
+<p>THERAPIST: But at the time, had you completed all the...?</p>
+
+<p>CLIENT: Oh yeah, totally. My major, and I picked up an accidental English minor. </p>
+
+<p>THERAPIST: Wait, what was your major?</p>
+
+<p>CLIENT: Theater.</p>
+
+<p>THERAPIST: Theater, yeah, okay. </p>
+
+<p>CLIENT: I picked up modern English slowly by accident. Hadn't intended to, but took all the right classes. (Pause)</p>
+
+<p>THERAPIST: And would it be a BA or a BFA?</p>
+
+<p>CLIENT: It was a BA.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: It's a real degree. BFA is not very useful.</p>
+
+<p>THERAPIST: Is that right? [0:02:57]</p>
+
+<p>CLIENT: Yeah, having a Bachelor of Fine Arts (inaudible at 0:03:00). Yeah, honestly you either want a degree in art or a degree in something technical. A degree in fine arts is just like, what are you doing? What are you doing with your life? I remember that was always the question between the fine art students and the regular art students. It's basically like, the fine art students, you just aren't very good. Art students, you are much better. So... of course they let art students always do some crazy stupid school shit. It's like, oh, 14 monitors on the wall, all of them a video camera of them looking at a boob. It's like, art. Yeah, sure. Fine with it. [0:03:52] It's fair that... to be fair anything falls under the definition of art. This is the first thing you establish in every creative course in college. What is art? Fucking anything. Anything you design with intent is art. Even the thing you didn't design with intent could possibly fall under that category, so it's just kind of an umbrella term.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Speaking of art, yesterday, I hit the pay wall on a tool set I was using. I just figured out some good stuff and was psyched, started doing some stuff. And then like, oh, too much. Your project's too big now.</p>
+
+<p>THERAPIST: Oh, huh.</p>
+
+<p>CLIENT: (inaudible at 0:04:33) They're like, yeah, you can only make projects that are X big. I'm like, well, fuck. That's nowhere near big enough. (Pause)</p>
+
+<p>THERAPIST: Is that right, they (crosstalk)?</p>
+
+<p>CLIENT: Yeah, so I had to switch sets. So (inaudible at 0:04:48).</p>
+
+<p>THERAPIST: What was the...? What were they asking for?</p>
+
+<p>CLIENT: $120. [0:05:00] But I looked at it, and I was like, well, that's expensive. And if I can ultimately... what I'd have to do eventually is take this and import it over to Unity anyway. So, since I already own Unity... I bought it four years ago for the company, an awesome $1000 program...</p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: Yeah. So I was like, well, I might as well use this. And now it's got a visual scripting plug in. So (crosstalk)...</p>
+
+<p>THERAPIST: Because that's why you use Unity to begin with, right?</p>
+
+<p>CLIENT: Yeah, right. It's code, [the actual need] (ph) to write code.</p>
+
+<p>THERAPIST: Yeah. Right.</p>
+
+<p>CLIENT: And now I don't have to, which is nice...</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: Which is real nice. So... but I spent yesterday looking at tutorials for that.</p>
+
+<p>THERAPIST: Oh, okay. How was that? Did you find it felt like it slowed you down? [0:05:56]</p>
+
+<p>CLIENT: It was good. I kept telling myself, it's like, you can do this. There are tutorials for this. You're smart, you can figure this out. There's no reason to let this stop you (pause), because I'd really been going for it, really been...</p>
+
+<p>THERAPIST: Yeah. (Pause) But those obstacles run the risk of kind of making you... can they put an element of self-doubt in the picture?</p>
+
+<p>CLIENT: Well, yeah. I don't want them to stop me. I don't want to get to a point where it's like, oh, now I can't progress on my own. Honestly, it's going to be unlikely that's going to happen now. The resources exist for me to learn. (Pause) So that's what I'm doing. That's what I'm doing.</p>
+
+<p>THERAPIST: How have you found doing the tutorials to be?</p>
+
+<p>CLIENT: It's good. A little confusing at first. [0:06:55] But once you've (inaudible at 0:06:58), you pick up the general idea. (Pause) So...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: That's good.</p>
+
+<p>THERAPIST: I was thinking about... it reminds me of something we were talking about a bit ago, of... I think when very smart, gifted people run into confusion...</p>
+
+<p>CLIENT: Yeah, right. It's very upsetting.</p>
+
+<p>THERAPIST: It's very upsetting. Happens to Columbia students all the time...</p>
+
+<p>CLIENT: Yeah, sure.</p>
+
+<p>THERAPIST: That they get in sort of a panic.</p>
+
+<p>CLIENT: Yeah, all of a sudden something isn't incredibly easy for you...</p>
+
+<p>THERAPIST: Yes.</p>
+
+<p>CLIENT: Now what do you do? Yeah. What indeed?</p>
+
+<p>THERAPIST: Yeah, we were kind of taught to think that confusion means somehow we're not getting it, whereas it's really...</p>
+
+<p>CLIENT: Yeah, like we're stupid.</p>
+
+<p>THERAPIST: Yeah. </p>
+
+<p>CLIENT: It's like, this must be what regular people feel like all the time. </p>
+
+<p>THERAPIST: (Laughing) Yeah.</p>
+
+<p>CLIENT: Yeah. [0:07:57] There's a great moment in the show called Eureka. I don't know if you're familiar with it.</p>
+
+<p>THERAPIST: No.</p>
+
+<p>CLIENT: It's a sci fi show, it's really good.</p>
+
+<p>THERAPIST: Oh, I kind of remember it. 90s? </p>
+
+<p>CLIENT: Yeah, it's kind of funny. There's a sheriff... no, it's even... maybe it started in the late 90s? Yeah, I think it started in the late 90s but continued. Good show. </p>
+
+<p>THERAPIST: Sure.</p>
+
+<p>CLIENT: It's about a town full of... a secret government town full of super geniuses working on amazing science projects.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: And the main character is the sort of everyman sheriff. They establish in the pilot... because he gets an IQ test early on, that he's 100.</p>
+
+<p>THERAPIST: (Chuckling)</p>
+
+<p>CLIENT: He's like, yeah, 100! Like, pretty big score.</p>
+
+<p>THERAPIST: A big score.</p>
+
+<p>CLIENT: Yeah. And his daughter tests at like 160. And she's like, that's great, Dad, that's great. And she doesn't want to show him her score or anything. [0:08:56] She's like, yeah, 100, nice. So completely average, right in the middle of the... but just the whole idea. And it's like Star Trek in that there's always some... something has gone wrong with the science words, and [be able] (ph) to figure out what it is and solve it. Usually they're putting the sheriff in some sort of danger, putting him in a situation well above his head...</p>
+
+<p>THERAPIST: (Chuckling) Huh.</p>
+
+<p>CLIENT: But through stick-to-itiveness and teamwork and good-naturedness they always get through. And there's an episode where there's a stupefying ray. All the geniuses have been hit with a stupefying ray, so they're getting dumber and dumber. And he needs to figure it out on his own (chuckling). And he's... as scientists have been getting dumber, one of them started prepping him with the stuff he needs to be able to do. [0:09:59] But he made a song so he can remember it. So he's singing a song which is all about particle accelerators and [how to do] (ph) this whole thing. It's funny. One of the scientists turns to him at one point, and they're like, oh God. He's like, what? He's like, this must be what you feel like all of the time. This stupidity and this slowness and this utter confusion about the world in front of you.</p>
+
+<p>THERAPIST: Yeah, uh-huh.</p>
+
+<p>CLIENT: He's like, this must be what you feel like all the time.</p>
+
+<p>THERAPIST: Yeah, he's got to... what, to come up with a solution or think of something, he's got to really grind away and labor and...</p>
+
+<p>CLIENT: Yeah. But then he's also the smartest guy in the room.</p>
+
+<p>THERAPIST: Yeah, right.</p>
+
+<p>CLIENT: And they're confused and lost and scared because the world doesn't make sense. </p>
+
+<p>THERAPIST: Yeah, what a great...</p>
+
+<p>CLIENT: Yeah. (Pause) Well, there it is. It's what the world is like all the time. [0:10:56] This job thing is stressing me out, man.</p>
+
+<p>THERAPIST: Yeah, tell me a little...</p>
+
+<p>CLIENT: Well, I met with a financial advisor on Monday. And I'm like, okay, great, we've got another five months before we need to... maybe four months before we need to start dipping into Ginny's IRA. And that's another couple months there. Then after that we start going into the... my retirement fund. So... (Pause) And that just gets us another year. (Pause)</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: So... I don't know. So I'm just kind of looking at what I can possibly do, [looking all the time at the hire places] (ph), nothing. Nothing comes up. (Pause) Nothing in the game industry. Nobody wants the... nobody wants to hire me apparently. </p>
+
+<p>THERAPIST: What...? Yeah, what have you been finding in terms of numbers out there that are...? How many do you find a month that you apply for? [0:12:02]</p>
+
+<p>CLIENT: Not even a couple. </p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: Three or four at the max.</p>
+
+<p>THERAPIST: Is that right? </p>
+
+<p>CLIENT: And it's just been really slow now, because I look at sites, and they just have nothing. They have nothing that I can do. And so I don't know what to do. I really don't know what to do. (Pause)</p>
+
+<p>THERAPIST: Have you found it at all that having a BA is...?</p>
+
+<p>CLIENT: Well, yeah, the problem with it is that... computers, right? That's what... they're like, is there a BA? No, toss the resume.</p>
+
+<p>THERAPIST: Yeah, yes.</p>
+
+<p>CLIENT: It never gets looked at. So [got to get in on personal rec] (ph), but...</p>
+
+<p>THERAPIST: For Harold? [0:12:56]</p>
+
+<p>CLIENT: No, just... I mean, just for jobs, for (crosstalk).</p>
+
+<p>THERAPIST: Oh, yeah, to get around the... I see. Yeah, what was it...? So you need... in order to get... you needed a personal rec (ph) from an old professor to readmit?</p>
+
+<p>CLIENT: Yeah, that's easy to do. (Pause) That's easy to do.</p>
+
+<p>THERAPIST: So right, in order to get your foot in the door you need a personal rec.</p>
+
+<p>CLIENT: [Yeah, just to kind of get around the computer screening] (ph). So it's all dumb. Yeah. So here I go. (Pause) We'll see what I can do there. </p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: But the game's promising. The game's not going to save me in four months (pause), unless I actually am able to get us funding at some point, some small amount of funding. [0:14:00] $10,000 would be (inaudible at 0:14:06) to work.</p>
+
+<p>THERAPIST: Mm-hmm. (Pause)</p>
+
+<p>CLIENT: Yeah, if I still had the money from my company from four years ago... I'm doing now what I should have done four years ago, which is making a game by myself, sitting down and doing it. (Pause) Yeah.</p>
+
+<p>THERAPIST: Yeah, I think that's good to have that track keep going despite what's going on in this other realm. It's almost if you could keep it... because you will look back and go, what did I get from that time? You're buying yourself some time here [too, is one way to look at it] (ph) (chuckling).</p>
+
+<p>CLIENT: Yes. </p>
+
+<p>THERAPIST: Your work at Melody and all that time bought you this time.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: And yeah, you don't want to stop looking for work. [0:14:57]</p>
+
+<p>CLIENT: Yeah, [except I start] (ph) thinking that I'm this crazy motherfucker. I had a job at Melody, which I left, another job which I left, another job which I left, all three because I didn't want to deal with the crazy people up top. But now I've just left every job I've been at. It's like... (Pause)</p>
+
+<p>THERAPIST: Yeah, what's the crazy part?</p>
+
+<p>CLIENT: I don't know, man. I have these jobs, and I'm like, a lot of people hate their jobs. Maybe it's nothing (ph) I hated my job for $90,000. Just hated my job.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And that's so often what happens.</p>
+
+<p>THERAPIST: Well, I got to say, the... it seemed like your choices were really based upon, first of all, the fact that, at the time there were just opportunities falling in your lap really fast. [0:16:02] And there was this sense of, you could, because of your skill set... you could kind of move around a bit.</p>
+
+<p>CLIENT: Yeah, and then the industry tanked.</p>
+
+<p>THERAPIST: And the industry went away, yeah, I mean, it's (crosstalk).</p>
+
+<p>CLIENT: And now here I am. And I find myself needing (ph) to get into tech industry, but I don't feel qualified to be in a tech industry. My degree once I get it is in the wrong thing. (Pause) And... (Pause) Yeah. My degree once I get it is in the wrong thing.</p>
+
+<p>THERAPIST: Have you tried to apply for those kind of things?</p>
+
+<p>CLIENT: For what?</p>
+
+<p>THERAPIST: For tech stuff?</p>
+
+<p>CLIENT: Yeah, that's what I go for.</p>
+
+<p>THERAPIST: You do?</p>
+
+<p>CLIENT: That's what I'm looking for primarily, is stuff in the tech industry...</p>
+
+<p>THERAPIST: Is in the tech industry.</p>
+
+<p>CLIENT: Because, I mean... (Pause) And now I'm like... what I'd really like to do is find an AP job. [0:16:59] Just find an associate producer job, move down the ladder, which would be at the bottom of a different, better ladder. And so I'm like, yeah. I'm just putting on my resume now stuff that people will recognize, and... (Pause)</p>
+
+<p>THERAPIST: I tell you, the other thing, I mean, I don't know how you'd feel about this. But my recommendation is, once you get admitted back into school and you're... even before you're enrolled in the class, start saying you've got a BA.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: These places I'll bet check your transcripts first of all, but second of all you could just explain in the interview, I had two credits to finish up. I never did, I'm doing it this summer.</p>
+
+<p>CLIENT: Yeah. Degree expected, September 2013. [0:18:01] Yeah. (Pause) Yeah. </p>
+
+<p>THERAPIST: So do you know how many football coaches (chuckling)...? So many football coaches have fabricated their education. </p>
+
+<p>CLIENT: (Chuckling) Yeah, right. </p>
+
+<p>THERAPIST: It doesn't come out until they're a Virginia Tech coach. And then suddenly reporters from all over are like, did this guy really get a PhD from Michigan State?</p>
+
+<p>CLIENT: It's like, nope. </p>
+
+<p>THERAPIST: No. But that's not going to happen in your...</p>
+
+<p>CLIENT: Well, yeah, that's also the whole thing, is like, you lied on your resume. Who cares? [Would you give me the job now] (ph)? </p>
+
+<p>THERAPIST: Yeah. </p>
+
+<p>CLIENT: We can't have you because you lied on your resume. That's stupid. That's incredibly stupid. (Pause)</p>
+
+<p>THERAPIST: They do that if you've lied about a felony. (Chuckling) They don't do that for...</p>
+
+<p>CLIENT: No, that's a different thing.</p>
+
+<p>THERAPIST: Or if you're in a prominent... you're a dean or something. [0:19:01] (Pause)</p>
+
+<p>CLIENT: Yeah, so...</p>
+
+<p>THERAPIST: And that's a very white lie we're talking about.</p>
+
+<p>CLIENT: Yeah, still... I just lied through my teeth at Melody.</p>
+
+<p>THERAPIST: Yeah? What?</p>
+
+<p>CLIENT: Yeah. I just said I had it. And they don't know where my resume went, because I handed it in to a dude who left. And it was maybe in an attachment in this e-mail somewhere. Whatever. I didn't remember it when I... after I applied, which of the two resumes I'd given them. I had one with the degree and one without. I'm like, which one did I even apply with? I don't know. And when my boss asked me at one point, he's like, did you go to college? I'm, yeah. He's like, did you finish? I'm like, yeah. He's like, okay, great, because apparently there was some question about, oh, did Fred finish his degree or not? And so they just asked me. I was like, oh yeah.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: They're like, oh great, no problem. And then, when VH1 bought us and they were doing background checks, I was like, nope. [0:19:58]</p>
+
+<p>THERAPIST: Did they ask you? They asked?</p>
+
+<p>CLIENT: Yeah. VH1? Yeah, they wanted to know. They were like, what was your highest level of education and all these various other things. </p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: And they do a background check on you. And so I was like, yeah, I never got it. They're like, okay, no big deal. Whatever. You're hired...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: At your same salary and for the same position. It was a ludicrous background check. They called me up in my office. They were like, hi, we can't verify that you worked at X. I'm like, yeah, that's because it no longer exists. They went out of business a year and a half ago. And they're like, well, is there anyone who worked with you there? I'm like, yeah, my office mate Bill worked there. They're like, oh, can we talk to him? I'm like, yeah. They're like, what's his number? I'm like, this number. So they go, okay. </p>
+
+<p>THERAPIST: (Chuckling) </p>
+
+<p>CLIENT: So I hand him the phone. [0:20:53] And they're like, yeah... and he's like, yeah, he worked there with me. She's like, okay, thanks. No problem. Hang up the phone. His phone rings a few minutes later, and it's her...</p>
+
+<p>THERAPIST: (Laughing)</p>
+
+<p>CLIENT: Trying to confirm his time at the studio, so he hands the phone to me. I'm like, yeah, he totally worked there. I worked there with him. I'm like, this is ludicrous. </p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: What kind of background check are you running here?</p>
+
+<p>THERAPIST: Why would they even do a background check?</p>
+
+<p>CLIENT: Oh, they do that on all their new employees (crosstalk).</p>
+
+<p>THERAPIST: Yeah, but... oh, they (inaudible at 0:21:21)?</p>
+
+<p>CLIENT: Yeah, they want to figure out, is anyone lying on their resume? Did anything go wrong? Is there anyone we can cut right now from this company we just bought?</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: So... yeah. That HR lady was hot, too. HR ladies love me in general.</p>
+
+<p>THERAPIST: The VH1 HR lady?</p>
+
+<p>CLIENT: Just all of them in general, except for that one at GSN. She did not care for me. I don't know what it was, but she did not care for me. [0:21:57]</p>
+
+<p>THERAPIST: Oh yeah, right, right. (Pause)</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: What do you think...? What was...?</p>
+
+<p>CLIENT: I don't know. I was probably just... when I look back on it, I was not in my best... I'd had really bad anxiety all the day before, had a huge knot of acid when I showed up. </p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: Looking back on it, I was slouching a lot during the interview, and I wasn't really high energy. And I'm like, yeah, I probably wouldn't have hired me either. I just can't believe I didn't interview well.</p>
+
+<p>THERAPIST: Mmm.</p>
+
+<p>CLIENT: I usually interview so well, and that just did not... that did not go well. </p>
+
+<p>THERAPIST: Yeah, I remember you even saying you were feeling like you had lost... the anxiety was so powerful, it was like, have I lost the skill of interviewing?</p>
+
+<p>CLIENT: Yeah, (inaudible at 0:22:47). And my friend Adam gets a job there. And I'm like, what the fuck? </p>
+
+<p>THERAPIST: Mmm.</p>
+
+<p>CLIENT: I'm like, Adam's not as smart as a bunch of the rest of us. Adam is a smart person. [0:23:00] Adam is a smart person. But (pause) Eugene (sp?) and I and Victor (sp?) and I are much smarter than he is.</p>
+
+<p>THERAPIST: Uh-huh, yeah.</p>
+
+<p>CLIENT: And his wife is smarter than he is, and Ginny is smarter than he is. And he kind of has this problem with being a smart guy whose friends are even (ph) smarter. And for a guy as competitive as him it's kind of brought up issues in the past. But...</p>
+
+<p>THERAPIST: Mmm. (Pause) Was he competing for the same job?</p>
+
+<p>CLIENT: No, different job, same place. And he got it. They hired him. And I'm like, what the fuck? They should have hired me, too.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: But (ph) they never did. And I was just like, well, who fucking cares now, I guess. [0:23:56] And part of me's like, well, if I work for a big game company, I can't make my own game. Just can't do it.</p>
+
+<p>THERAPIST: Oh, because they have (crosstalk)?</p>
+
+<p>CLIENT: Yeah, legal right (crosstalk). Yeah. And (pause) so that sucks. So what I need to find is some little place I can go, just some little place, and (pause) yeah. I don't know. I just don't know.</p>
+
+<p>THERAPIST: Hmm. Mm-hmm. </p>
+
+<p>CLIENT: And I think about the game industry. I don't care about any part of it. I just want to make a game, sell a game. And... yeah.</p>
+
+<p>THERAPIST: Yeah, what...?</p>
+
+<p>CLIENT: I don't know. I just don't really care about the whole... what consoles are coming out and who's hot right now and the latest indie stuff. [0:25:01] I'm like, because most indie stuff sucks. Let's just be honest about it. It's like, we're all making video games. Yeah, but most of us probably shouldn't be. There we go. (Pause) So I don't know.</p>
+
+<p>THERAPIST: Yeah, but you feel that you haven't been as into the gaming...</p>
+
+<p>CLIENT: I've been out of it for the majority of the last four years, you know?</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: For the majority of the past four years I've been out of work.</p>
+
+<p>THERAPIST: Ah.</p>
+
+<p>CLIENT: (Crosstalk) </p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: I didn't. I think about it all the time, about how eight months out of the past four years I've been at some other company other than my own. [0:25:55]</p>
+
+<p>THERAPIST: Oh, okay. Huh.</p>
+
+<p>CLIENT: I'm just like, if I had done this four years ago, I'd still have my own company probably. If I'd just done this four years ago. I would have just waited, taken my time, and then set up, then done it. I would have spent so much time making good game, instead of doing the stupid thing, which was trying to make something that would sell instead of making something that you love, and hope that what you love is loved by others.</p>
+
+<p>THERAPIST: Yeah. (Pause) Well, at the time it sounded like a reasonable idea (crosstalk).</p>
+
+<p>CLIENT: Yeah, it did, and a lot of people told me it was. But people say a lot of things.</p>
+
+<p>THERAPIST: It seemed to me like it was more like the kind of marketing piece of it that really (crosstalk).</p>
+
+<p>CLIENT: Marketing (crosstalk) didn't exist. Yeah, [I didn't know how to approach it] (ph)...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Which is why it's so great to have Pete to be like, here's the thing. [0:26:59] He's like, if you can make that thing, I can sell that.</p>
+
+<p>THERAPIST: And then what? (Crosstalk) </p>
+
+<p>CLIENT: Yeah, exactly. If I can make a thing, he can sell a thing. He's like, keep track of the money you're spending on this stuff, if you have to buy a license or something. He's like, because [it is money. So like, yeah, you'd better get paid for this] (ph). And there's a degree to which that would work. (Pause) </p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Like, if [I did something with Kickstarter in a month] (ph), I'd be like, I need $10,000 to make a game. (Pause) I'll give him a few more months to work on it, on the people, unhindered.</p>
+
+<p>THERAPIST: Mm-hmm. (Pause) Yeah, have you thought about doing that?</p>
+
+<p>CLIENT: Yeah, I mean, that's kind of the plan, is to keep working on this until I get to the point where I can be like, this is a game. [0:27:58] Who wants to see the rest of this game?</p>
+
+<p>THERAPIST: You want to be able to show them something, you've got to get to a certain point first (crosstalk).</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Right, that's going to be a lot more compelling than an idea, just an idea.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: To be like, look. Here's the thing.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And (pause) yeah, [lots of stuff I could do] (ph). (Pause) And one of the great things is that, there's totally a community for the tool set I'm using right now. But the community for the tools that I was using is really active and strong. And I realized I can still use them for the logic of things, because both of them use (inaudible at -0:28:55). [0:28:58] And so I can go to the one place and be like, hey, I'm trying to do this thing, and how do I do this? And they'll explain it to me in terms of the tools that I was using. But I should then be able to translate that all over [to the tools] (ph) I'm using now.</p>
+
+<p>THERAPIST: Oh, okay, yeah.</p>
+
+<p>CLIENT: So that's handy. (Pause)</p>
+
+<p>THERAPIST: I see. Yeah, there's that extra step now you've got to (inaudible at 0:29:19). Yeah. (Pause)</p>
+
+<p>CLIENT: So...</p>
+
+<p>THERAPIST: Yeah, it's an obstacle course.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: It's craziness, just craziness. But if I can make progress I can be like, this is a thing. This is a real thing. It's like, if I can get some classes, get the degree, get the game going... if I could spend the next couple months just building stuff and taking classes, that'd be great. [0:30:07] That would be great. </p>
+
+<p>THERAPIST: That would be great. And the other thing I was thinking about is that, for you, I think... I see it with a lot of people that are very creative, is that... and if you get impassioned by something, is that the biggest obstacle are these little... when practical shit just happens and gets thrown up in your way. </p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: It can be maddening. It can be really disheartening. It threatens the dream. It threatens the kind of the idea. And it's like, that's where those ideas sort of die, is when those... these practical bullshit stuff... like, shit happening, comes up. It's hard to maintain. [0:30:58]</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: It's your biggest obstacle by far. I mean, it's not your idea (chuckling).</p>
+
+<p>CLIENT: Oh, it's true. Yeah. No, the idea works, and all the other stuff is just... right now it's just where do I get my income from? Or how do I get some money to come in?</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And I don't know the answer to that question. So... (Pause)</p>
+
+<p>THERAPIST: Yeah. </p>
+
+<p>CLIENT: I need to hook up with some consulting gigs. I keep forgetting that I can do that, I can call that consulting, kind of be like, hey, I can talk about stuff.</p>
+
+<p>THERAPIST: Oh, yeah.</p>
+
+<p>CLIENT: See what people have to say. (Pause)</p>
+
+<p>THERAPIST: I've got to say in fact... I know this is a lot of advice, but I was thinking it would be a... in terms of what you were doing, what you've been doing at those other jobs, it seemed to me like you were interested in consulting. [0:32:01] You didn't want to get involved in all the bullshit. You had done enough of that work.</p>
+
+<p>CLIENT: Yeah, no, I just want to be like, here's a thing I could do. (Pause)</p>
+
+<p>THERAPIST: I think it's a reasonable way to talk about when... one thing I know that you're worried about is, how are people going to look at these... the leaving these jobs. And I think it's... your story, which is accurate, is you came in because you wanted to do a certain piece of work. You told them... you even told them that, [that's how we're structured] (ph).</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: And it seemed like the company was the same way. Maybe you would have... it wasn't as clearly delineated as, hey, I'm just going to come in as a consultant. But it seemed to me like that's what you wanted to do. And once...</p>
+
+<p>CLIENT: Yeah, and it's like, let's just set it up and go.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And yeah, I mean, there's people out there right now doing my job and not doing as well as I could, and getting paid for it. [0:33:00]</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And there's other people doing it much better than I could do it. And so there's a whole range. But they're all employed. They don't... there's no movement, not like any of them are leaving their jobs. And I just don't know... (Pause) I just don't know.</p>
+
+<p>THERAPIST: Hmm. (Pause)</p>
+
+<p>CLIENT: Yeah, I don't know.</p>
+
+<p>THERAPIST: No, that skill set you bring is just very impressive. You just know what you're doing. (Pause)</p>
+
+<p>CLIENT: Yeah. Yeah.</p>
+
+<p>THERAPIST: And I think you also manage people very well. [0:33:58]</p>
+
+<p>CLIENT: Yeah, but (pause) nobody wants that right now. (Pause) What could I have accomplished in four years? What could I have accomplished in four years? (Pause) It's not quite four years. It'll be four years in September. I just... (Pause) I don't know. What could I have accomplished in four years? Well, whatever. What do I accomplish in the next couple months? [0:34:55] Right? What do I accomplish in the next couple months? That's what I should be looking at. (Pause)</p>
+
+<p>THERAPIST: Well, yeah, and... but you are getting at that you've had to survive a hell of a lot of anxiety and a lot of (pause) tumult, internal tumult.</p>
+
+<p>CLIENT: Sure. </p>
+
+<p>THERAPIST: And in that way, man, it's not fair, whether... I know fair... but it's... you've got...</p>
+
+<p>CLIENT: Fairest is (inaudible at 0:35:33). Yeah. (Pause) Still, I just got to get in there.</p>
+
+<p>THERAPIST: Yeah. I guess what I mean by saying that, though, is that you've got a hell of a lot... you've got a hell of a burden you carry with you, man. It's what we've been talking about here, the anxiety and the bipolar. [0:36:00] It's not a fucking...</p>
+
+<p>CLIENT: No, it's ridiculous. And what the fuck am I supposed to do? (Pause) What the fuck am I supposed to do? (Pause) Yeah, I'm trying not to feel hindered by those things.</p>
+
+<p>THERAPIST: I know. I think you've been doing a hell of a lot of work here and personally for yourself to feel in a better place. </p>
+
+<p>CLIENT: Yeah. Well, we'll see. We shall see. Yeah. (Pause) Yeah, I don't know, dude. I just don't know. </p>
+
+<p>THERAPIST: I mean, I've seen real change in how much anxiety you can kind of tolerate.</p>
+
+<p>CLIENT: (Crosstalk)</p>
+
+<p>THERAPIST: Yeah. [0:36:58] I know. (Pause) </p>
+
+<p>CLIENT: It doesn't really matter, though. I have to go today, and I have to make sure I finish the Harold application...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Contact my professor, make sure she can get that letter of recommendation in for me in time. Just be like, all right, I'm through. I'm through. And... (Pause)</p>
+
+<p>THERAPIST: That's where it gets you. This is where that work gets you. Because you... two years ago this is not the conversation we would have.</p>
+
+<p>CLIENT: Really?</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Hmm. Well, that's nice. Yeah, I've just got to get home and do that, and then keep working on this thing, keep working on this thing.</p>
+
+<p>THERAPIST: Yeah. </p>
+
+<p>CLIENT: Just make it better and better. [0:37:57] I would think by the end of the day I could be at a point where I've got objects on screen that take turns. If I can get back to that today, that's a great bit of success. Objects on screen that can take turns.</p>
+
+<p>THERAPIST: Huh. </p>
+
+<p>CLIENT: Objects on screen, already easy, so that's the good news. (Pause) Yeah. (Pause) Yeah, (inaudible at 0:38:33). But if I can get to that point I'll have enough of the finance (ph) that should be understood that I can just start cranking out on.</p>
+
+<p>THERAPIST: Yeah, uh-huh. </p>
+
+<p>CLIENT: And...</p>
+
+<p>THERAPIST: Stomach (chuckling)?</p>
+
+<p>CLIENT: Yeah, my stomach's not doing great. Yeah. [0:38:57] So... (Pause) They always say Virgos carry all their issues in their stomach. </p>
+
+<p>THERAPIST: What did you say?</p>
+
+<p>CLIENT: They say Virgos carry all their issues in their stomach.</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: Astrology's a funny thing. (Pause)</p>
+
+<p>THERAPIST: [Yeah, well, there's a lot of energy below that] (ph).</p>
+
+<p>CLIENT: Yeah. </p>
+
+<p>THERAPIST: That's what they say in t'ai chi.</p>
+
+<p>CLIENT: Yeah, oh, totally, as well as the center of everything. </p>
+
+<p>THERAPIST: (Crosstalk)</p>
+
+<p>CLIENT: Yeah. And (pause) yeah, (inaudible at 0:39:36) at this point. I mean... (Pause) One thing that's good is to look at this and be like, no, I can do this. I don't need to hire a programmer. I don't need to hire artists. I need to get some artists, but...</p>
+
+<p>THERAPIST: Hmm.</p>
+
+<p>CLIENT: I certainly don't need to pay for them right now. [0:40:01] (Pause) I might get some free programming out (inaudible at 040:07) and probably some free art. I can get lots of free art, I suppose.</p>
+
+<p>THERAPIST: Yeah, what stage are you...? Where do you find yourself at right now?</p>
+
+<p>CLIENT: How do you mean?</p>
+
+<p>THERAPIST: With the game, with the program?</p>
+
+<p>CLIENT: Like I said, the thought is there, the design is there, the beginnings of the design are there, the basic mechanic of the game, what makes the game fun, what makes it interesting. </p>
+
+<p>THERAPIST: That's there.</p>
+
+<p>CLIENT: Yeah, that's all there. Now it's just a matter of making that work in code. And that's just time. That's all it is. Yeah.</p>
+
+<p>THERAPIST: (Crosstalk)</p>
+
+<p>CLIENT: It's possible, it's feelable (ph), it's understandable, it's something I can do, because you make it visual and all of a sudden it's like it's perfect. [0:40:54] I just need the logic of coding, which I can do. The logic of coding is not that difficult.</p>
+
+<p>THERAPIST: Mmm.</p>
+
+<p>CLIENT: Like in the previous system their custom movement stuff was very strange. And they're very good at like, control this like you control a car, control this like you control... and move this to wherever the mouse pointer is, and... but, if it was like, I need to move this from point A to point B exactly, they had a hard time with that.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: So I'm like, okay, move from here to here. Like, all right, and it would start moving in that direction and wouldn't figure out how to stop them.</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: So I had to be very carefully coding things. I had this thing where you've got a good guy picture here and a bad guy picture here. And when you say, attack this, I had animation where the [big guy] (ph) rushes, hits him, and flips back to his space. And that should be easy. And that should be easier in Unity...</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: Because we'll move this to here and then move it along... it's like, here you are, here this is. Draw a path from there to there. Move along the path, and reverse yourself back along the path, and there you are. [0:41:57] And I should be able to move the actual bit (ph) himself, whereas in the last one I wouldn't move him. </p>
+
+<p>THERAPIST: Hmm.</p>
+
+<p>CLIENT: I would create a copy of him... well, something that looked like him, but it was actually a bullet (ph). I would turn him invisible while shooting that bullet at the other guy.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: When it got to the other guy it would destroy itself. But first it would fire a copy of itself back towards the original guy. When it comes back and collides with the invisible guy, it destroys itself and he comes back. </p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: And so it gives the appearance of, he rushes out there and does this thing. </p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: In fact it's three separate objects in two states. </p>
+
+<p>THERAPIST: So Unity makes it easier.</p>
+
+<p>CLIENT: (Crosstalk) Yeah, I actually move him. Instead of making something that looks like him and firing it and sending another one back (crosstalk).</p>
+
+<p>THERAPIST: Oh, I get it. And you'll have three extra steps in the other one, right?</p>
+
+<p>CLIENT: Right, so it's like you're here...</p>
+
+<p>THERAPIST: Oh, I see.</p>
+
+<p>CLIENT: And the other one has to figure out how to get here, go over there and come back.</p>
+
+<p>THERAPIST: But the reason you didn't go Unity at the beginning was because you had to do that all in math? [0:42:56]</p>
+
+<p>CLIENT: Yeah, and you code it out. And you're like... you figure out [how to approach the angle, how to return the angle] (ph). And now it's just... visual coding, they're like, find a path between X and Y. Great.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: Great, there you go, find the path. So they do a lot of math stuff for you. They'll... it's a game development kit. It's like here's... and you can create your own stuff if you can code. You can...</p>
+
+<p>THERAPIST: So it gives you that option to do that.</p>
+
+<p>CLIENT: Yeah, yeah. And it's... the tool I'm using in Unity, the plug-in, is made exactly for me. It's for artists and designers to make games on their own without needing a programmer.</p>
+
+<p>THERAPIST: Oh, okay, right. </p>
+
+<p>CLIENT: And really it helps to have done programming, which I've done. And the thing about... I've done enough programming where the logic is easy. I know how to do these things. I can work... if the objects I need aren't there, I can find ways to work around it.</p>
+
+<p>THERAPIST: Oh, okay. Like how you figured out how to do the move (crosstalk). [0:43:56]</p>
+
+<p>CLIENT: Yeah, exactly. And it's just (inaudible at 0:43:59) stuff. And so (crosstalk).</p>
+
+<p>THERAPIST: Oh, yeah. It's like constantly problem solving.</p>
+
+<p>CLIENT: Yeah, which is great. Like, this is a function which runs the combat. I couldn't pass enough arguments to it where it made sense so they could do it. So instead what I'd do is, I'm like, here's the combat function, and here's an array...</p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: Where I haven't even labeled anything except on a piece of paper, to know array index zero is what I'm using for physical damage. And number seven is what I'm using for total damage delivered. And so there's none of that. And so then whenever I have anything involving combat, [it's just like] (ph), oh, I'm starting combat. Great, take all your various values, and write them to these indexes (sp?)... indices in the array.</p>
+
+<p>THERAPIST: Oh, okay. </p>
+
+<p>CLIENT: And it's like, and I'm going to target all your stuff, the indices, combat, take them out of the array, do the math, and then tell the target what happens, in fact don't even that. [0:44:55] Just tell the array, and the target will ask the array what's happening. </p>
+
+<p>THERAPIST: But you work around that whole problem of the...</p>
+
+<p>CLIENT: Yeah, the whole thing. It's great. If you can't talk to each other, everyone talk to this. It's like an intermediary.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: Essentially, I'm going to throw a pie at this person. Great, what kind of pie are you trying to throw? If someone throws a pie at you, what's likely to happen? Okay, then put all that in the bucket, there you go. Here's what came out of it. Deal with it. Then hit by a pie? Okay, you feel better? So yeah, I can do all that stuff. The syntax has always been a problem, but now it's just how to set up [the logic states] (ph). (inaudible at 0:45:41) are fucking brilliant. And again they sound really aggressive, I think. And when you actually make one, it's like, oh, I's pretty simple. A light switch is a good example of (inaudible at 0:45:54), which simplifies [data stream] (ph). [0:45:56] It has two states in existence, which is on-off. And there's a trigger that transitions between those two states [on a statement tree] (ph)...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Whereas with a larger one... let's say you mark it with total maximum number of players that could exist. And you're like, yeah, it could exist in any number of player turns and also in another turn state, which is not assigned to a player, which I can use for other events. So basically I'm like, there's this thing. Let's say there's six people, there's six total possible players who can be involved in any scene. I'd be like, okay, start game, current player equals one. And then on the guy I want for player one, he has a listener event. It's like, am I...? Does my turn order number match the current player number? Oh, good. [0:46:55] If that's the case, I'm going to start doing these other things. I'm going to make myself ready to get access, I'm going to... it's like, now that I'm in this state and other events are being clicked on, if I'm clicked on and it's my turn, you do the following things (pause), which is great, because then at the end of that you're like, okay. After you've done all your stuff, after you've gone through those things, now I want you to do the... [I want] (ph) you talk to the next FSM, the next [final state] (ph) machine, which is called the next player machine. And what it does very simply is it looks at the current player number, which should be from one to six, and it's like, if that is six or greater, it's one now.</p>
+
+<p>THERAPIST: (Chuckling)</p>
+
+<p>CLIENT: Otherwise, add a one to it. </p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: It's very simple, then you know whose turn it is. It's just like [chk chk] (sp?).</p>
+
+<p>THERAPIST: But you've got to do all the... yeah, that's something.</p>
+
+<p>CLIENT: Yeah, but that's the... and that's its entire purpose. It can probably also be like, okay, and clear the data in these various arrays to make sure it's all clean. </p>
+
+<p>THERAPIST: Okay, yeah. [0:47:58]</p>
+
+<p>CLIENT: And that's what... there are so many great parts to that. It's like, okay, where am I telling it to do things, and what have I told it to do? And again the thing they tell new programmers all the time, it's like, computers are fucking stupid. They do exactly what you tell them to do and nothing more...</p>
+
+<p>THERAPIST: (Laughing) Yeah.</p>
+
+<p>CLIENT: Exactly what you tell them to do. And it's like, it's not working. No, it's working.</p>
+
+<p>THERAPIST: It's working (laughing).</p>
+
+<p>CLIENT: It's working. You just built it wrong. So let's figure out where you built it wrong.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: That stuff is interesting to think about and think about ahead, and be like, okay. I'm going to tell this object all these things. And I'm always going to tell it before combat, but not everything will get overwritten. This thing isn't necessarily going to overwrite other values. So at the end of every phase let's make sure we clear everything out...</p>
+
+<p>THERAPIST: Oh man, wow. </p>
+
+<p>CLIENT: So every time you start up again it's new and fresh. And those are simple things that (crosstalk).</p>
+
+<p>THERAPIST: Yeah, but you liked... you've got the kind of the heart and the mind for it. [0:48:59]</p>
+
+<p>CLIENT: Yeah, and I can picture it. And now that it's all visual, it's just like, whee!</p>
+
+<p>THERAPIST: Okay, yeah.</p>
+
+<p>CLIENT: I don't have to be like, okay, what is it...? Okay, so this is... okay, how many public variables should this have? Is this function public or private? I'm like, I don't fucking know. I pretty much would be like, okay, so it's...</p>
+
+<p>THERAPIST: Oh, yeah.</p>
+
+<p>CLIENT: What's the function called here? It doesn't matter. Make a function. It's like... you say, what do I need you to do? Just build it. Take the pieces, and put them together. Now it does that. And there's arrows, and you can just bend the arrows. And you make these energies. </p>
+
+<p>THERAPIST: Oh, that's cool, yeah.</p>
+
+<p>CLIENT: Here's a state. Here's another state. Link them in the following way. Here's how to transition from one to the other.</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: And it's really cool stuff. And it's... yeah, it's all just logic and stuff I understand really well. So the good news is ... and that 's what I like about it, it's all stuff I understand really well. Now it's just a matter of figuring out how to do it. [0:49:57]</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And it's visual syntax, which is so much easier...</p>
+
+<p>THERAPIST: Than actually writing.</p>
+
+<p>CLIENT: Well, yeah, just remembering. For me it's always been like, what's the...? Okay, wait, so how do I say that word again?</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: It's like, what do I call it when I want to do this?</p>
+
+<p>THERAPIST: Okay. (Crosstalk)</p>
+
+<p>CLIENT: And what's the order I put things in? Where does the period go? And...</p>
+
+<p>THERAPIST: It's literally another language, yeah.</p>
+
+<p>CLIENT: Yeah, yeah, exactly. And... which is funny, because I'm so good at languages. And again, when I was taking comp sci classes, I was good at comp sci classes. It's like... I must have told you, I stopped going to comp sci classes pretty early in the semester. They're 8 AM classes. I never intended to go. </p>
+
+<p>THERAPIST: Oh, yeah.</p>
+
+<p>CLIENT: Yeah, I never intended to go. And Ginny didn't understand it. She's like, why are you...? I'm like, listen, this is a project and test class.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: It's like, I'm going to ace this. This is... </p>
+
+<p>THERAPIST: And you did, right? It wasn't hard.</p>
+
+<p>CLIENT: Yeah, and it wasn't hard. And Ginny really struggled with it. It's not her thing.</p>
+
+<p>THERAPIST: Yeah, she's the 100 in that situation (crosstalk). [0:51:00]</p>
+
+<p>CLIENT: Yeah, or even worse. She would have failed it if she hadn't had someone else write her final exam for her. [No] (ph). </p>
+
+<p>THERAPIST: Oh, is that...?</p>
+
+<p>CLIENT: He was a fourth year comp sci student. He was a total stoner and never had any money. She's like, I will buy you a pack of cigarettes if you will write my final exam. He's like, no problem. And so... and you know that...</p>
+
+<p>THERAPIST: It's the best (crosstalk).</p>
+
+<p>CLIENT: You know the professor didn't care, when she writes this crappy code and crappy code. And then in the final project she throws in all these advanced concepts...</p>
+
+<p>THERAPIST: (Laughing) Very elegant. </p>
+
+<p>CLIENT: And really beautiful code. He doesn't care. He's like, whatever.</p>
+
+<p>THERAPIST: Well, all right.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: So next week it's just Monday, and then I'm out...</p>
+
+<p>CLIENT: Oh, okay, yeah.</p>
+
+<p>THERAPIST: I'm out that Thursday and then that following week.</p>
+
+<p>CLIENT: Okay, all right. If you'll just remind me again for Monday that'd be good (laughing).</p>
+
+<p>THERAPIST: I will. </p>
+
+<p>CLIENT: Bye.</p>
+
+<p>THERAPIST: All right. [0:52:00]</p>
+
+<p>END TRANSCRIPT</p>
