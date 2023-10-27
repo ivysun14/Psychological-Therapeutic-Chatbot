@@ -16,11 +16,14 @@ data_dir = 'processed/meta.json'
 
 def process_sentence(NRC_dic, sentence, emo):
     result = 0
-    for word in re.split("; |, | |\?|\"|\'|\*|. ", sentence):
+    word_list = re.split("; |, | |\?|\"|\'|\*|. ", sentence)
+    for word in word_list:
         try:
             result += NRC_dic[word.lower()][emo]
         except:
             result += 0
+    if result != 0:
+        result = result/len(word_list)
     return result
 
 def calc_mean(l):
@@ -92,11 +95,14 @@ def process_NRC(NRC_dir, out_dir, data_dir):
 
 def process_sentence_MOESM(MOESM_dic, sentence):
     result = 0
-    for word in re.split("; |, | |\?|\"|\'|\*|. ", sentence):
+    word_list = re.split("; |, | |\?|\"|\'|\*|. ", sentence)
+    for word in word_list:
         try:
             result += MOESM_dic[word.lower()]
         except:
             result += 0
+    if result != 0:
+        result = result / len(word_list)
     return result
 
 def MOESM(out_dir, data_dir):
@@ -132,6 +138,7 @@ def MOESM(out_dir, data_dir):
     df.to_csv(out_dir, index=True)
 
 
+process_NRC(NRC_dir, out_dir, data_dir)
 
 MOESM("dic_features/MOESM.csv", data_dir)
 
