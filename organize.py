@@ -112,9 +112,7 @@ def process_doc(key, dic):
     
 
 problem = []
-
 for keys in documents:
-    
     try:
         process_doc(keys, linked_session)
     except:
