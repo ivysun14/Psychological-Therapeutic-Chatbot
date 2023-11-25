@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 This python code organizes the transcript data and metadata.
 """
@@ -76,7 +74,7 @@ def remove_end(lines):
 def remove_unicode(lines):
     newline = lines.encode("ascii", "ignore")
     newline = newline.decode()
-    return newline
+    return newline    
 
 #process the lines by adding to dic, return verbs
 def process_doc(key, dic):
@@ -99,7 +97,8 @@ def process_doc(key, dic):
             newline = remove_end(newline)
             newline = remove_unicode(newline)
             therapist.append(newline)
-        
+        else:
+            continue
         
         if verb != "":
             verbs.append(verb)
