@@ -26,6 +26,9 @@ def process_sentence(NRC_dic, sentence, emo):
         result = result/len(word_list)
     return result
 
+def calc_length(sentence):
+    return len(sentence.split(" "))
+
 def calc_mean(l):
     if len(l) > 0:
         return sum(l)/len(l)
@@ -47,9 +50,12 @@ def process_NRC(NRC_dir, out_dir, data_dir):
             dic = {}
             for emo in emos:
                 temp = []
+                length = []
                 for sentence in sentences:
                     temp.append(process_sentence(NRC_dic, sentence, emo))
+                    length.append(calc_length(sentence))
                 dic[emo] = temp
+                dic['length'] = length
             feature[doc] = dic
         except:
             feature[doc] = {}
@@ -59,7 +65,7 @@ def process_NRC(NRC_dir, out_dir, data_dir):
     
     df = pd.DataFrame.from_dict(feature, orient="index")
     
-    l1, l2, l3, l4, l5, l6, l7, l8, l9, l10 = ([] for i in range(10))
+    l1, l2, l3, l4, l5, l6, l7, l8, l9, l10, l11 = ([] for i in range(11))
 
     
     for i in range(len(df)):
@@ -73,8 +79,7 @@ def process_NRC(NRC_dir, out_dir, data_dir):
         l8.append(calc_mean(df.iloc[i]["trust"]))
         l9.append(calc_mean(df.iloc[i]["trust"]))
         l10.append(calc_mean(df.iloc[i]["trust"]))
-        
-            
+        l11.append(calc_mean(df.iloc[i]["length"]))
             
     df["disgust_mean"] = l1
     df["negative_mean"] = l2
@@ -86,7 +91,7 @@ def process_NRC(NRC_dir, out_dir, data_dir):
     df["trust_mean"] = l8
     df["anger_mean"] = l9
     df["fear_mean"] = l10
-    
+    df["length"] = l11
     
     print(df[df['fear_mean'].isna()])
     

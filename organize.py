@@ -108,7 +108,6 @@ def process_doc(key, dic):
     dic[key]['Therapist_Text'] = therapist
     
     return verbs
-    
 
 problem = []
 for keys in documents:

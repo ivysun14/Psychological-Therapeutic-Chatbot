@@ -1,24 +1,23 @@
 # Psychological-Therapeutic-Chatbot
 
-##The goal of version 0: Map conversation into mental disorder issue
+##Update as of Nov. 25
 
 ### Data set to use
- - Patient conversation: Label is symptom, input is patient sentences.
- - LIWC (to be obtained): Label for individual words
+ - Patient conversation Volume I and II: Label is symptom, input is patient sentences.
+ - NRC dictionaryr
+ - Concreteness dictionary
 
-### Proposed steps:
-- Preprocess data:
-- Convert to standard Unicode/ASCII
-- Remove non-English
-- Remove doctor language and [couldn’t identify] language, cut into the dictionary of words
-- Remove stop words?
+### Pipeline description:
+- Preprocess data (organize.py)
+	Given metadata (csv) and transcripts (txt), output a json (meta.json) that extracts useful metadata and process the text into client and patient.
+- Feature engineering (calc_NRC.py)
+	Given the processed data (meta.json), calculate the 10 dimentions based on NRC dictionary, concreteness score, and lengh of speech, output to dic_features/NRC_feature_matrix.csv and dic_features/MOESM.csv.
+- Extract stem words (process_word.py)
+	Given the processed data (meta.json), use stemming word to produce word feature matrix.
 
-### Analysis: see https://www.nature.com/articles/s41746-022-00589-7#data-availability 
-- Single word: Count word frequency in LIWC library
-- N-gram language model using shallow neural networks
-- BERT/transformer based language model using sentence level input
-Classification
-_ Using indicators created from analysis, classify into different groups using different methods
+### Models:
+- Logistic regression using engineered features (log_reg.py)
+- 
 
 ### Training a Multilabel model (if not train separate model for each label):
 ML-KNN: https://www.sciencedirect.com/science/article/pii/S0031320307000027#sec4
