@@ -5,7 +5,7 @@ import json
 import pandas as pd
 #from anyascii import anyscii
 
-INPUT_PATH = "data/publication_metadata.csv"
+INPUT_PATH = "data/publication_metadata_combined.csv"
 OUTPUT_PATH = "processed/meta.json"
 DATA_PATH = "data/transcript/"
 
@@ -13,10 +13,8 @@ with open(INPUT_PATH, "r") as file:
     meta = pd.read_csv(file)
     
 data = meta[["Entity_ID", "file_name","Abstract","Client_Age", "Client_Gender", 
-             "Client_Marital_Status", "Previous_Session_ID", "Next_Session_ID",
-             "Client_Sexual_Orientation", "CTIV_category", "Psyc_Subjects", 
-             "Symptoms", "Therapies", "Therapist", "Race_of_Therapist", 
-             "Race_of_Client"]]
+             "Client_Marital_Status", "Client_Sexual_Orientation", "Psyc_Subjects", 
+             "Symptoms", "Therapies", "Therapist"]]
 
 data = data.set_index('Entity_ID')
 
