@@ -1,6 +1,6 @@
 # Psychological-Therapeutic-Chatbot
 
-##Update as of Nov. 25
+##Update as of Nov. 26
 
 ### Data set to use
  - Patient conversation Volume I and II: Label is symptom, input is patient sentences.
@@ -17,7 +17,9 @@
 
 ### Models:
 - Logistic regression using engineered features (log_reg.py)
-- 
+- Linear-kernel and RBF-kernel SVM
+	- SVM_V0_params/: this folder contains selected hyperparameters and final evaluation metrics for SVM trained on word frequency matrix of Volumn II data, focusing only on anxiety classification.
+   	- SVM_V1_params/: this folder contains hyperparameters, evaluation metrics, and prediction results for SVM trained on engineered feautures on Volumn I and II combined.
 
 ### Training a Multilabel model (if not train separate model for each label):
 ML-KNN: https://www.sciencedirect.com/science/article/pii/S0031320307000027#sec4
