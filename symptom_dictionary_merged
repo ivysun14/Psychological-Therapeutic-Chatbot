@@ -1,0 +1,18 @@
+{
+    "anxiety": 0,
+    "depression": 1,
+    "low_self_esteem": 2,
+    "anger": 3,
+    "sadness": 4,
+    "frustration": 5,
+    "emotional_distress": 6,
+    "fatigue": 7,
+    "physical_issue": 8,
+    "sleep_issue": 9,
+    "suicidal_thoughts": 10,
+    "cognitive_issue": 11,
+    "mania": 12,
+    "hallucination": 13,
+    "indifferent": 14,
+    "shame": 15
+}
