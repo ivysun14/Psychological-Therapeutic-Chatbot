@@ -6,15 +6,15 @@ import pandas as pd
 #from anyascii import anyscii
 
 INPUT_PATH = "data/publication_metadata_combined.csv"
-OUTPUT_PATH = "processed/meta.json"
+OUTPUT_PATH = "processed/meta_combined.json"
 DATA_PATH = "data/transcript/"
 
-with open(INPUT_PATH, "r") as file:
+with open(INPUT_PATH, "r", encoding="utf8") as file:
     meta = pd.read_csv(file)
     
-data = meta[["Entity_ID", "file_name","Abstract","Client_Age", "Client_Gender", 
+data = meta[["file_name", "Entity_ID","Abstract","Client_Age", "Client_Gender",
              "Client_Marital_Status", "Client_Sexual_Orientation", "Psyc_Subjects", 
-             "Symptoms", "Therapies", "Therapist"]]
+             "Symptoms", "Therapies", "Therapist", "Real_Title"]]
 
 data = data.set_index('Entity_ID')
 
@@ -24,7 +24,7 @@ linked_session = data.T.to_dict(orient = "dict")
 
 verbs = []
 
-#Remoev the time stamps
+#Remove the time stamps
 def remove_time(lines):
     if lines.find("[") != -1: 
         pos = lines.index("[")
