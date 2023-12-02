@@ -34,6 +34,17 @@ from sklearn import metrics
 import joblib
 import utility  # add diagnostic and graphing functions into this file
 
+
+#################### CLUSTER RUN ####################
+target_symptom = sys.argv[1]
+outdir = sys.argv[2]
+
+dirs = [outdir+"results",
+        outdir+"results/linear",
+        outdir+"results/RBF",
+        outdir+"results/figures"]
+#################### FUNCTIONS ####################
+
 # set up directories
 for dir_path in dirs:
     if not os.path.exists(dir_path):
