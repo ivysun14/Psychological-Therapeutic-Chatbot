@@ -1,6 +1,6 @@
 # Psychological-Therapeutic-Chatbot
 
-##Update as of Nov. 26
+##Update as of Dec. 1
 
 ### Data set to use
  - Patient conversation Volume I and II: Label is symptom, input is patient sentences.
@@ -30,4 +30,7 @@ ML-KNN: https://www.sciencedirect.com/science/article/pii/S0031320307000027#sec4
 - https://mmuratarat.github.io/2020-01-25/multilabel_classification_metrics
 - Summary paper on Multilabel classification:
 - https://arxiv.org/abs/1609.00288
+
+### How to run SVM files:
+- 
 
