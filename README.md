@@ -32,5 +32,14 @@ ML-KNN: https://www.sciencedirect.com/science/article/pii/S0031320307000027#sec4
 - https://arxiv.org/abs/1609.00288
 
 ### How to run SVM files:
-- 
+- Make sure the below filse are in the same directories as SVM_1.py and SVM_2.py files:
+	- training_examples.txt
+	- training_labels.txt
+ 	- test_examples.txt
+  	- test_labels.txt
+  	- symptom_dictionary_merged
+- Nothing need to be changed in the actual code, just change the variables as needed in each of the SVM_1.py and SVM_2.py files at the top in the 'VARIABLES' section.
+- First run SVM_1.py for hyperparameter tunning, then run SVM_2.py using the selected hyperparameters to train and test on test data.
+- All results will be outputted in the result folder in the current working directory. Make sure to rename this folder to something like ${symptom}_results before running a second label.
+- utility.py is for diagnostic and plotting functions and is currently empty. Add functions if needed.
 
