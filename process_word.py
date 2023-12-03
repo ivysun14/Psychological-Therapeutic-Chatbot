@@ -13,7 +13,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.corpus import wordnet
 
-f = open('processed/meta.json')
+f = open('processed/meta_combined.json')
 data = json.load(f)
 f.close()
 
@@ -214,15 +214,15 @@ def return_stem():
 error_session = return_stem()
 print(error_session)
 
-"""
-unique_words_dictionary = assemble_dictionary_sym(data)
-feature_matrix, error_session = generate_feature_matrix(data, unique_words_dictionary)
 
-np.savetxt("../feature_matrix_stem.txt", feature_matrix)
+unique_words_dictionary = assemble_dictionary_stem(data)
+feature_matrix, error_session = generate_feature_matrix_stem(data, unique_words_dictionary)
+
+np.savetxt("../feature_matrix_stem_12.txt", feature_matrix)
 
 # create json object from dictionary
 output = json.dumps(unique_words_dictionary)
-f = open("stem_words_dictionary.json", "w")
+f = open("stem_words_dictionary_12.json", "w")
 f.write(output)
 f.close()
-"""
+

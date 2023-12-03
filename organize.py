@@ -85,12 +85,12 @@ def process_doc(key, dic):
         newline = remove_time(newline)
         #Check who is talking
         
-        if lines.startswith("<p>CLIENT:"):
+        if lines.startswith(("<p>CLIENT:","<p>PATIENT:", "<p><b>Client:", "<P><B>PT:", "<p><b>PT:", "<p>PATiENT:")):
             newline = newline[remove_speaker(newline) :]
             newline = remove_end(newline)
             newline = remove_unicode(newline)
             client.append(newline)
-        elif lines.startswith("<p>THERAPIST:"):
+        elif lines.startswith(("<p>THERAPIST:", "<p>COUNSELOR:", "<p><b>Therapist:", "<P><B>DR:", "<p><b>DR:", "<p>ANALYST:")):
             newline = newline[remove_speaker(newline) :]
             newline = remove_end(newline)
             newline = remove_unicode(newline)
