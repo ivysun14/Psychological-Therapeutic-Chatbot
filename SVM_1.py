@@ -259,15 +259,15 @@ def extract_symptom_labels(y, symptom_dict, symptom="anxiety"):
 
 #################### SVM HYPERPARAMETER SELECTION ####################
 # read symptom dictionary, make sure it is in the right dir so can be found
-f = open('symptom_dictionary_merged')
+f = open('symptom_dictionary_merged_with_none')
 symptoms = json.load(f)
 f.close()
 
 # split the data to 80/20, save the 20% as final test data, make sure these files are in the correct dir so can be found
 X_training = np.loadtxt("training_examples.txt")
 y_training = np.loadtxt("training_labels.txt")
-X_testing = np.loadtxt("test_examples.txt")
-y_testing = np.loadtxt("test_labels.txt")
+X_testing = np.loadtxt("testing_examples.txt")
+y_testing = np.loadtxt("testing_labels.txt")
 
 print("Training set shape:", X_training.shape, y_training.shape)
 print("Test set shape:", X_testing.shape, y_testing.shape)
