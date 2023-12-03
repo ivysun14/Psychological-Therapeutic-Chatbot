@@ -30,6 +30,8 @@ processed/:
 	Given the processed data (meta.json), calculate the 10 dimentions based on NRC dictionary, concreteness score, and lengh of speech, output to dic_features/NRC_feature_matrix.csv and dic_features/MOESM.csv.
 - Extract stem words (process_word.py)
 	Given the processed data (meta.json), use stemming word to produce word feature matrix.
+- Process symptom labels and create label matrix (label_matrix.py)
+	Given the processed data (meta.json) and metadata (csv), create four label matrices for different use (see script).
 
 ### Models:
 - Logistic regression using engineered features (log_reg.py)
