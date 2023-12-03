@@ -70,13 +70,16 @@ def performance(y_true, y_pred, metric="accuracy"):
     """
     # map continuous-valued predictions to binary labels
     y_label = np.sign(y_pred)
+    points_on_boundary,  = np.where(y_label == 0)
+    points_classified_pos, = np.where(y_label == 1)
+    points_classified_neg, = np.where(y_label == -1)
+    print(f"For this run there are {points_on_boundary.shape} examples being predicted to lie right on the separating booundary.")
+    print(f"For this run there are {points_classified_pos.shape} examples being predicted to have the symptom.")
+    print(f"For this run there are {points_classified_neg.shape} examples being predicted to not have the symptom.")
+    print("Note that right after this messsage all points lying right on the separating plane are classified as having the symptom.")
+    
     # if a prediction is 0, treat that as 1
     y_label[y_label == 0] = 1
-    
-    points_on_boundary,  = np.where(y_label == 0)
-
-    print(f"For this run there are {points_on_boundary.shape} examples being predicted to lie right on the separating booundary.")
-
 
     # compute performance
     if metric == "accuracy":  # fraction of correctly classified samples
