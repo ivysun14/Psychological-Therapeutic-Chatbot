@@ -13,7 +13,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.corpus import wordnet
 
-f = open('processed/meta_combined.json')
+f = open('processed/meta_cleaned.json')
 data = json.load(f)
 f.close()
 
@@ -211,18 +211,55 @@ def return_stem():
     
     return error_session
 
-error_session = return_stem()
-print(error_session)
-
+#error_session = return_stem()
+#print(error_session)
 
 unique_words_dictionary = assemble_dictionary_stem(data)
 feature_matrix, error_session = generate_feature_matrix_stem(data, unique_words_dictionary)
 
-np.savetxt("../feature_matrix_stem_12.txt", feature_matrix)
+np.savetxt("./feature_matrix_stem.txt", feature_matrix)
 
 # create json object from dictionary
 output = json.dumps(unique_words_dictionary)
 f = open("stem_words_dictionary_12.json", "w")
 f.write(output)
 f.close()
+
+
+#normalize counts
+total_length = np.sum(feature_matrix, axis = 1)
+normalized = feature_matrix
+for i in range(feature_matrix.shape[0]):
+    normalized[i,] = feature_matrix[i, :]/(total_length[i])
+    
+np.savetxt("./feature_matrix_stem_normalized.txt", normalized)
+import pandas as pd
+data = pd.read_csv("dic_features/NRC_feature_matrix.csv")
+data2 = pd.read_csv("dic_features/MOESM.csv")
+
+data['concreteness_mean'] = data2['mean']
+
+data.drop("Unnamed: 0", axis=1, inplace=True)
+data.drop("disgust", axis=1, inplace=True)
+data.drop("negative", axis=1, inplace=True)
+data.drop("sadness", axis=1, inplace=True)
+data.drop("positive", axis=1, inplace=True)
+data.drop("surprise", axis=1, inplace=True)
+data.drop("joy", axis=1, inplace=True)
+data.drop("anticipation", axis=1, inplace=True)
+data.drop("trust", axis=1, inplace=True)
+data.drop("anger", axis=1, inplace=True)
+data.drop("fear", axis=1, inplace=True)
+data.drop("length", axis=1, inplace=True)
+
+data_matrix = data.values
+
+all_features = np.column_stack((feature_matrix, data_matrix))
+np.savetxt("./feature_matrix_total.txt", all_features)
+
+
+
+
+
+
 

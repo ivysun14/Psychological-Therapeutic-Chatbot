@@ -12,7 +12,7 @@ import re
 
 out_dir = "dic_features/NRC_feature_matrix.csv"
 NRC_dir = "dic_features/NRC_dic.json"
-data_dir = 'processed/meta_combined.json'
+data_dir = 'processed/meta_cleaned.json'
 
 def process_sentence(NRC_dic, sentence, emo):
     result = 0

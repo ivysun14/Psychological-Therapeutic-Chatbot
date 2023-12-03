@@ -5,8 +5,8 @@ import json
 import pandas as pd
 #from anyascii import anyscii
 
-INPUT_PATH = "data/publication_metadata_combined.csv"
-OUTPUT_PATH = "processed/meta_combined.json"
+INPUT_PATH = "data/publication_metadata_cleaned.csv"
+OUTPUT_PATH = "processed/meta_cleaned.json"
 DATA_PATH = "data/transcript/"
 
 with open(INPUT_PATH, "r", encoding="utf8") as file:
@@ -115,20 +115,40 @@ for keys in documents:
         print("having problem processing: " + str(keys))
         problem.append(keys)
     
-    #process_doc(keys, linked_session)        
+    #process_doc(keys, linked_session)  
+
+with open(OUTPUT_PATH, "w") as fout:
+    json.dump(linked_session, fout, indent=2)
+
+
+"""
+
+saved_data = {}
+empty_list = []
+correct_list = []
+problem2 = []
+for keys in linked_session:
+    data = linked_session[keys]
+    try: 
+        if data['Client_Text'] == []:
+            empty_list.append(data['file_name'])
+        else:
+            saved_data[keys] = data
+            correct_list.append(data['file_name'])
+    except:
+        print("having problem processing: " + str(keys))
+        problem2.append(data['file_name'])
 
 #Write into json
 with open(OUTPUT_PATH, "w") as fout:
-    json.dump(linked_session, fout, indent=2)
-        
+    json.dump(saved_data, fout, indent=2)
     
-                    
-            
-        
-            
+remove_list = empty_list + problem2
 
+with open("remove.txt", "w") as fout:
+    fout.writelines(remove_list)      
 
-
+"""
 
 
 
