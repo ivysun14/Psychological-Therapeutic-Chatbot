@@ -2,28 +2,29 @@
 
 ##Update as of Dec. 2, 2023
 
+### Conda Environment Setting:
+
+To run this project, set up a virtual environment with python version and package versions specified in **environment.yml** file using either conda or miniconda. This is to ensure result reproducibility. Add packages and their versions as needed into this file.
+
 ### File Descriptions:
 
-data/:
+**data/:**
 - transcript/: original transcript data from Counseling and Psychotherapy Transcripts, Volume I and Volumn II.
-- Publication metadata of Volumn I and Volumn II.
-- volumn1_preprocess.py: Kept only threrapy sessions from Volumn I data. Therapy sessions' txt file names are in the file 'volumn1_transcripts_filename.txt'.
+- Publication metadata csv of Volumn I and Volumn II combined.
+- volumn1_preprocess.py: Kept only threrapy sessions from Volumn I data and cleaned book transcript entries.
 
-data_preprocessing_scripts/:
-- see 'Pipeline description'.
+**data_preprocessing_scripts/:**
+- see 'Pipeline description below.
 
-dic_features/:
+**dic_features/:**
+- NRC dictionary
+- Concreteness dictionary
 
-processed/:
+**processed/:**
 - Contains processed metadata.json files for Volumn I and Volumn II combined.
 
-
-### Data set to use
- - Patient conversation Volume I and II: Label is symptom, input is patient sentences.
- - NRC dictionary
- - Concreteness dictionary
-
 ### Pipeline description:
+
 - Preprocess data (organize.py) <br >
 	Given metadata (csv) and transcripts (txt), output a json (meta.json) that extracts useful metadata and process the text into client and patient.
 - Naive word frequency matrix (feature_matrix.py) <br >
@@ -38,10 +39,12 @@ processed/:
 	Given the feature matrix (feature_matrix_total.txt) and label matrix (label_matrix_merged_with_none.txt), split 80% of data as training set (train + dev) and 20% data as testing set. The resulting train test split matrices as well as training and testing data indices are stored in folder train_test_data/.
 
 ### Models:
+
 - Logistic regression using engineered features (log_reg.py)
 - Linear-kernel and RBF-kernel SVM (SVM_1.py, SVM_2.py)
 
 ### How to run SVM files:
+
 - Make sure the below files are in the same directories as SVM_1.py and SVM_2.py files:
 	- training_examples.txt
 	- training_labels.txt
