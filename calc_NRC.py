@@ -12,7 +12,7 @@ import re
 
 out_dir = "dic_features/NRC_feature_matrix.csv"
 NRC_dir = "dic_features/NRC_dic.json"
-data_dir = 'processed/meta.json'
+data_dir = 'processed/meta_combined.json'
 
 def process_sentence(NRC_dic, sentence, emo):
     result = 0
@@ -60,7 +60,7 @@ def process_NRC(NRC_dir, out_dir, data_dir):
         except:
             feature[doc] = {}
             
-    with open("NRC_feature.json", "w") as fout:
+    with open("dic_features/NRC_feature.json", "w") as fout:
         json.dump(feature, fout, indent = 4)
     
     df = pd.DataFrame.from_dict(feature, orient="index")
