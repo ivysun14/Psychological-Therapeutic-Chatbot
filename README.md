@@ -4,7 +4,15 @@
 
 ### Conda Environment Setting:
 
-To run this project, set up a virtual environment with python version and package versions specified in **environment.yml** file using either conda or miniconda. This is to ensure result reproducibility. Add packages and their versions as needed into this file.
+To run this project, set up a virtual environment with python version and package versions specified in **environment.yml** file using either conda or miniconda. To install the environment:
+```
+conda env create -f environment.yml
+conda activate Psych_Chatbot
+
+# when finished
+conda deactivate
+```
+This is to ensure result reproducibility. Add packages and their versions into this file if you installed new packages inside the environment.
 
 ### File Descriptions:
 

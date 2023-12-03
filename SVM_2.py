@@ -15,7 +15,8 @@ metric_list = ["accuracy", "f1_score", "auroc",
 dirs = ["results",
         "results/linear",
         "results/RBF",
-        "results/figures"]
+        "results/figures",
+        "results/test_prediction"]
 
 #################### SET UP ####################
 # import libraries
@@ -36,13 +37,13 @@ import utility  # add diagnostic and graphing functions into this file
 
 
 #################### CLUSTER RUN ####################
-target_symptom = sys.argv[1]
-outdir = sys.argv[2]
+#target_symptom = sys.argv[1]
+#outdir = sys.argv[2]
 
-dirs = [outdir+"results",
-        outdir+"results/linear",
-        outdir+"results/RBF",
-        outdir+"results/figures"]
+#dirs = [outdir+"results",
+#        outdir+"results/linear",
+#        outdir+"results/RBF",
+#        outdir+"results/figures"]
 #################### FUNCTIONS ####################
 
 # set up directories
@@ -71,6 +72,11 @@ def performance(y_true, y_pred, metric="accuracy"):
     y_label = np.sign(y_pred)
     # if a prediction is 0, treat that as 1
     y_label[y_label == 0] = 1
+    
+    points_on_boundary,  = np.where(y_label == 0)
+
+    print(f"For this run there are {points_on_boundary.shape} examples being predicted to lie right on the separating booundary.")
+
 
     # compute performance
     if metric == "accuracy":  # fraction of correctly classified samples
@@ -238,7 +244,7 @@ def performance_test(clf, X, y, symptom, metric="accuracy", model="linear"):
     """
 
     y_pred = clf.decision_function(X)
-    np.savetxt(f"results/predicted_distance_to_hyperplane_{model}_{symptom}.txt", y_pred)
+    np.savetxt(f"results/test_prediction/predicted_distance_to_hyperplane_{model}_{symptom}.txt", y_pred)
     
     score = performance(y, y_pred, metric)
 
