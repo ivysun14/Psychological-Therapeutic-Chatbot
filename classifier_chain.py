@@ -11,9 +11,6 @@ y_train = np.loadtxt("training_labels.txt")
 X_test = np.loadtxt("testing_examples.txt")
 y_test = np.loadtxt("testing_labels.txt")
 
-y_train[y_train == -1] = 0
-y_test[y_test == -1] = 0
-
 # Fit an independent logistic regression model for each class using the
 # OneVsRestClassifier wrapper.
 base_lr = LogisticRegression()

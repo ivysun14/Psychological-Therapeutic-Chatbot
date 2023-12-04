@@ -5,18 +5,16 @@ performance metrics are saved in 'naive_bayes_performance.txt'
 '''
 
 import numpy as np
-import pandas
 import pandas as pd
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
 
 
-# define a function that computes the evaluation metrics that we use
-metric_list = ["accuracy", "f1_score", "auroc",
-                "precision", "sensitivity", "specificity"]
 def performance(y_true, y_pred, metric="accuracy"):
     """
+    Taken from SVM script, defines the evaluation metrics used in this project
+
     Inputs:
     @y_true: true labels of each example, of shape (n, )
     @y_pred: predicted labels of each example, of shape (n, )
@@ -44,6 +42,25 @@ def performance(y_true, y_pred, metric="accuracy"):
         score = tn / (tn + fp)
 
     return score
+
+
+def compute_metrics(y_true, y_pred, metric_list):
+    '''
+    Args:
+        y_true: testing label matrix, of shape (n, num_labels)
+        y_pred: predicted label matrix from testing data, of shape (n, num_labels
+        metric_list: a list of strings specifying evaluation metrics
+
+    Returns: a pandas dataframe with specified metrics for each label
+    '''
+    scores = np.zeros((y_true.shape[1], len(metric_list)))
+    for i in range(y_true.shape[1]):
+        for j in range(len(metric_list)):
+            scores[i][j] = performance(y_true[:, i], y_pred[:, i], metric_list[j])
+
+    score = pd.DataFrame(scores, columns=metric_list)
+    return score
+
 
 # define a multinomial naive bayes classifiers that is able to handle multilabel and class priors
 class MultiClassPriorsNB():
@@ -82,12 +99,9 @@ multi_class_priors_nb = MultiClassPriorsNB(class_priors=class_priors)
 multi_class_priors_nb.fit(X_training, y_training)
 y_pred = multi_class_priors_nb.predict(X_testing)
 
-# compute the evaluation metrics
-scores = np.zeros((y_testing.shape[1], len(metric_list)))
-for i in range(y_testing.shape[1]):
-    for j in range(len(metric_list)):
-        scores[i][j] = performance(y_testing[:, i], y_pred[:, i], metric_list[j])
-
-score = pandas.DataFrame(scores, columns=metric_list)
-print(score)
-score.to_csv('naive_bayes_performance.txt', sep='\t', index=False)
+# compute the evaluation metrics and save it as a csv file
+metric_list = ["accuracy", "f1_score", "auroc",
+                "precision", "sensitivity", "specificity"]
+scores = compute_metrics(y_testing, y_pred, metric_list)
+print(scores)
+scores.to_csv('naive_bayes_performance.txt', sep='\t', index=False)
