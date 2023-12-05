@@ -48,7 +48,7 @@ def compute_metrics(y_true, y_pred, metric_list):
     '''
     Args:
         y_true: testing label matrix, of shape (n, num_labels)
-        y_pred: predicted label matrix from testing data, of shape (n, num_labels
+        y_pred: predicted label matrix from testing data, of shape (n, num_labels)
         metric_list: a list of strings specifying evaluation metrics
 
     Returns: a pandas dataframe with specified metrics for each label

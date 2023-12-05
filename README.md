@@ -1,6 +1,6 @@
 # Psychological-Therapeutic-Chatbot
 
-##Update as of Dec. 2, 2023
+##Update as of Dec. 4, 2023
 
 ### Conda Environment Setting:
 
@@ -28,8 +28,14 @@ This is to ensure result reproducibility. Add packages and their versions into t
 - NRC dictionary
 - Concreteness dictionary
 
+**pca/:**
+- Scripts and data related to pca.
+
 **processed/:**
 - Contains processed metadata.json files for Volumn I and Volumn II combined.
+
+**train_test_data/:**
+- Contains the train test split files of stem word & dictionary features and labels.
 
 ### Pipeline description:
 
@@ -50,6 +56,8 @@ This is to ensure result reproducibility. Add packages and their versions into t
 
 - Logistic regression using engineered features (log_reg.py)
 - Linear-kernel and RBF-kernel SVM (SVM_1.py, SVM_2.py)
+- Multinomial naive bayes using naive stem word count features (naive_bayes.py)
+- Decision tree using engineered features to visualize feature importance (decision_tree.py)
 
 ### How to run SVM files:
 

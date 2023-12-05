@@ -6,9 +6,14 @@ from sklearn.multioutput import ClassifierChain
 from sklearn.metrics import jaccard_score
 
 
-X_train = np.loadtxt("training_examples.txt")
+stem = np.loadtxt('feature_matrix_stem.txt')
+train_idx = np.loadtxt('training_example_indices.txt')
+test_idx = np.loadtxt('testing_example_indices.txt')
+train_idx = train_idx.astype(int)
+test_idx = test_idx.astype(int)
+X_train = stem[train_idx, :]
+X_test = stem[test_idx, :]
 y_train = np.loadtxt("training_labels.txt")
-X_test = np.loadtxt("testing_examples.txt")
 y_test = np.loadtxt("testing_labels.txt")
 
 # Fit an independent logistic regression model for each class using the
