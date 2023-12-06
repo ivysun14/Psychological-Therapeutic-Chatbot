@@ -1,6 +1,6 @@
 #################### VARIABLES ####################
 # change this variable to build prediction model for desired symptom label
-target_symptom = "anxiety"
+target_symptom = "frustration"
 
 # define metric list: total 6 metrics we will check
 metric_list = ["accuracy", "f1_score", "auroc",
