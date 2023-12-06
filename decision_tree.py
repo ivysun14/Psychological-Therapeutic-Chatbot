@@ -13,7 +13,7 @@ from sklearn import metrics
 
 # define some global variables, the labels we want to check
 # and the evaluation metrics
-label_names = ['depression']
+label_names = ['frustration']
 
 metric_list = ["accuracy", "f1_score", "auroc",
                 "precision", "sensitivity", "specificity"]
@@ -164,6 +164,7 @@ def feature_importance(label='anxiety'):
             dic_features.append(i)
             print(i)
             print(dic_feature)
+    # np.delete(sorted_idx, 3)
     # plot impurity based importance for the tuned model
     plt.figure(figsize=(10, 6))
     plt.barh(range(10), feature_importance[sorted_idx[:10]], align="center")
