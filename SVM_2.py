@@ -1,11 +1,11 @@
 #################### VARIABLES ####################
 # change this variable to build prediction model for desired symptom label
-target_symptom = "anxiety"
+target_symptom = "depression"
 
 # change this to selected hyperparameters
-optimal_c_linear = 0.001
-optimal_c_rbf = 0.001
-optimal_gamma_rbf = 0.001
+optimal_c_linear = 100000
+optimal_c_rbf = 10000
+optimal_gamma_rbf = 10
 
 # define metric list: total 6 metrics we will check
 metric_list = ["accuracy", "f1_score", "auroc",
