@@ -106,14 +106,14 @@ def tune_decision_tree(X_train, y_train, X_test, y_test, dic, label='anxiety'):
 
     # create the parameter grid based on the results of random search
     random_grid = {
-        'max_depth': [2, 3, 5, 10],
-        #'max_depth': [2],
-        'min_samples_leaf': [5, 10, 20, 50, 100],
-        #'min_samples_leaf': [5],
-        'min_samples_split': [2, 5, 10],
-        #'min_samples_split': [2],
-        'splitter': ["best", "random"],
-        #'splitter': ['best']
+        #'max_depth': [2, 3, 5, 10],
+        'max_depth': [10],
+        #'min_samples_leaf': [5, 10, 20, 50, 100],
+        'min_samples_leaf': [20],
+        #'min_samples_split': [2, 5, 10],
+        'min_samples_split': [2],
+        #'splitter': ["best", "random"],
+        'splitter': ['random']
     }
 
     # instantiate the grid search model
@@ -164,14 +164,16 @@ def feature_importance(label='anxiety'):
             dic_features.append(i)
             print(i)
             print(dic_feature)
-    # np.delete(sorted_idx, 3)
+    np.delete(sorted_idx, 6)
     # plot impurity based importance for the tuned model
-    plt.figure(figsize=(10, 6))
-    plt.barh(range(10), feature_importance[sorted_idx[:10]], align="center")
+    plt.figure(figsize=(12, 8), dpi=300)
+    plt.barh(range(10), feature_importance[sorted_idx[:10]], align="center", color='black')
+    plt.tick_params(axis='y', labelsize=17, rotation=45)
+    plt.tick_params(axis='x', labelsize=17)
     plt.yticks(range(10), feature_names[:10])
-    plt.xlabel("Feature Importance")
-    plt.ylabel("Feature")
-    plt.title("Feature importance in decision tree classifier for " + label)
+    plt.xlabel("Feature Importance", fontsize=15)
+    plt.ylabel("Feature", fontsize=15)
+    plt.tight_layout()
     plt.savefig(f"{label}.png")
 
 
