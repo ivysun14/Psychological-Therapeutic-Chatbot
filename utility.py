@@ -6,19 +6,22 @@ model performance and model outcomes. It contains several graphing functions
 that can be called.
 '''
 
-target_symptom = "anxiety"
-
+from itertools import cycle
+from sklearn.svm import SVC
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
+from sklearn.metrics import roc_curve, auc
 import joblib
 import json
 
+'''
 # Load your pre-trained SVM model and dictionary
 model = joblib.load('results/linear/svm_model_linear.joblib')
 # Define the percentage of the training data to use for each iteration
 train_sizes = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+'''
 
 target_symptom = "anxiety"
 
@@ -47,10 +50,10 @@ y_train = np.loadtxt("training_labels.txt")
 X_test = np.loadtxt("testing_examples.txt")
 y_test = np.loadtxt("testing_labels.txt")
 
-y_train = extract_symptom_labels(y_train, symptoms, symptom=target_symptom)
-y_test = extract_symptom_labels(y_test, symptoms, symptom=target_symptom)
+# Load full original label matrix
+label_matrix = np.loadtxt("label_matrix_merge_with_none.txt")
 
-
+'''
 def plot_metric(metric):
     # Initialize lists to store training and test scores
     train_scores = []
@@ -117,4 +120,105 @@ metric_list = ['accuracy', 'f1_score', "auroc", "precision", "sensitivity", "spe
 for m in metric_list:
     print("Generating plot for ", m)
     plot_metric(m)
+'''
 
+def binary_histogram(label_matrix, symptom_labels):
+    # Count the number of 1s and 0s for each symptom
+    counts_1 = np.sum(label_matrix, axis=0)
+    counts_0 = label_matrix.shape[0] - counts_1
+    # Set up bar positions
+    positions = np.arange(len(symptom_labels))
+
+    # Plot the histogram
+    plt.bar(positions, counts_1, label='1s', color='blue', alpha=0.7)
+    plt.bar(positions, counts_0, bottom=counts_1, label='0s', color='orange', alpha=0.7)
+
+    # Add labels and title
+    plt.xlabel('Psychological Symptoms')
+    plt.ylabel('Frequency')
+    plt.title('Psychological symptom ditribution')
+    # Set x-axis ticks and labels
+    plt.xticks(positions, symptom_labels, rotation=45, ha='right')
+    # Adjust layout to prevent x-axis label cutoff
+    plt.tight_layout()
+    # Add legend
+    plt.legend()
+
+    plt.savefig('label_distribution.png')
+
+
+def plot_multiclass_roc(y_true, y_score, class_names):
+    """
+    Plot ROC curves for a multi-class classification problem.
+
+    Parameters:
+    - y_true: True labels in binary format (0 or 1) for each class.
+    - y_score: Predicted scores for each class.
+    - class_names: List of class names.
+
+    Returns:
+    - None (displays the plot).
+    """
+    # Compute ROC curve and ROC area for each class
+    fpr = {}
+    tpr = {}
+    roc_auc = {}
+
+    for i in range(len(class_names)):
+        fpr[i], tpr[i], _ = roc_curve(y_true[:, i], y_score[:, i])
+        roc_auc[i] = auc(fpr[i], tpr[i])
+
+    # Plot ROC curves
+    plt.figure(figsize=(8, 6))
+
+    colors = cycle(['aqua', 'darkorange', 'cornflowerblue'])
+    for i, color in zip(range(len(class_names)), colors):
+        plt.plot(fpr[i], tpr[i], color=color, lw=2,
+                 label=f'{class_names[i]} (AUC = {roc_auc[i]:.2f})')
+
+    plt.plot([0, 1], [0, 1], 'k--', lw=2)
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title('Receiver Operating Characteristic (ROC) Curve')
+    plt.legend(loc="lower right")
+
+    plt.savefig('svm_auroc.png')
+
+
+# ===========================================================================================
+# Assume have three classifiers clf_anxiety, clf_anger, clf_depression, and X_test, y_test for testing data
+class_names = ['anxiety', 'anger', 'depression','frustration']
+
+# load model and make predictions/probabilities belonging to each class
+clf_anxiety = joblib.load('results_anxiety/linear/svm_model_linear.joblib')
+clf_anger = joblib.load('results_anger/linear/svm_model_linear.joblib')
+clf_depression = joblib.load('results_depression/linear/svm_model_linear.joblib')
+clf_frustration = joblib.load('results_frustration/linear/svm_model_linear.joblib')
+
+y_pred_anxiety = clf_anxiety.decision_function(X_test)
+y_pred_anger = clf_anger.decision_function(X_test)
+y_pred_depression = clf_depression.decision_function(X_test)
+y_pred_frustration = clf_frustration.decision_function(X_test)
+y_pred_combined = np.column_stack((y_pred_anxiety, y_pred_anger, y_pred_depression, y_pred_frustration))
+print(y_pred_combined.shape)
+
+# combine true 0/1 labels for each class
+y_anxiety = extract_symptom_labels(y_test, symptoms, symptom="anxiety")
+y_anger = extract_symptom_labels(y_test, symptoms, symptom="anger")
+y_depression = extract_symptom_labels(y_test, symptoms, symptom="depression")
+y_frustration = extract_symptom_labels(y_test, symptoms, symptom="frustration")
+y_test_combined = np.column_stack((y_anxiety, y_anger, y_depression, y_frustration))
+print(y_test_combined.shape)
+
+# Plot ROC curves
+plot_multiclass_roc(y_test_combined, y_pred_combined, class_names)
+
+# ===========================================================================================
+# Assuming label_matrix with shape (num_samples, num_labels)
+# and symptom_labels is a list of strings representing psychological symptoms
+symptom_labels = ["none","anxiety","depression","low_self_esteem","anger","sadness",
+                  "frustration","emotional_distress","fatigue","physical_issue","sleep_issue",
+                  "suicidal_thoughts","cognitive_issue","mania","hallucination","indifferent","shame"]
+binary_histogram(label_matrix, symptom_labels)
